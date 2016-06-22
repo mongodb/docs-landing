@@ -12,30 +12,10 @@ CSS_WARNINGS=regex-selectors,unqualified-attributes,text-indent
 help:
 	@echo 'Targets'
 	@echo '  help         - Show this help message'
-	@echo '  stage        - Host online for review'
-	@echo '  fake-deploy  - Create a fake deployment in the staging bucket'
-	@echo '  deploy       - Deploy into production'
 	@echo '  lint         - Check the CSS'
 	@echo ''
 	@echo 'Variables'
 	@echo '  ARGS         - Arguments to pass to mut-publish'
-
-stage: build-temp
-	mut-publish build-temp/ docs-mongodb-org-staging --prefix=${PREFIX} --stage ${ARGS}
-	@echo "Hosted at ${URL}/${PREFIX}/${USER}/${GIT_BRANCH}/index.html"
-
-fake-deploy: build-temp
-	mut-publish build-temp/ docs-mongodb-org-staging --prefix=${PREFIX} --deploy ${ARGS}
-	@echo "Hosted at ${URL}/${PREFIX}/index.html"
-
-deploy: build-temp
-	mut-publish build-temp/ ${PRODUCTION_BUCKET} --prefix='/' --deploy --dry-run --verbose ${ARGS}
-
-	@echo ''
-	read -p "Press any key to perform the previous"
-	mut-publish build-temp/ ${PRODUCTION_BUCKET} --prefix='/' --deploy ${ARGS}
-
-	@echo "Deployed"
 
 build-temp: style.min.css header.js
 	rm -rf $@
