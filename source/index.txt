@@ -74,7 +74,7 @@ Get started with MongoDB
       Create an application quickly with no need to set up server
       infrastructure.
 
-Learn through examples and best practices
+Learn through examples and best practices
 -----------------------------------------
 
 Zoe works at a university that uses MongoDB to store student records.
