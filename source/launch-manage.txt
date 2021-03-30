@@ -1,0 +1,45 @@
+:template: homepage
+
+=======================
+Launch & Manage MongoDB
+=======================
+
+.. ia::
+
+   .. entry:: Atlas
+      :url: https://docs.atlas.mongodb.com/
+      :project-name: cloud-docs
+      :primary:
+
+   .. entry:: Atlas Open Service Broker
+      :url: https://docs.mongodb.com/atlas-open-service-broker/
+      :project-name: atlas-open-service-broker
+      :primary:
+
+   .. entry:: Cloud Manager
+      :url: https://docs.cloudmanager.mongodb.com
+      :primary:
+
+   .. entry:: Database Tools
+      :url: https://docs.mongodb.com/database-tools/
+      :project-name: database-tools
+      :primary:
+
+   .. entry:: MongoDB CLI
+      :url: https://docs.mongodb.com/mongocli/stable/
+      :project-name: mongocli
+      :primary:
+
+   .. entry:: MongoDB Kubernetes Operators
+      :url: https://docs.mongodb.com/kubernetes-operator/stable/
+      :primary:
+
+   .. entry:: MongoDB Manual
+      :url: https://docs.mongodb.com/manual/
+      :project-name: docs
+
+   .. entry:: Ops Manager
+      :url: https://docs.opsmanager.mongodb.com/current/
+      :primary:
+
+Find documentation that will help you launch and manage MongoDB.

@@ -1,0 +1,30 @@
+:template: homepage
+
+====================
+Develop Applications
+====================
+
+.. ia::
+
+   .. entry:: Drivers
+      :url: https://docs.mongodb.com/drivers/
+      :project-name: drivers
+      :primary:
+
+   .. entry:: MongoDB for VS Code
+      :url: https://docs.mongodb.com/mongodb-vscode/
+      :project-name: mongodb-vscode
+      :primary:
+
+   .. entry:: MongoDB Manual
+      :url: https://docs.mongodb.com/manual/
+      :project-name: docs
+      :primary:
+
+   .. entry:: MongoDB Realm
+      :url: https://docs.mongodb.com/realm/
+      :project-name: realm
+      :primary:
+
+Find documentation that will help you build your application from beginning to end.
+

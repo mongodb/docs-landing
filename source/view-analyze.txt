@@ -1,0 +1,50 @@
+:template: homepage
+
+===================
+View & Analyze Data
+===================
+
+.. ia::
+
+   .. entry:: Atlas
+      :url: https://docs.atlas.mongodb.com/
+      :project-name: cloud-docs
+
+   .. entry:: Atlas Data Lake
+      :url: https://docs.mongodb.com/datalake/
+      :project-name: datalake
+      :primary:
+
+   .. entry:: Atlas Search
+      :url: https://docs.atlas.mongodb.com/atlas-search/
+      :primary:
+
+   .. entry:: BI Connector
+      :url: https://docs.mongodb.com/bi-connector/current/
+      :project-name: bi-connector
+      :primary:
+
+   .. entry:: Charts
+      :url: https://docs.mongodb.com/charts/saas/
+      :project-name: charts
+      :primary:
+
+   .. entry:: Compass
+      :url: https://docs.mongodb.com/compass/current/
+      :project-name: compass
+      :primary:
+
+   .. entry:: Kafka Connector
+      :url: https://docs.mongodb.com/kafka-connector/current/
+      :project-name: kafka-connector
+      :primary:
+
+   .. entry:: MongoDB Shell
+      :url: https://docs.mongodb.com/mongodb-shell/
+      :project-name: mongodb-shell
+      :primary:
+
+   .. entry:: Spark Connector
+      :url: https://docs.mongodb.com/spark-connector/current/
+      :project-name: spark-connector
+      :primary:
