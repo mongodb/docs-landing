@@ -1,5 +1,6 @@
 :template: landing
 :hidefeedback: header
+:nav-show-all-products: true
 
 ====================================
 Welcome to the MongoDB Documentation
