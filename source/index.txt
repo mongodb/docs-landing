@@ -1,5 +1,6 @@
 :template: landing
 :hidefeedback: header
+:title: Docs Home
 
 ====================================
 Welcome to the MongoDB Documentation
