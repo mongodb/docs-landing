@@ -1,5 +1,4 @@
 :noprevnext:
-:breadcrumbs-page-title:
 
 ===================
 View & Analyze Data

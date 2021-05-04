@@ -28,7 +28,7 @@ Welcome to the MongoDB Documentation
    visualize data, and build applications on the MongoDB data platform.
 
 .. image:: /images/homepage-hero.png
-   :class: right-column
+   :class: hero-img
    :alt: Homepage illustration
 
 .. card-group::
