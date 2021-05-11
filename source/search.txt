@@ -1,3 +1,4 @@
-:template: blank
+:template: landing
+:nav-show-all-products: true
 
 .. search-results::
