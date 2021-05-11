@@ -1,6 +1,7 @@
 :template: landing
 :hidefeedback: header
 :nav-show-all-products: true
+:title: Docs Home
 
 ====================================
 Welcome to the MongoDB Documentation
@@ -33,6 +34,7 @@ Welcome to the MongoDB Documentation
 
 .. card-group::
    :columns: 3
+   :layout: carousel
 
    .. card::
       :headline: Run a self-managed database
@@ -120,6 +122,7 @@ Community.
 
 .. card-group::
    :columns: 2
+   :layout: carousel
 
    .. card::
       :headline: Free Online Courses on MongoDB University
