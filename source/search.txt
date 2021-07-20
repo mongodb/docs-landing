@@ -1,5 +1,6 @@
 :template: landing
 :nav-show-all-products: true
+:title: Docs Home
 
 .. ia::
 
