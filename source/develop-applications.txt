@@ -80,5 +80,5 @@ distributed database built for application developers.
       :icon: /images/icons/analyzer.svg
       :icon-alt: MongoDB Analyzer LogoMark
 
-      Understand how your MongoDB .NET driver code translates into the
-      MongoDB Query API.
+      Understand and troubleshoot queries and aggregations directly inside
+      Visual Studio and other tools.
