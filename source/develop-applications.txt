@@ -27,7 +27,7 @@ Develop Applications
       :primary:
 
    .. entry:: MongoDB Analyzer
-      :url: https://docs.mongodb.com/mongodb-analyzer/
+      :url: https://docs.mongodb.com/mongodb-analyzer/current/
       :project-name: mongodb-analyzer
       :primary:
 
@@ -76,7 +76,7 @@ distributed database built for application developers.
 
    .. card::
       :headline: MongoDB Analyzer
-      :url: https://docs.mongodb.com/mongodb-analyzer/
+      :url: https://docs.mongodb.com/mongodb-analyzer/current/
       :icon: /images/icons/analyzer.svg
       :icon-alt: MongoDB Analyzer LogoMark
 
