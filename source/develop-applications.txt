@@ -80,5 +80,5 @@ distributed database built for application developers.
       :icon: /images/icons/analyzer.svg
       :icon-alt: MongoDB Analyzer LogoMark
 
-      Understand how your MongoDB .NET Driver code translates into the
+      Understand how your MongoDB .NET driver code translates into the
       MongoDB Query API.
