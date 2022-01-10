@@ -73,3 +73,12 @@ distributed database built for application developers.
 
       Discover the mobile database & tools to build serverless apps, sync
       across devices, and authenticate users.
+
+   .. card::
+      :headline: MongoDB Analyzer
+      :url: https://docs.mongodb.com/mongodb-analyzer/
+      :icon: /images/icons/analyzer.svg
+      :icon-alt: MongoDB Analyzer LogoMark
+
+      Understand how your MongoDB .NET Driver code translates into the
+      MongoDB Query API.
