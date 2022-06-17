@@ -85,7 +85,7 @@ Welcome to the MongoDB Documentation
    .. card::
       :headline: Build a mobile app
       :cta: Get started with MongoDB Realm
-      :url: https://docs.mongodb.com/realm/
+      :url: https://docs.mongodb.com/atlas/app-services
       :icon: /images/icons/realm.svg
       :icon-alt: MongoDB Realm icon
 
