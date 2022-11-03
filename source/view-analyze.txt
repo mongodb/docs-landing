@@ -96,8 +96,8 @@ and data science tools.
       :icon: /images/icons/data-lake.svg
       :icon-alt: Atlas Data Lake LogoMark
 
-      Utilize Data Lake to create analytic optimized copies of your
-      Atlas Cluster data with complete workload isolation.
+      Use Data Lake to create analytic optimized copies of
+      your data with complete workload isolation.
 
    .. card::
       :headline: Atlas SQL
@@ -106,7 +106,7 @@ and data science tools.
       :icon-alt: Atlas SQL LogoMark
 
       Create and run SQL queries to visualize, graph, and report on your
-      Atlas data using relational business intelligence tools.
+      data using relational business intelligence tools.
 
    .. card::
       :headline: BI Connector
