@@ -15,14 +15,14 @@ View & Analyze Data
       :project-name: data-federation
       :primary:
 
-   .. entry:: Atlas Search
-      :url: https://www.mongodb.com/docs/atlas/atlas-search/
-      :project-name: atlas-search
-      :primary:
-
    .. entry:: Atlas Data Lake
       :url: https://www.mongodb.com/docs/datalake/
       :project-name: datalake
+      :primary:
+
+   .. entry:: Atlas Search
+      :url: https://www.mongodb.com/docs/atlas/atlas-search/
+      :project-name: atlas-search
       :primary:
 
    .. entry:: Atlas SQL
@@ -69,8 +69,8 @@ and data science tools.
       :icon: /images/icons/atlas.svg
       :icon-alt: Atlas LogoMark
 
-      Discover how to query and update data from within Atlas, MongoDB's fully
-      managed cloud database.
+      Discover how to query and update data from within Atlas, MongoDB's
+      fully managed cloud database.
 
    .. card::
       :headline: Atlas Data Federation
@@ -78,17 +78,8 @@ and data science tools.
       :icon: /images/icons/data-federation.svg
       :icon-alt: Atlas Data Federation LogoMark
 
-      Query and analyze data across Atlas Clusters, Amazon S3 Buckets,
-      and Atlas Data Lake Datasets with the MongoDB Query Language. 
-
-   .. card::
-      :headline: Atlas Search
-      :url: https://www.mongodb.com/docs/atlas/atlas-search/
-      :icon: /images/icons/text-search.svg
-      :icon-alt: Atlas Search LogoMark
-
-      Build fast, relevant, full-text search capabilities on top of your data in
-      the cloud.
+      Query and analyze data across Atlas Clusters, S3 Buckets,
+      and Data Lake Datasets with the MongoDB Query Language. 
 
    .. card::
       :headline: Atlas Data Lake
@@ -96,8 +87,17 @@ and data science tools.
       :icon: /images/icons/data-lake.svg
       :icon-alt: Atlas Data Lake LogoMark
 
-      Use Data Lake to create analytic optimized copies of
-      your data with complete workload isolation.
+      Use Data Lake to create analytic optimized copies of your
+      data with complete workload isolation.
+
+   .. card::
+      :headline: Atlas Search
+      :url: https://www.mongodb.com/docs/atlas/atlas-search/
+      :icon: /images/icons/text-search.svg
+      :icon-alt: Atlas Search LogoMark
+
+      Build fast, relevant, full-text search capabilities on top of your
+      data in the cloud.
 
    .. card::
       :headline: Atlas SQL
