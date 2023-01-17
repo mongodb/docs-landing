@@ -14,7 +14,7 @@
       :url: /view-analyze
 
    .. entry:: Start with Guides
-      :url: https://docs.mongodb.com/guides
+      :url: https://www.mongodb.com/docs/guides/?_ga=2.213835408.56545600.1669650448-540014133.1667334670
       :project-name: guides
 
 
