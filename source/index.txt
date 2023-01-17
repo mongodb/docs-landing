@@ -135,7 +135,7 @@ Community.
    .. card::
       :headline: Collaborative Community Forums
       :cta: Join our Community
-      :url: https://www.mongodb.com/docs/atlas/app-services/
+      :url: https://www.mongodb.com/community/forums/
       :icon: /images/icons/ask-the-experts.svg
       :icon-alt: MongoDB Ask The Experts icon
       
