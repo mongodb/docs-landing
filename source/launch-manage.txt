@@ -60,8 +60,8 @@ databases.
       :icon: /images/icons/mcli.svg
       :icon-alt: MongoDB CLI LogoMark
 
-      Use the command line to interact with or automate management tasks for
-      databases in the Atlas cluster.
+      Use the command line to get started with a free MongoDB Atlas
+      cluster and manage it throughout the development lifecycle.
 
    .. card::
       :headline: MongoDB Manual
