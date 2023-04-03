@@ -22,7 +22,7 @@ Welcome to the MongoDB Documentation
       :url: https://www.mongodb.com/docs/drivers/
       
    .. entry:: Tools & Connectors
-      :url: https://www.mongodb.com/docs/tools-and-connectors/
+      :url: /tools-and-connectors
 
 .. introduction::
 
@@ -78,6 +78,8 @@ Welcome to the MongoDB Documentation
    .. card::
       :headline: Management Tools and Connectors
       :url: https://www.mongodb.com/docs/tools-and-connectors/
+      :icon: /images/icons/vscode.svg
+      :icon-alt: VS Code LogoMark
 
       Tools for developing within MongoDB, working with MongoDB data,
       and integrating MongoDB with other systems.
