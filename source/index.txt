@@ -84,13 +84,11 @@ Welcome to the MongoDB Documentation
       Tools for developing within MongoDB, working with MongoDB data,
       and integrating MongoDB with other systems.
 
-Learn through examples and best practices
------------------------------------------
+New to MongoDB?
+---------------
 
-Zoe works at a university that uses MongoDB to store student records.
-Since her background is in SQL, Zoe reads the
-:manual:`MongoDB Manual </>` to learn how to build queries using the
-MongoDB Shell.
+If you're completely new to MongoDB, these resources will help
+you learn.
 
 .. cta::
 
@@ -116,8 +114,7 @@ Community.
 
    .. card::
       :headline: Free Online Courses on MongoDB University
-      :cta: Get started on MongoDB University
-      :url: http://university.mongodb.com/?tck=docs_landing
+      :url: https://learn.mongodb.com/?tck=docs_landing
       :icon: /images/icons/university.svg
       :icon-alt: MongoDB University icon
       
@@ -125,11 +122,10 @@ Community.
       videos on University.
 
    .. card::
-      :headline: Collaborative Community Forums
-      :cta: Join our Community
-      :url: https://www.mongodb.com/community/forums/
+      :headline: MongoDB Developer Center
+      :url: https://www.mongodb.com/developer
       :icon: /images/icons/ask-the-experts.svg
-      :icon-alt: MongoDB Ask The Experts icon
+      :icon-alt: MongoDB "Ask The Experts" icon
       
-      Learn and build relationships with like-minded developers using
-      MongoDB.
+      Tutorials, videos, and code examples from MongoDB experts
+      using your languages and tools.
