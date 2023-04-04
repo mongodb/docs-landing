@@ -110,4 +110,4 @@ you learn.
       :icon-alt: MongoDB "Ask The Experts" icon
       
       Tutorials, videos, and code examples from MongoDB experts
-      using your languages and tools.
+      using your programming languages and favorite technologies.
