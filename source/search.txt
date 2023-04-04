@@ -10,14 +10,14 @@
    .. entry:: MongoDB Database Manual
       :url: https://www.mongodb.com/docs/manual/
 
-   .. entry:: Realm
-      :url: https://www.mongodb.com/docs/realm/
-
    .. entry:: Client Libraries
       :url: https://www.mongodb.com/docs/drivers/
       
    .. entry:: Management Tools and Connectors
       :url: /tools-and-connectors
+
+   .. entry:: Realm
+      :url: https://www.mongodb.com/docs/realm/
 
 
 .. search-results::
