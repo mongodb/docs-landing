@@ -21,7 +21,7 @@ Welcome to the MongoDB Documentation
    .. entry:: Client Libraries
       :url: https://www.mongodb.com/docs/drivers/
       
-   .. entry:: Tools & Connectors
+   .. entry:: Management Tools and Connectors
       :url: /tools-and-connectors
 
 .. introduction::
@@ -48,7 +48,7 @@ Welcome to the MongoDB Documentation
       build with data. Available on AWS, Google Cloud, and Microsoft Azure.
 
    .. card::
-      :headline: MongoDB Database
+      :headline: MongoDB Database Manual
       :url: https://www.mongodb.com/docs/manual/
       :icon: /images/icons/server.svg
       :icon-alt: MongoDB Server icon

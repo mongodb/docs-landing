@@ -16,7 +16,7 @@
    .. entry:: Client Libraries
       :url: https://www.mongodb.com/docs/drivers/
       
-   .. entry:: Tools & Connectors
+   .. entry:: Management Tools and Connectors
       :url: /tools-and-connectors
 
 
