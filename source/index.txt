@@ -90,24 +90,6 @@ New to MongoDB?
 If you're completely new to MongoDB, these resources will help
 you learn.
 
-.. cta::
-
-   :manual:`Read the Introduction to MongoDB </introduction>`
-
-.. image:: /images/mdb-vs-sql.png
-   :alt: Diagram illustrating the differences between MongoDB and SQL 
-   :class: show-medium-and-up span-columns
-
-.. image:: /images/mdb-vs-sql-mobile.png
-   :alt: Diagram illustrating the differences between MongoDB and SQL 
-   :class: hide-medium-and-up
-
-Continue learning
------------------
-
-Find more resources and support in MongoDB University and the  MongoDB
-Community.
-
 .. card-group::
    :columns: 2
    :layout: carousel
