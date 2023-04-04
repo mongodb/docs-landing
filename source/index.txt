@@ -15,7 +15,7 @@ Welcome to the MongoDB Documentation
    .. entry:: MongoDB Database Manual
       :url: https://www.mongodb.com/docs/manual/
 
-   .. entry:: MongoDB Realm
+   .. entry:: Realm
       :url: https://www.mongodb.com/docs/realm/
 
    .. entry:: Client Libraries
@@ -58,7 +58,7 @@ Welcome to the MongoDB Documentation
       administration.
 
    .. card::
-      :headline: MongoDB Realm
+      :headline: Realm
       :url: https://www.mongodb.com/docs/realm/
       :icon: /images/icons/realm.svg
       :icon-alt: MongoDB Realm icon

@@ -10,7 +10,7 @@
    .. entry:: MongoDB Database Manual
       :url: https://www.mongodb.com/docs/manual/
 
-   .. entry:: MongoDB Realm
+   .. entry:: Realm
       :url: https://www.mongodb.com/docs/realm/
 
    .. entry:: Client Libraries
