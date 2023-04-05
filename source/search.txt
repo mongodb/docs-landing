@@ -13,7 +13,7 @@
    .. entry:: Client Libraries
       :url: https://www.mongodb.com/docs/drivers/
       
-   .. entry:: Management Tools and Connectors
+   .. entry:: Tools and Connectors
       :url: /tools-and-connectors
 
    .. entry:: Realm

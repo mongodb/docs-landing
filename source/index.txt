@@ -18,7 +18,7 @@ Welcome to the MongoDB Documentation
    .. entry:: Client Libraries
       :url: https://www.mongodb.com/docs/drivers/
       
-   .. entry:: Management Tools and Connectors
+   .. entry:: Tools and Connectors
       :url: /tools-and-connectors
 
    .. entry:: Realm
@@ -67,7 +67,7 @@ Welcome to the MongoDB Documentation
       Javascript, Typescript, Java, C#, Ruby, PHP, Go, and Rust.
 
    .. card::
-      :headline: Management Tools and Connectors
+      :headline: Tools and Connectors
       :url: /tools-and-connectors
       :icon: /images/icons/vscode.svg
       :icon-alt: VS Code LogoMark
