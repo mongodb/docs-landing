@@ -55,9 +55,7 @@ View & Analyze Data
       :project-name: spark-connector
       :primary:
 
-Discover ways to interact with your MongoDB data using a command-line interface,
-visual user interface, or a connector to integrate with Business Intelligence
-and data science tools.
+Discover stuff!!.
 
 .. card-group::
    :columns: 2
