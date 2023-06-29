@@ -3,7 +3,6 @@
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata></metadata>
 <defs>
-<font id="akzidenz-grotesk_std_regulaIt" horiz-adv-x="1110" >
 <font-face units-per-em="2048" ascent="1536" descent="-512" />
 <missing-glyph horiz-adv-x="555" />
 <glyph unicode="&#xfb01;" horiz-adv-x="1024" d="M111 0l194 842h-153l28 123h152l61 266q53 233 236 233q35 0 72 -8t49 -14l-29 -123q-44 8 -76 8q-45 0 -64.5 -27.5t-35.5 -99.5l-56 -235h173l-27 -123h-174l-195 -842h-155zM639 0l223 965h162l-221 -965h-164zM928 1262l43 184h168l-43 -184h-168z" />
