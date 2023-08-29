@@ -186,16 +186,16 @@ MongoDB Documentation
    .. code-block:: python
       :copyable: true
       
-      include datetime
+      import datetime
       personDocument = {
          "name": { "first": "Alan", "last": "Turing" },
-         "birth": datetime.datetime(1922, 6, 23),
+         "birth": datetime.datetime(1912, 6, 23),
       }
 
 More ways to learn
 ------------------
 
-.. landing:more-ways:: Connecting to a Cluster
+.. landing:more-ways:: Getting Started with Atlas
 
    In this MongoDB University video, learn how to connect to a cluster 
    efficiently. Explore connection methods, replica sets, and sharded 
