@@ -195,7 +195,9 @@ MongoDB Documentation
 More ways to learn
 ------------------
 
-.. landing:more-ways:: Getting Started with Atlas
+.. video:: wistiathing
+
+.. landing:more-ways:: Connecting to a Cluster
 
    In this MongoDB University video, learn how to connect to a cluster 
    efficiently. Explore connection methods, replica sets, and sharded 
@@ -205,8 +207,6 @@ More ways to learn
    .. cta::
    
       `Continue on to MongoDB University <https://learn.mongodb.com>`__
-   
-   .. video:: wistiathing
 
 .. card-group::
    :columns: 3
