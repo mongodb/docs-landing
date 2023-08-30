@@ -3,8 +3,6 @@
 :nav-show-all-products: true
 :title: Docs Home
 
-.. --> chatbot part of template ?
-
 =====================
 MongoDB Documentation
 =====================
@@ -16,9 +14,6 @@ MongoDB Documentation
 
    .. entry:: MongoDB Database Manual
       :url: https://www.mongodb.com/docs/manual/
-
-   .. entry:: Realm
-      :url: https://www.mongodb.com/docs/realm/
 
    .. entry:: Tools and Connectors
       :url: /tools-and-connectors
@@ -32,7 +27,7 @@ MongoDB Documentation
    database and data services that accelerate and simplify how you 
    build with data. Available on AWS, Google Cloud, and Microsoft Azure.
 
-   .. button:: Get Started
+   .. button:: Get Started with Atlas
       :uri: https://www.mongodb.com/docs/atlas/getting-started/
 
    .. image:: /images/homepage-hero.svg
@@ -61,15 +56,6 @@ MongoDB Documentation
       .. cta::
 
          :manual:`View MongoDB Database Manual </>`
-
-   .. landing:product:: Realm
-      :icon: /images/Tecnical_REALM_Mobile.svg
-
-      Words.
-
-      .. cta::
-
-         :realm:`Build mobile applications with Realm </>`
    
    .. landing:product:: Tools and Connectors
       :icon: /images/General_FEATURES_Tools.svg
