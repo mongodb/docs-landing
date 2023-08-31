@@ -67,10 +67,10 @@ MongoDB Documentation
          :doc:`Explore Tools and Connectors </tools-and-connectors>`
 
 .. landing:client-libraries:: Client Libraries
-   :sidelinktext: View all
-   :sidelinkurl: https://www.mongodb.com/docs/drivers/
+   :cta: View all
+   :url: https://www.mongodb.com/docs/drivers/
 
-.. landing:card-group::
+.. card-group::
    :columns: 4
    :layout: default
    :type: drivers
