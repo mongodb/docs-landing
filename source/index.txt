@@ -37,7 +37,8 @@ MongoDB Documentation
 .. landing:products::
 
    .. landing:product:: Atlas
-      :icon: /images/Technical_ATLAS_Serverless.svg
+      :icon: /images/technical-atlas-serverless.svg
+      :icon-alt: Atlas
 
       Multi-cloud developer data platform that provides database 
       and data services that accelerate and simplify how you build 
@@ -48,7 +49,8 @@ MongoDB Documentation
          :atlas:`Deploy cloud database with Atlas </>`
 
    .. landing:product:: MongoDB Database Manual
-      :icon: /images/Technical_MDB_Shell.svg
+      :icon: /images/technical-mdb-shell.svg
+      :icon-alt: MongoDB Database Manual
 
       Learn MongoDB database fundamentals like query, aggregation, sharding,
       and on premises administration.
@@ -58,7 +60,8 @@ MongoDB Documentation
          :manual:`View MongoDB Database Manual </>`
    
    .. landing:product:: Tools and Connectors
-      :icon: /images/General_FEATURES_Tools.svg
+      :icon: /images/general-features-tools.svg
+      :icon-alt: Tools and Connectors
 
       Tools for developing within MongoDB, working with MongoDB data, and integrating MongoDB with other systems.
 
@@ -79,85 +82,79 @@ MongoDB Documentation
    .. card::
       :headline: C
       :url: https://www.mongodb.com/docs/drivers/c/
-      :icon: /icons/c.svg
+      :icon: /images/icons/c.svg
       :icon-alt: C Driver icon
 
    .. card::
       :headline: C++
       :url: https://www.mongodb.com/docs/drivers/cxx/
-      :icon: /icons/c++.svg
+      :icon: /images/icons/c++.svg
       :icon-alt: C plus plus Driver icon
 
    .. card::
       :headline: C#
       :url: https://www.mongodb.com/docs/drivers/csharp/current/
-      :icon: /icons/csharp.svg
+      :icon: /images/icons/csharp.svg
       :icon-alt: C sharp Driver icon
 
    .. card::
       :headline: Go
       :url: https://www.mongodb.com/docs/drivers/go/current/
-      :icon: /icons/go.svg
+      :icon: /images/icons/go.svg
       :icon-alt: Go Driver icon
 
    .. card::
       :headline: Java
       :url: https://www.mongodb.com/docs/drivers/java-drivers/
-      :icon: /icons/java.svg
+      :icon: /images/icons/java.svg
       :icon-alt: Java Driver icon
-   
-   .. card::
-      :headline: Kotlin
-      :url: https://www.mongodb.com/docs/drivers/kotlin-drivers/
-      :icon: /icons/kotlin.svg
-      :icon-alt: Kotlin Driver icon
    
    .. card::
       :headline: Node.js
       :url: https://www.mongodb.com/docs/drivers/node/current/
-      :icon: /icons/node.svg
+      :icon: /images/icons/node.svg
       :icon-alt: Node Driver icon
 
    .. card::
       :headline: PHP
       :url: https://www.mongodb.com/docs/drivers/php/
-      :icon: /icons/php.svg
+      :icon: /images/icons/php.svg
       :icon-alt: PHP Driver icon
 
    .. card::
       :headline: Python
       :url: https://www.mongodb.com/docs/drivers/python/
-      :icon: /icons/python.svg
+      :icon: /images/icons/python.svg
       :icon-alt: Python Driver icon
    
    .. card::
       :headline: Ruby
       :url: https://www.mongodb.com/docs/drivers/ruby/
-      :icon: /icons/ruby.svg
+      :icon: /images/icons/ruby.svg
       :icon-alt: Ruby Driver icon
 
    .. card::
       :headline: Rust
       :url: https://www.mongodb.com/docs/drivers/rust/
-      :icon: /icons/rust.svg
+      :icon: /images/icons/rust.svg
       :icon-alt: Rust Driver icon
 
    .. card::
       :headline: Scala
       :url: https://www.mongodb.com/docs/drivers/scala/
-      :icon: /icons/scala.svg
+      :icon: /images/icons/scala.svg
       :icon-alt: Scala Driver icon
 
    .. card::
       :headline: Swift
       :url: https://www.mongodb.com/docs/drivers/swift/
-      :icon: /icons/swift.svg
+      :icon: /images/icons/swift.svg
       :icon-alt: Swift Driver icon
 
    .. card::
       :headline: TypeScript
       :url: https://www.mongodb.com/docs/drivers/typescript/
-      :icon: /icons/ts.svg
+      :icon: /images/icons/ts.svg
       :icon-alt: TypeScript Driver icon
 
 .. landing:explore:: Explore the Document Model
@@ -199,19 +196,19 @@ More ways to learn
    :style: compact
 
    .. card::
-      :icon: /images/General_CONTENT_Learn.svg
+      :icon: /images/general-content-learn.svg
       :headline: Become MongoDB Certified
       :cta: MongoDB Certifications
       :url: https://learn.mongodb.com/pages/certification-program
    
    .. card::
-      :icon: /images/General_CONTENT_Community.svg
+      :icon: /images/general-content-community.svg
       :headline: Join Forums and Discussions
       :cta: MongoDB Community
       :url: https://www.mongodb.com/community/
    
    .. card::
-      :icon: /images/Technical_MDB_DevHub
+      :icon: /images/technical-mdb-devhub.svg
       :headline: View Developer Resources
       :cta: Developer Center
       :url: https://www.mongodb.com/developer/
