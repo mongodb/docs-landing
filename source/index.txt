@@ -112,3 +112,22 @@ you learn.
       
       Tutorials, videos, and code examples from MongoDB experts
       using your programming languages and favorite technologies.
+      Learn and build relationships with like-minded developers using
+      MongoDB.
+
+
+
+More ways to learn
+------------------
+
+.. landing:more-ways:: Connecting to a Cluster
+   :video_url: https://www.youtube.com/watch?v=Wt_f3-1GxH0&ab_channel=MongoDB
+   
+   In this MongoDB University video, learn how to connect to a cluster 
+   efficiently. Explore connection methods, replica sets, and sharded 
+   clusters, gaining insights into managing and optimizing cluster 
+   connections for seamless and scalable data operations.
+
+   .. cta::
+   
+      `Continue on to MongoDB University <https://learn.mongodb.com>`__
