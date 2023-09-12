@@ -1,4 +1,4 @@
-:template: landing
+:template: search
 :nav-show-all-products: true
 :title: Docs Home
 
