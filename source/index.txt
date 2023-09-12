@@ -171,34 +171,18 @@ MongoDB Documentation
    .. code-block:: python
       :copyable: true
       
-<<<<<<< HEAD
-      Tutorials, videos, and code examples from MongoDB experts
-      using your programming languages and favorite technologies.
-      Learn and build relationships with like-minded developers using
-      MongoDB.
-
-
-=======
       import datetime
       personDocument = {
          "name": { "first": "Alan", "last": "Turing" },
          "birth": datetime.datetime(1912, 6, 23),
       }
->>>>>>> newhomepagewhodis
 
 More ways to learn
 ------------------
 
-<<<<<<< HEAD
 .. landing:more-ways:: Connecting to a Cluster
    :video_url: https://www.youtube.com/watch?v=Wt_f3-1GxH0&ab_channel=MongoDB
    
-=======
-.. video:: wistiathing
-
-.. landing:more-ways:: Connecting to a Cluster
-
->>>>>>> newhomepagewhodis
    In this MongoDB University video, learn how to connect to a cluster 
    efficiently. Explore connection methods, replica sets, and sharded 
    clusters, gaining insights into managing and optimizing cluster 
@@ -207,8 +191,6 @@ More ways to learn
    .. cta::
    
       `Continue on to MongoDB University <https://learn.mongodb.com>`__
-<<<<<<< HEAD
-=======
 
 .. card-group::
    :columns: 3
@@ -231,4 +213,3 @@ More ways to learn
       :headline: View Developer Resources
       :cta: Developer Center
       :url: https://www.mongodb.com/developer/
->>>>>>> newhomepagewhodis
