@@ -180,10 +180,9 @@ MongoDB Documentation
 More ways to learn
 ------------------
 
-.. video:: wistiathing
-
 .. landing:more-ways:: Connecting to a Cluster
-
+   :video_url: https://www.youtube.com/watch?v=Wt_f3-1GxH0&ab_channel=MongoDB
+   
    In this MongoDB University video, learn how to connect to a cluster 
    efficiently. Explore connection methods, replica sets, and sharded 
    clusters, gaining insights into managing and optimizing cluster 
