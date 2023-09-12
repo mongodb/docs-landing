@@ -19,6 +19,7 @@ MongoDB Documentation
       :url: /tools-and-connectors
 
    .. entry:: Client Libraries
+      :id: client-libraries
       :url: https://www.mongodb.com/docs/drivers/
 
 .. landing:introduction:: Developer Data Platform
@@ -76,6 +77,7 @@ MongoDB Documentation
 .. card-group::
    :columns: 4
    :layout: default
+   :ia-entry-id: client-libraries
    :type: drivers
    :style: extra-compact
 
