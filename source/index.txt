@@ -90,7 +90,7 @@ MongoDB Documentation
    .. card::
       :headline: C++
       :url: https://www.mongodb.com/docs/drivers/cxx/
-      :icon: /images/icons/c++.svg
+      :icon: /images/icons/cpp.svg
       :icon-alt: C plus plus Driver icon
 
    .. card::
