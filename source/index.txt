@@ -117,8 +117,8 @@ MongoDB Documentation
    
    .. card::
       :headline: Kotlin
-      :url: /kotlin-drivers/
-      :icon: /icons/kotlin.svg
+      :url: https://www.mongodb.com/docs/drivers/kotlin-drivers/
+      :icon: /images/icons/kotlin.svg
       :icon-alt: Kotlin Driver icon
 
    .. card::
