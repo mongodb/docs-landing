@@ -204,7 +204,6 @@ More ways to learn
 
 .. card-group::
    :columns: 3
-   :style: compact
 
    .. card::
       :icon: /images/general-content-learn.svg
