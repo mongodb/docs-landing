@@ -116,6 +116,12 @@ MongoDB Documentation
       :icon-alt: Java Driver icon
    
    .. card::
+      :headline: Kotlin
+      :url: /kotlin-drivers/
+      :icon: /icons/kotlin.svg
+      :icon-alt: Kotlin Driver icon
+
+   .. card::
       :headline: Node.js
       :url: https://www.mongodb.com/docs/drivers/node/current/
       :icon: /images/icons/node.svg
