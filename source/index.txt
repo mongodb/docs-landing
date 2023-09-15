@@ -1,5 +1,5 @@
 :template: landing
-:hidefeedback: header
+:hidefeedback: page
 :nav-show-all-products: true
 :title: Docs Home
 
