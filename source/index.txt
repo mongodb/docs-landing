@@ -23,11 +23,10 @@ MongoDB Documentation
       :url: https://www.mongodb.com/docs/drivers/
 
 
-
-.. landing:introduction:: Developer Data Platform
-
 .. STRICT structure of:
 .. title argument, and 3 elements in content block (paragraph, cta, hero)
+
+.. landing:introduction:: Developer Data Platform
 
    MongoDB offers a multi-cloud developer data platform that provides 
    database and data services that accelerate and simplify how you 
