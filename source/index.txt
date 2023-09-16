@@ -181,7 +181,7 @@ MongoDB Documentation
       :uri: https://www.mongodb.com/docs/manual/tutorial/getting-started/
 
    .. code-block:: sh
-      :copyable: false
+      :copyable: true
       
       db.people.insertOne({
          name: { first: 'Alan', last: 'Turing' },
@@ -222,6 +222,6 @@ More Ways to Learn
    
    .. card::
       :icon: /images/technical-mdb-devhub.svg
-      :headline: View MongoDB Tutorials in the
+      :headline: View MongoDB Tutorials
       :cta: Developer Center
       :url: https://www.mongodb.com/developer/
