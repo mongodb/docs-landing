@@ -51,7 +51,7 @@ MongoDB Documentation
 
       .. cta::
       
-         :atlas:`Learn about MongoDB Atlas </>`
+         :atlas:`Learn about MongoDB Atlas </getting-started>`
 
    .. landing:product:: Database Manual
       :icon: /images/technical-mdb-shell.svg
