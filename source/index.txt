@@ -9,13 +9,13 @@ MongoDB Documentation
 
 .. ia::
 
-   .. entry:: Atlas
+   .. entry:: MongoDB Atlas
       :url: https://www.mongodb.com/docs/atlas/getting-started/
 
-   .. entry:: MongoDB Database Manual
+   .. entry:: Database Manual
       :url: https://www.mongodb.com/docs/manual/
 
-   .. entry:: Tools and Connectors
+   .. entry:: Migrators, Tools, and Connectors
       :url: /tools-and-connectors
 
    .. entry:: Client Libraries
@@ -29,7 +29,7 @@ MongoDB Documentation
 .. landing:introduction:: Get Started with MongoDB
 
    Store data in flexible documents and develop applications 
-   designed to adapt and scale, backed by a Atlas, a fully managed 
+   designed to adapt and scale, backed by Atlas, a fully managed 
    platform with always-on security and an ecosystem of tools 
    and integrations.
 
