@@ -113,6 +113,7 @@ you learn.
       Tutorials, videos, and code examples from MongoDB experts
       using your programming languages and favorite technologies.
 
+.. landing explore directive assumes children are in this order and have specifically 3 variants
 .. landing:explore:: Explore the Document Model
 
    See how data can be modeled in documents and use the MongoDB shell to insert, delete, and query a sample collection.
