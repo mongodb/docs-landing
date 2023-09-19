@@ -36,7 +36,7 @@ MongoDB Documentation
    .. button:: Deploy a Free Cluster
       :uri: https://www.mongodb.com/docs/atlas/getting-started/
 
-   .. image:: /images/homepage-hero.svg
+   .. image:: /images/hero-v2.svg
       :class: hero-img
       :alt: Homepage illustration
 
