@@ -3,6 +3,10 @@
 :nav-show-all-products: true
 :title: Docs Home
 
+.. meta::
+   :description: Store data in flexible documents and develop applications designed to adapt and scale, backed by Atlas, a fully managed platform with always-on security and an ecosystem of tools and integrations.
+   :canonical: https://www.mongodb.com/docs/
+
 =====================
 MongoDB Documentation
 =====================
