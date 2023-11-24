@@ -6,20 +6,270 @@ version = 4.0
 package-name-org = "docs-landing"
 pgp-version = "{+version+}"
 
-[deprecated_versions]
-bi-connector = ["v2.13", "v2.12", "v2.11", "v2.10", "v2.9", "v2.8", "v2.7", "v2.6", "v2.5", "v2.4", "v2.3", "v2.2", "v2.1", "v2.0", "v1.1"]
-kubernetes-operator = ["v1.18", "v1.17", "v1.16", "v1.15", "v1.14", "v1.13", "v1.12", "v1.11", "v1.10", "v1.9", "v1.8", "v1.7", "v1.6", "v1.5", "v1.4", "v1.3", "v1.2", "v1.1", "v1.0", "v0.12", "v0.11", "v0.10", "v0.9", "v0.8"]
-docs = ["v5.3", "v5.2", "v5.1", "v4.2", "v4.0", "v3.6", "v3.4", "v3.2", "v3.0", "v2.6", "v2.4", "v2.2"]
-mms = ["v5.0", "v4.4", "v4.2", "v4.0", "v3.6", "v3.4", "v2.0", "v1.8", "v1.6", "v1.5", "v1.4", "v1.3", "v1.2", "v1.1"]
-mongocli = ["v0.5.0", "v0.2.0", "v0.1.0", "v0.0.4", "v0.0.3", "v1.0.0", "v1.1.0", "v1.2.0", "v1.3.0", "v1.4.0", "v1.5", "v1.6", "v1.7", "v1.8", "v1.9", "v1.10", "v1.11", "v1.12", "v1.13", "v1.14", "v1.15", "v1.16", "v1.17", "v1.18", "v1.19", "v1.20", "v1.21", "v1.22", "v1.23", "v1.24"]
-atlas-cli = ["v1.1", "v1.0"]
-ruby-driver = ["v2.15", "v2.14", "v2.13", "v2.12", "v2.11", "v2.10", "v2.9", "v2.8", "v2.7", "v2.6", "v2.5", "v2.4", "v2.3", "v2.2", "v2.0", "v1.x"]
-mongoid = ["7.2", "7.1", "7.0", "6.4", "6.3", "6.2", "6.1", "5.4"]
-spark-connector = ["v3.0", "v2.4", "v2.3", "v2.2", "v2.1", "v2.0", "v1.1"]
-atlas-open-service-broker = ["master"]
-node = ["v4.7", "v4.6", "v4.5", "v4.4", "v4.3", "v4.2", "v4.1", "v4.0", "v3.7", "v3.6"]
-visual-studio-extension = ["v1.0"]
-kafka-connector = ["v1.7", "v1.6", "v1.5", "v1.4", "v1.3", "v1.2", "v1.1", "v1.0"]
-golang = ["v1.7"]
-java = ["v4.4", "v4.3"]
-php-library = ["v1.11", "v1.10", "v1.9", "v1.8", "v1.7", "v1.6", "v1.5", "v1.4", "v1.3", "v1.2", "v1.1"]
+##################################
+# EOL'D VERSIONS ARE DEFINED BELOW
+##################################
+# - project: snooty project name
+# - display_name: determines what we use for the product drop-down label
+# - versions.download: specify source for offline format download
+# - versions.link: specify the URL of the online docs site
+#   ** do not provide both a download and a link 
+#   ** this is a one or the other situation
+
+[[deprecated_versions]]
+project = "bi-connector"
+display_name = "BI Connector"
+versions = [
+    { version = "v2.13", link = "https://www.mongodb.com/docs/bi-connector/v2.13/" },
+    { version = "v2.12", link = "https://www.mongodb.com/docs/bi-connector/v2.12/" },
+    { version = "v2.11", link = "https://www.mongodb.com/docs/bi-connector/v2.11/" },
+    { version = "v2.10", link = "https://www.mongodb.com/docs/bi-connector/v2.10/" },
+    { version = "v2.9", link = "https://www.mongodb.com/docs/bi-connector/v2.9/" },
+    { version = "v2.8", link = "https://www.mongodb.com/docs/bi-connector/v2.8/" },
+    { version = "v2.7", link = "https://www.mongodb.com/docs/bi-connector/v2.7/" },
+    { version = "v2.6", link = "https://www.mongodb.com/docs/bi-connector/v2.6/" },
+    { version = "v2.5", link = "https://www.mongodb.com/docs/bi-connector/v2.5/" },
+    { version = "v2.4", link = "https://www.mongodb.com/docs/bi-connector/v2.4/" },
+    { version = "v2.3", link = "https://www.mongodb.com/docs/bi-connector/v2.3/" },
+    { version = "v2.2", link = "https://www.mongodb.com/docs/bi-connector/v2.2/" },
+    { version = "v2.1", link = "https://www.mongodb.com/docs/bi-connector/v2.1/" },
+    { version = "v2.0", link = "https://www.mongodb.com/docs/bi-connector/v2.0/" },
+    { version = "v1.1", link = "https://www.mongodb.com/docs/bi-connector/v1.1/" },
+]
+
+[[deprecated_versions]]
+project = "kubernetes-operator"
+display_name = "MongoDB Enterprise Kubernetes Operator"
+versions = [
+    { version = "v1.18", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.18/" },
+    { version = "v1.17", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.17/" },
+    { version = "v1.16", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.16/" },
+    { version = "v1.15", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.15/" },
+    { version = "v1.14", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.14/" },
+    { version = "v1.13", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.13/" },
+    { version = "v1.12", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.12/" },
+    { version = "v1.11", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.11/" },
+    { version = "v1.10", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.10/" },
+    { version = "v1.9", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.9/" },
+    { version = "v1.8", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.8/" },
+    { version = "v1.7", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.7/" },
+    { version = "v1.6", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.6/" },
+    { version = "v1.5", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.5/" },
+    { version = "v1.4", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.4/" },
+    { version = "v1.3", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.3/" },
+    { version = "v1.2", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.2/" },
+    { version = "v1.1", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.1/" },
+    { version = "v1.0", link = "https://www.mongodb.com/docs/kubernetes-operator/v1.0/" },
+    { version = "v0.12", link = "https://www.mongodb.com/docs/kubernetes-operator/v0.12/" },
+    { version = "v0.11", link = "https://www.mongodb.com/docs/kubernetes-operator/v0.11/" },
+    { version = "v0.10", link = "https://www.mongodb.com/docs/kubernetes-operator/v0.10/" },
+    { version = "v0.9", link = "https://www.mongodb.com/docs/kubernetes-operator/v0.9/" },
+    { version = "v0.8", link = "https://www.mongodb.com/docs/kubernetes-operator/v0.8/" },
+]
+
+[[deprecated_versions]]
+project = "docs"
+display_name = "MongoDB Manual"
+versions = [
+    # { version = "v5.3", link = "" }, rapid releases aren't supposed to be archived?
+    # { version = "v5.2", link = "" }, rapid releases aren't supposed to be archived?
+    # { version = "v5.1", link = "" }, rapid releases aren't supposed to be archived?
+    { version = "v4.2", link = "https://www.mongodb.com/docs/v4.2/" },
+    { version = "v4.0", link = "https://www.mongodb.com/docs/v4.0/" },
+    { version = "v3.6", link = "https://www.mongodb.com/docs/v3.6/" },
+    { version = "v3.4", link = "https://www.mongodb.com/docs/v3.4/" },
+    { version = "v3.2", link = "https://www.mongodb.com/docs/v3.2/" },
+    { version = "v3.0", link = "https://www.mongodb.com/docs/v3.0/" },
+    { version = "v2.6", link = "https://www.mongodb.com/docs/v2.6/" },
+    { version = "v2.4", link = "https://www.mongodb.com/docs/v2.4/" },
+    { version = "v2.2", link = "https://www.mongodb.com/docs/v2.2/" },
+]
+
+[[deprecated_versions]]
+project = "mms"
+display_name = "Ops Manager"
+versions = [
+    { version = "v5.0", link = "https://www.mongodb.com/docs/ops-manager/v5.0/" },
+    { version = "v4.4", link = "https://www.mongodb.com/docs/ops-manager/v4.4/" },
+    { version = "v4.2", link = "https://www.mongodb.com/docs/ops-manager/v4.2/" },
+    { version = "v4.0", link = "https://www.mongodb.com/docs/ops-manager/v4.0/" },
+    { version = "v3.6", link = "https://www.mongodb.com/docs/ops-manager/v3.6/" },
+    { version = "v3.4", link = "https://www.mongodb.com/docs/ops-manager/v3.4/" },
+    { version = "v2.0", link = "https://www.mongodb.com/docs/ops-manager/v2.0/" },
+    { version = "v1.8", link = "https://www.mongodb.com/docs/ops-manager/v1.8/" },
+    { version = "v1.6", link = "https://www.mongodb.com/docs/ops-manager/v1.6/" },
+    { version = "v1.5", link = "https://www.mongodb.com/docs/ops-manager/v1.5/" },
+    { version = "v1.4", link = "https://www.mongodb.com/docs/ops-manager/v1.4/" },
+    { version = "v1.3", link = "https://www.mongodb.com/docs/ops-manager/v1.3/" },
+    { version = "v1.2", link = "https://www.mongodb.com/docs/ops-manager/v1.2/" },
+    { version = "v1.1", link = "https://www.mongodb.com/docs/ops-manager/v1.1/" },
+]
+
+[[deprecated_versions]]
+project = "mongocli"
+display_name = "MongoDB CLI"
+versions = [
+    { version = "v0.0.3", link = "https://www.mongodb.com/docs/mongocli/v0.0.3/" },
+    { version = "v0.0.4", link = "https://www.mongodb.com/docs/mongocli/v0.0.4/" },
+    { version = "v0.1.0", link = "https://www.mongodb.com/docs/mongocli/v0.1.0/" },
+    { version = "v0.2.0", link = "https://www.mongodb.com/docs/mongocli/v0.2.0/" },
+    { version = "v0.5.0", link = "https://www.mongodb.com/docs/mongocli/v0.5.0/" },
+    { version = "v1.0.0", link = "https://www.mongodb.com/docs/mongocli/v1.0.0/" },
+    { version = "v1.1.0", link = "https://www.mongodb.com/docs/mongocli/v1.1.0/" },
+    { version = "v1.2.0", link = "https://www.mongodb.com/docs/mongocli/v1.2.0/" },
+    { version = "v1.3.0", link = "https://www.mongodb.com/docs/mongocli/v1.3.0/" },
+    { version = "v1.4.0", link = "https://www.mongodb.com/docs/mongocli/v1.4.0/" },
+    { version = "v1.5", link = "https://www.mongodb.com/docs/mongocli/v1.5/" },
+    { version = "v1.6", link = "https://www.mongodb.com/docs/mongocli/v1.6/" },
+    { version = "v1.7", link = "https://www.mongodb.com/docs/mongocli/v1.7/" },
+    { version = "v1.8", link = "https://www.mongodb.com/docs/mongocli/v1.8/" },
+    { version = "v1.9", link = "https://www.mongodb.com/docs/mongocli/v1.9/" },
+    { version = "v1.10", link = "https://www.mongodb.com/docs/mongocli/v1.10/" },
+    { version = "v1.11", link = "https://www.mongodb.com/docs/mongocli/v1.11/" },
+    { version = "v1.12", link = "https://www.mongodb.com/docs/mongocli/v1.12/" },
+    { version = "v1.13", link = "https://www.mongodb.com/docs/mongocli/v1.13/" },
+    { version = "v1.14", link = "https://www.mongodb.com/docs/mongocli/v1.14/" },
+    { version = "v1.15", link = "https://www.mongodb.com/docs/mongocli/v1.15/" },
+    { version = "v1.16", link = "https://www.mongodb.com/docs/mongocli/v1.16/" },
+    { version = "v1.17", link = "https://www.mongodb.com/docs/mongocli/v1.17/" },
+    { version = "v1.18", link = "https://www.mongodb.com/docs/mongocli/v1.18/" },
+    { version = "v1.19", link = "https://www.mongodb.com/docs/mongocli/v1.19/" },
+    { version = "v1.20", link = "https://www.mongodb.com/docs/mongocli/v1.20/" },
+    { version = "v1.21", link = "https://www.mongodb.com/docs/mongocli/v1.21/" },
+    { version = "v1.22", link = "https://www.mongodb.com/docs/mongocli/v1.22/" },
+    { version = "v1.23", link = "https://www.mongodb.com/docs/mongocli/v1.23/" },
+    { version = "v1.24", link = "https://www.mongodb.com/docs/mongocli/v1.24/" },
+]
+
+[[deprecated_versions]]
+project = "atlas-cli"
+display_name = "Atlas CLI"
+versions = [
+    { version = "v1.1", link = "https://www.mongodb.com/docs/atlas/cli/v1.1/" },
+    { version = "v1.0", link = "https://www.mongodb.com/docs/atlas/cli/v1.0/" },
+]
+
+[[deprecated_versions]]
+project = "ruby-driver"
+display_name = "Ruby Driver"
+versions = [
+    { version = "v2.15", link = "https://www.mongodb.com/docs/ruby-driver/v2.15/" },
+    { version = "v2.14", link = "https://www.mongodb.com/docs/ruby-driver/v2.14/" },
+    { version = "v2.13", link = "https://www.mongodb.com/docs/ruby-driver/v2.13/" },
+    { version = "v2.12", link = "https://www.mongodb.com/docs/ruby-driver/v2.12/" },
+    { version = "v2.11", link = "https://www.mongodb.com/docs/ruby-driver/v2.11/" },
+    { version = "v2.10", link = "https://www.mongodb.com/docs/ruby-driver/v2.10/" },
+    { version = "v2.9", link = "https://www.mongodb.com/docs/ruby-driver/v2.9/" },
+    { version = "v2.8", link = "https://www.mongodb.com/docs/ruby-driver/v2.8/" },
+    { version = "v2.7", link = "https://www.mongodb.com/docs/ruby-driver/v2.7/" },
+    { version = "v2.6", link = "https://www.mongodb.com/docs/ruby-driver/v2.6/" },
+    { version = "v2.5", link = "https://www.mongodb.com/docs/ruby-driver/v2.5/" },
+    { version = "v2.4", link = "https://www.mongodb.com/docs/ruby-driver/v2.4/" },
+    { version = "v2.3", link = "https://www.mongodb.com/docs/ruby-driver/v2.3/" },
+    { version = "v2.2", link = "https://www.mongodb.com/docs/ruby-driver/v2.2/" },
+    { version = "v2.0", link = "https://www.mongodb.com/docs/ruby-driver/v2.0/" },
+    { version = "v1.x", link = "https://www.mongodb.com/docs/ruby-driver/v1.x/" },
+]
+
+[[deprecated_versions]]
+project = "mongoid"
+display_name = "Mongoid"
+versions = [
+    { version = "7.2", link = "https://www.mongodb.com/docs/mongoid/7.2/" },
+    { version = "7.1", link = "https://www.mongodb.com/docs/mongoid/7.1/" },
+    { version = "7.0", link = "https://www.mongodb.com/docs/mongoid/7.0/" },
+    { version = "6.4", link = "https://www.mongodb.com/docs/mongoid/6.4/" },
+    { version = "6.3", link = "https://www.mongodb.com/docs/mongoid/6.3/" },
+    { version = "6.2", link = "https://www.mongodb.com/docs/mongoid/6.2/" },
+    { version = "6.1", link = "https://www.mongodb.com/docs/mongoid/6.1/" },
+    { version = "5.4", link = "https://www.mongodb.com/docs/mongoid/5.4/" },
+]
+
+[[deprecated_versions]]
+project = "spark-connector"
+display_name = "Spark Connector"
+versions = [
+    { version = "v3.0", link = "https://www.mongodb.com/docs/spark-connector/v3.0/" },
+    { version = "v2.4", link = "https://www.mongodb.com/docs/spark-connector/v2.4/" },
+    { version = "v2.3", link = "https://www.mongodb.com/docs/spark-connector/v2.3/" },
+    { version = "v2.2", link = "https://www.mongodb.com/docs/spark-connector/v2.2/" },
+    { version = "v2.1", link = "https://www.mongodb.com/docs/spark-connector/v2.1/" },
+    { version = "v2.0", link = "https://www.mongodb.com/docs/spark-connector/v2.0/" },
+    { version = "v1.1", link = "https://www.mongodb.com/docs/spark-connector/v1.1/" },
+]
+
+[[deprecated_versions]]
+project = "atlas-open-service-broker"
+display_name = "Atlas Open Service Broker"
+versions = [
+    { version = "master", link = "https://www.mongodb.com/docs/atlas-open-service-broker/" },
+]
+
+[[deprecated_versions]]
+project = "node"
+display_name = "Node.js Driver"
+versions = [
+    { version = "v4.7", link = "https://www.mongodb.com/docs/drivers/node/v4.7/" },
+    { version = "v4.6", link = "https://www.mongodb.com/docs/drivers/node/v4.6/" },
+    { version = "v4.5", link = "https://www.mongodb.com/docs/drivers/node/v4.5/" },
+    { version = "v4.4", link = "https://www.mongodb.com/docs/drivers/node/v4.4/" },
+    { version = "v4.3", link = "https://www.mongodb.com/docs/drivers/node/v4.3/" },
+    { version = "v4.2", link = "https://www.mongodb.com/docs/drivers/node/v4.2/" },
+    { version = "v4.1", link = "https://www.mongodb.com/docs/drivers/node/v4.1/" },
+    { version = "v4.0", link = "https://www.mongodb.com/docs/drivers/node/v4.0/" },
+    { version = "v3.7", link = "https://www.mongodb.com/docs/drivers/node/v3.7/" },
+    { version = "v3.6", link = "https://www.mongodb.com/docs/drivers/node/v3.6/" },
+]
+
+[[deprecated_versions]]
+project = "visual-studio-extension"
+display_name = "MongoDB Analyzer"
+versions = [
+    { version = "v1.0", link = "" },
+]
+
+[[deprecated_versions]]
+project = "kafka-connector"
+display_name = "Kafka Connector"
+versions = [
+    { version = "v1.7", link = "https://www.mongodb.com/docs/kafka-connector/v1.7/" },
+    { version = "v1.6", link = "https://www.mongodb.com/docs/kafka-connector/v1.6/" },
+    { version = "v1.5", link = "https://www.mongodb.com/docs/kafka-connector/v1.5/" },
+    { version = "v1.4", link = "https://www.mongodb.com/docs/kafka-connector/v1.4/" },
+    { version = "v1.3", link = "https://www.mongodb.com/docs/kafka-connector/v1.3/" },
+    { version = "v1.2", link = "https://www.mongodb.com/docs/kafka-connector/v1.2/" },
+    { version = "v1.1", link = "https://www.mongodb.com/docs/kafka-connector/v1.1/" },
+    { version = "v1.0", link = "https://www.mongodb.com/docs/kafka-connector/v1.0/" },
+]
+
+[[deprecated_versions]]
+project = "golang"
+display_name = "Go Driver"
+versions = [
+    { version = "v1.7", link = "https://www.mongodb.com/docs/drivers/go/v1.7/" },
+]
+
+[[deprecated_versions]]
+project = "java"
+display_name = "Java Sync Driver"
+versions = [
+    { version = "v4.4", link = "https://www.mongodb.com/docs/drivers/java/sync/v4.4/" },
+    { version = "v4.3", link = "https://www.mongodb.com/docs/drivers/java/sync/v4.3/" },
+]
+
+[[deprecated_versions]]
+project = "php-library"
+display_name = "MongoDB PHP Library"
+versions = [
+    { version = "v1.11", link = "https://www.mongodb.com/docs/php-library/v1.11/" },
+    { version = "v1.10", link = "https://www.mongodb.com/docs/php-library/v1.10/" },
+    { version = "v1.9", link = "https://www.mongodb.com/docs/php-library/v1.9/" },
+    { version = "v1.8", link = "https://www.mongodb.com/docs/php-library/v1.8/" },
+    { version = "v1.7", link = "https://www.mongodb.com/docs/php-library/v1.7/" },
+    { version = "v1.6", link = "https://www.mongodb.com/docs/php-library/v1.6/" },
+    { version = "v1.5", link = "https://www.mongodb.com/docs/php-library/v1.5/" },
+    { version = "v1.4", link = "https://www.mongodb.com/docs/php-library/v1.4/" },
+    { version = "v1.3", link = "https://www.mongodb.com/docs/php-library/v1.3/" },
+    { version = "v1.2", link = "https://www.mongodb.com/docs/php-library/v1.2/" },
+    { version = "v1.1", link = "https://www.mongodb.com/docs/php-library/v1.1/" },
+]
