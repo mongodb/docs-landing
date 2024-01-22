@@ -26,10 +26,6 @@ MongoDB Documentation
       :id: client-libraries
       :url: https://www.mongodb.com/docs/drivers/
 
-
-.. STRICT structure of:
-.. title argument, and 3 elements in content block (paragraph, cta, hero)
-
 .. introduction:: Get Started with MongoDB
 
    Store data in flexible documents and develop applications 
@@ -37,9 +33,9 @@ MongoDB Documentation
    platform with always-on security and an ecosystem of tools 
    and integrations.
 
-   .. image:: /images/homepage-hero.svg
-      :class: hero-img
-      :alt: Homepage illustration
+.. image:: /images/homepage-hero-revert.svg
+   :class: hero-img
+   :alt: Homepage illustration
 
 .. card-group::
    :columns: 1
