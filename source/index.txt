@@ -26,7 +26,7 @@ MongoDB Documentation
       :id: client-libraries
       :url: https://www.mongodb.com/docs/drivers/
 
-.. introduction:: Get Started with MongoDB
+.. introduction::
 
    Store data in flexible documents and develop applications 
    designed to adapt and scale, backed by Atlas, a fully managed 
@@ -50,7 +50,8 @@ MongoDB Documentation
       Run MongoDB on a multi-cloud developer data platform that 
       accelerates and simplifies working with operational data.
 
-   .. card:: Database Manual
+   .. card:: 
+      :headline: Database Manual
       :icon: /images/technical-mdb-shell.svg
       :icon-alt: MongoDB Database Manual
       :url: https://www.mongodb.com/docs/manual/
@@ -58,7 +59,8 @@ MongoDB Documentation
       Learn core MongoDB concepts, including data modeling, querying 
       data, aggregations, sharding, and more.
    
-   .. card:: Migrators, Tools, and Connectors
+   .. card:: 
+      :headline: Migrators, Tools, and Connectors
       :icon: /images/general-features-tools.svg
       :icon-alt: Migrators, Tools, and Connectors
       :url: https://www.mongodb.com/docs/tools-and-connectors/
@@ -66,7 +68,8 @@ MongoDB Documentation
       Explore tools and integrations for MongoDB, from data 
       visualization and development to migration and management.
 
-   .. card:: Client Libraries
+   .. card:: 
+      :headline: Client Libraries
       :icon: /images/general-features-tools.svg
       :icon-alt: Client libraries icon.
       :url: https://www.mongodb.com/docs/drivers/
