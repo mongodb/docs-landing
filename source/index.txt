@@ -30,27 +30,25 @@ MongoDB Documentation
 .. STRICT structure of:
 .. title argument, and 3 elements in content block (paragraph, cta, hero)
 
-.. landing:introduction:: Get Started with MongoDB
+.. introduction:: Get Started with MongoDB
 
    Store data in flexible documents and develop applications 
    designed to adapt and scale, backed by Atlas, a fully managed 
    platform with always-on security and an ecosystem of tools 
    and integrations.
 
-   .. button:: Deploy a Free Cluster
-      :uri: https://www.mongodb.com/docs/atlas/getting-started/
-
-   .. image:: /images/hero-v2.svg
+   .. image:: /images/homepage-hero.svg
       :class: hero-img
       :alt: Homepage illustration
 
 .. card-group::
    :columns: 1
+   :layout: carousel
    
    .. card::
       :headline: MongoDB Atlas
       :url: https://www.mongodb.com/docs/atlas/getting-started/
-      :icon: /path-to-icon.svg
+      :icon: /images/technical-mdb-shell.svg
       :icon-alt: Icon's alt text
 
       Run MongoDB on a multi-cloud developer data platform that 
@@ -82,18 +80,29 @@ More Ways to Learn
 
 .. card-group::
    :columns: 3
+   :layout: carousel
 
    .. card::
       :icon: /images/general-content-learn.svg
-      :cta: Take Free Courses on MongoDB
+      :headline: Take Free Courses on MongoDB
       :url: https://learn.mongodb.com/
    
    .. card::
       :icon: /images/general-content-community.svg
-      :cta: Join Forums and Discussions
+      :headline: Join Forums and Discussions
       :url: https://www.mongodb.com/community/
    
    .. card::
       :icon: /images/technical-mdb-devhub.svg
-      :cta: View Developer Resources
+      :headline: View Developer Resources
       :url: https://www.mongodb.com/developer/
+
+.. card::
+   :headline: Run a self-managed database (Optional)
+   :cta: Get started with MongoDB
+   :url: {:url-card-should-link-to}
+   :icon: /path-to-icon.svg
+   :icon-alt: Icon's alt text
+   :tag: server
+
+   Card content.
