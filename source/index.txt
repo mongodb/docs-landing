@@ -75,7 +75,7 @@ MongoDB Documentation
       :url: https://www.mongodb.com/docs/drivers/
 
 More Ways to Learn
-~~~~~~~~~~~~~~~~~~
+------------------
 
 .. card-group::
    :columns: 3
@@ -95,13 +95,3 @@ More Ways to Learn
       :icon: /images/technical-mdb-devhub.svg
       :headline: View Developer Resources
       :url: https://www.mongodb.com/developer/
-
-.. card::
-   :headline: Run a self-managed database (Optional)
-   :cta: Get started with MongoDB
-   :url: {:url-card-should-link-to}
-   :icon: /path-to-icon.svg
-   :icon-alt: Icon's alt text
-   :tag: server
-
-   Card content.
