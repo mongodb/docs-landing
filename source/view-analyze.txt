@@ -154,7 +154,7 @@ and data science tools.
    .. card::
       :headline: PyMongoArrow
       :url: https://mongo-arrow.readthedocs.io/en/stable/
-      :icon: /images/icons/table.svg
+      :icon: /images/icons/table.png
       :icon-alt: PyMongoArrow LogoMark
 
       Use PyMongo to load MongoDB query result sets as Pandas DataFrames, NumPy arrays, and
