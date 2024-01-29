@@ -22,9 +22,22 @@ MongoDB Documentation
    .. entry:: Migrators, Tools, and Connectors
       :url: /tools-and-connectors
 
-   .. entry:: Client Libraries
+   .. entry:: MAYAAAAAA
       :id: client-libraries
       :url: https://www.mongodb.com/docs/drivers/
+
+      .. card::
+         :headline: C
+         :url: https://www.mongodb.com/docs/drivers/c/
+         :icon: /images/icons/c.svg
+         :icon-alt: C Driver icon
+
+      .. card::
+         :headline: C++
+         :url: https://www.mongodb.com/docs/drivers/cxx/
+         :icon: /images/icons/cpp.svg
+         :icon-alt: C plus plus Driver icon
+
 
 .. introduction::
 
