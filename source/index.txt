@@ -16,7 +16,7 @@ MongoDB Documentation
    .. entry:: MongoDB Atlas
       :url: https://www.mongodb.com/docs/atlas/getting-started/
 
-   .. entry:: Database Manual
+   .. entry:: I forget what goes here
       :url: https://www.mongodb.com/docs/manual/
 
    .. entry:: Migrators, Tools, and Connectors
