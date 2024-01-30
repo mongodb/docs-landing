@@ -16,13 +16,13 @@ MongoDB Documentation
    .. entry:: MongoDB Atlas
       :url: https://www.mongodb.com/docs/atlas/getting-started/
 
-   .. entry:: I forget what goes here
+   .. entry:: Database Manual
       :url: https://www.mongodb.com/docs/manual/
 
    .. entry:: Migrators, Tools, and Connectors
       :url: /tools-and-connectors
 
-   .. entry:: MAYAAAAAA
+   .. entry:: Client Libraries
       :id: client-libraries
       :url: https://www.mongodb.com/docs/drivers/
 
