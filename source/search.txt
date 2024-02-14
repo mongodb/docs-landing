@@ -13,6 +13,9 @@
    .. entry:: Tools and Connectors
       :url: /tools-and-connectors
 
+   .. entry:: Generative AI FAQs
+      :url: /generative-ai-faq
+
    .. entry:: Client Libraries
       :id: client-libraries
       :url: https://www.mongodb.com/docs/drivers/
