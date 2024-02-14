@@ -249,6 +249,9 @@ Generative AI FAQs
 
    .. card::
       :headline: Gen AI FAQs
-      :url: https://www.mongodb.com/docs/ops-manager/current/
-      :icon: /images/icons/ops-manager.svg
+      :url: https://preview-mongodbianfmongodb.gatsbyjs.io/landing/DOCSP-36266/generative-ai/
+      :icon: /images/icons/mongodb-dna.png
       :icon-alt: Gen AI alt
+
+      Learn how MongoDB applications enable generative AI to enhance
+      your user experience in Compass, Charts, and Relational Migrator. 
