@@ -240,4 +240,15 @@ Management Tools
 
       Learn how to run MongoDB in Kubernetes on your own infrastructure.
 
- 
+Generative AI FAQs
+------------------
+
+.. card-group::
+   :columns: 2
+   :style: extra-compact
+
+   .. card::
+      :headline: Gen AI FAQs
+      :url: https://www.mongodb.com/docs/ops-manager/current/
+      :icon: /images/icons/ops-manager.svg
+      :icon-alt: Gen AI alt

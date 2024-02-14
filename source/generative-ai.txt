@@ -1,0 +1,65 @@
+:noprevnext:
+
+================================
+Migrators, Tools, and Connectors
+================================
+
+FAQ For MongoDB Generative AI (GenAI) Features
+----------------------------------------------
+
+What GenAI Features Does MongoDB Currently Offer?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MongoDB offers various GenAI capabilities in its products and services, 
+including within Atlas and in its software products. 
+For example, in MongoDB Compass and Charts, Atlas users can 
+leverage natural language to generate queries or visualizations. 
+And with MongoDB Relational Migrator, GenAI can be leveraged for 
+Query Conversions.
+
+We also offer a GenAI chatbot within our MongoDB Documentation. 
+
+What Services Do These GenAI Features Rely On?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MongoDB's current GenAI features are powered by Azure OpenAI. 
+That means that when you use these features,
+your data will be processed in Microsoft Azure using the Azure OpenAI 
+service. 
+
+Data processed in Azure OpenAI is not used for any model training. 
+MongoDB has opted out of asynchronous Abuse Monitoring so that no 
+prompts or responses are stored with Azure OpenAI. For more detail, 
+please refer to the Azure OpenAI data management policy.
+
+What Data Is Being Sent To The Model?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Each MongoDB tool backed by GenAI sends the minimal required 
+information to produce the best possible answer. To learn more 
+about what each tool sends, please consult our Documentation:
+
+- Compass
+- Atlas Charts
+- Relational Migrator
+
+Will the Outputs from my Use of MongoDB GenAI Features Be Used to Train any GenAI Model?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+No.
+
+Does MongoDB Store my Inputs to the GenAI Feature or the Corresponding Outputs?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MongoDB will store inputs and outputs from the GenAI service for 
+a limited time period (up to one year) for troubleshooting and 
+analytics. For any GenAI capabilities offered in our on-premise 
+software (e.g., Relational Migrator) you may opt out, in which case 
+MongoDB will not store your inputs or outputs.
+
+What Agreements Govern My Use of MongoDB’s GenAI Features?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your use of these features is subject to your applicable MongoDB legal 
+agreement, our Acceptable Use Policy, and our Privacy Policy. 
+
