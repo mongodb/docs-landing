@@ -1,8 +1,10 @@
-:noprevnext:
+:template: landing
+:nav-show-all-products: true
+:title: Generative AI FAQs
 
-================================
-Migrators, Tools, and Connectors
-================================
+==================
+Generative AI FAQs
+==================
 
 FAQ For MongoDB Generative AI (GenAI) Features
 ----------------------------------------------
