@@ -118,10 +118,12 @@ MongoDB Documentation
 
 .. introduction::
 
-   Store data in flexible documents and develop applications 
-   designed to adapt and scale, backed by Atlas, a fully managed 
-   platform with always-on security and an ecosystem of tools 
-   and integrations.
+   Welcome to the official MongoDB Documentation. 
+   Whether you’re a developer, database administrator, 
+   or just starting your journey with MongoDB, our 
+   documentation provides you with the information and 
+   knowledge needed to build applications on MongoDB and 
+   the Atlas developer data platform.
 
 .. image:: /images/homepage-hero-revert.svg
    :class: hero-img
@@ -132,7 +134,7 @@ MongoDB Documentation
    :layout: default
    
    .. card::
-      :headline: MongoDB Atlas :icon-lg:`lg-ArrowRight`
+      :headline: MongoDB Atlas →
       :url: https://www.mongodb.com/docs/atlas/getting-started/
       :icon: /images/technical-atlas-serverless.svg
       :icon-alt: Icon's alt text
@@ -141,7 +143,7 @@ MongoDB Documentation
       accelerates and simplifies working with operational data.
 
    .. card:: 
-      :headline: Database Manual :icon-lg:`lg-ArrowRight`
+      :headline: Database Manual →
       :icon: /images/technical-mdb-shell.svg
       :icon-alt: MongoDB Database Manual
       :url: https://www.mongodb.com/docs/manual/
@@ -150,7 +152,7 @@ MongoDB Documentation
       data, aggregations, sharding, and more.
    
    .. card:: 
-      :headline: Migrators, Tools, and Connectors :icon-lg:`lg-ArrowRight`
+      :headline: Migrators, Tools, and Connectors →
       :icon: /images/general-features-tools.svg
       :icon-alt: Migrators, Tools, and Connectors
       :url: https://www.mongodb.com/docs/tools-and-connectors/
@@ -159,7 +161,7 @@ MongoDB Documentation
       visualization and development to migration and management.
 
    .. card:: 
-      :headline: Client Libraries :icon-lg:`lg-ArrowRight`
+      :headline: Client Libraries →
       :icon: /images/technical-atlas-drivers.svg
       :icon-alt: Client libraries icon.
       :url: https://www.mongodb.com/docs/drivers/
@@ -176,15 +178,18 @@ More Ways to Learn
 
    .. card::
       :icon: /images/general-content-learn.svg
-      :headline: Take Free Courses on MongoDB
+      :headline: Take Free Courses on MongoDB University
+      :tag: landing-bottom
       :url: https://learn.mongodb.com/
    
    .. card::
       :icon: /images/general-content-community.svg
       :headline: Join Forums and Discussions
+      :tag: landing-bottom
       :url: https://www.mongodb.com/community/
    
    .. card::
       :icon: /images/technical-mdb-devhub.svg
       :headline: View Developer Resources
+      :tag: landing-bottom
       :url: https://www.mongodb.com/developer/
