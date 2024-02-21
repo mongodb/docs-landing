@@ -59,7 +59,7 @@ analytics. For any GenAI capabilities offered in our on-premise
 software (Relational Migrator) you may opt out, in which case 
 MongoDB does not store inputs or outputs from the model.
 
-What Agreements Govern My Use of MongoDB’s GenAI Features?
+What Agreements Govern My Use of MongoDB's GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your use of GenAI features and software is subject to MongoDB's:
