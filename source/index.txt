@@ -137,7 +137,7 @@ MongoDB Documentation
       :headline: MongoDB Atlas →
       :url: https://www.mongodb.com/docs/atlas/getting-started/
       :icon: /images/technical-atlas-serverless.svg
-      :icon-alt: Icon's alt text
+      :icon-alt: Atlas icon
 
       Run MongoDB on a multi-cloud developer data platform that 
       accelerates and simplifies working with operational data.
