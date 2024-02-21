@@ -71,6 +71,9 @@ Generative AI Information
    :columns: 2
    :style: extra-compact
 
+.. 
+   :url: https://www.mongodb.com/docs/generative-ai-faq/
+
    .. card::
       :headline: Generative AI FAQs
       :url: https://preview-mongodbianfmongodb.gatsbyjs.io/landing/DOCSP-36266/generative-ai-faq/
