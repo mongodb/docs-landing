@@ -64,6 +64,22 @@ Migrators, Tools, and Connectors
       :url: https://mongo-arrow.readthedocs.io/en/stable/ 
 
 
+Generative AI Information
+-------------------------
+
+.. card-group::
+   :columns: 2
+   :style: extra-compact
+
+   .. card::
+      :headline: Generative AI FAQs
+      :url: https://preview-mongodbianfmongodb.gatsbyjs.io/landing/DOCSP-36266/generative-ai-faq/
+      :icon: /images/icons/mongodb-dna.png
+      :icon-alt: Gen AI alt
+
+      Learn how MongoDB applications enable generative AI to enhance
+      your user experience in Compass, Charts, and Relational Migrator. 
+
 Migrators
 ---------
 
@@ -239,19 +255,3 @@ Management Tools
       :icon-alt: Kubernetes Operator LogoMark
 
       Learn how to run MongoDB in Kubernetes on your own infrastructure.
-
-Generative AI Information
--------------------------
-
-.. card-group::
-   :columns: 2
-   :style: extra-compact
-
-   .. card::
-      :headline: Generative AI FAQs
-      :url: https://preview-mongodbianfmongodb.gatsbyjs.io/landing/DOCSP-36266/generative-ai-faq/
-      :icon: /images/icons/mongodb-dna.png
-      :icon-alt: Gen AI alt
-
-      Learn how MongoDB applications enable generative AI to enhance
-      your user experience in Compass, Charts, and Relational Migrator. 
