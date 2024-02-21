@@ -62,9 +62,6 @@ MongoDB does not store inputs or outputs from the model.
 What Agreements Govern My Use of MongoDB’s GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your use of these features is subject to your applicable MongoDB legal 
-agreement, our Acceptable Use Policy, and our Privacy Policy. 
-
 Your use of GenAI features and software is subject to MongoDB's:
 
 - `Terms of Use <https://www.mongodb.com/legal/terms-of-use>`_
