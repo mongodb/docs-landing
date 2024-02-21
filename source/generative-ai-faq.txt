@@ -45,23 +45,29 @@ about what each tool sends, please consult our Documentation:
 - `Atlas Charts <https://www.mongodb.com/docs/charts/experimental-features/>`__
 - `Relational Migrator <https://www.mongodb.com/docs/relational-migrator/code-generation/query-converter/>`__
 
-Will the Outputs from my Use of MongoDB GenAI Features Be Used to Train any GenAI Model?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Are Outputs from my Use of MongoDB GenAI Features Used to Train any GenAI Model?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 No.
 
 Does MongoDB Store my Inputs to the GenAI Feature or the Corresponding Outputs?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MongoDB will store inputs and outputs from the GenAI service for 
+MongoDB stores inputs and outputs from the GenAI service for 
 a limited time period (up to one year) for troubleshooting and 
 analytics. For any GenAI capabilities offered in our on-premise 
-software (e.g., Relational Migrator) you may opt out, in which case 
-MongoDB will not store your inputs or outputs.
+software (Relational Migrator) you may opt out, in which case 
+MongoDB does not store inputs or outputs from the model.
 
 What Agreements Govern My Use of MongoDB’s GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your use of these features is subject to your applicable MongoDB legal 
 agreement, our Acceptable Use Policy, and our Privacy Policy. 
+
+Your use of GenAI features and software is subject to MongoDB's:
+
+- `Terms of Use <https://www.mongodb.com/legal/terms-of-use>`_
+- `Acceptable Use Policy <https://www.mongodb.com/legal/acceptable-use-policy>`_
+- `Privacy Policy <https://www.mongodb.com/legal/privacy-policy>`_
 
