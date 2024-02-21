@@ -41,9 +41,9 @@ Each MongoDB tool backed by GenAI sends the minimal required
 information to produce the best possible answer. To learn more 
 about what each tool sends, please consult our Documentation:
 
-- Compass
-- Atlas Charts
-- Relational Migrator
+- `Compass <https://www.mongodb.com/docs/compass/current/query-with-natural-language/query-with-natural-language/>`__
+- `Atlas Charts <https://www.mongodb.com/docs/charts/experimental-features/>`__
+- `Relational Migrator <https://www.mongodb.com/docs/relational-migrator/code-generation/query-converter/>`__
 
 Will the Outputs from my Use of MongoDB GenAI Features Be Used to Train any GenAI Model?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
