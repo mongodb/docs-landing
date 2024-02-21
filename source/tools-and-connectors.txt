@@ -64,15 +64,15 @@ Migrators, Tools, and Connectors
       :url: https://mongo-arrow.readthedocs.io/en/stable/ 
 
 
+.. 
+   :url: https://www.mongodb.com/docs/generative-ai-faq/
+
 Generative AI Information
 -------------------------
 
 .. card-group::
    :columns: 2
    :style: extra-compact
-
-.. 
-   :url: https://www.mongodb.com/docs/generative-ai-faq/
 
    .. card::
       :headline: Generative AI FAQs
