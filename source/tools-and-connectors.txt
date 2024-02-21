@@ -80,8 +80,9 @@ Generative AI Information
       :icon: /images/icons/mongodb-dna.png
       :icon-alt: Gen AI alt
 
-      Learn how MongoDB applications enable generative AI to enhance
-      your user experience in Compass, Charts, and Relational Migrator. 
+      Learn how MongoDB applications use your data to enable an enhanced 
+      user experience using generative AI in Compass, Charts, and 
+      Relational Migrator. 
 
 Migrators
 ---------
