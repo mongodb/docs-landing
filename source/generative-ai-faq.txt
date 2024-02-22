@@ -12,7 +12,7 @@ FAQ For MongoDB Generative AI Features
 What GenAI Features Does MongoDB Currently Offer?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MongoDB offers various GenerativeAI (GenAI) capabilities in its products 
+MongoDB offers various generative AI (GenAI) capabilities in its products 
 and services, including within Atlas and in its software products. 
 For example, in MongoDB Compass, and Charts, Atlas users can 
 leverage natural language to generate queries or visualizations. 
