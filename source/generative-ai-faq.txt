@@ -29,15 +29,14 @@ MongoDB's current GenAI features are powered by `Azure OpenAI
 When you use these features, your data is processed in Microsoft 
 Azure using the Azure OpenAI service. 
 
-Data processed in Azure OpenAI is not used for any model training. 
-MongoDB has opted out of `asynchronous Abuse Monitoring 
+Azure OpenAI does not use any of the data that it processes for any model training. 
 <https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__ 
-so that no prompts or responses are stored with Azure OpenAI. For more detail, 
+so that no prompts or responses are stored with Azure OpenAI. For more details, 
 refer to the `Azure OpenAI data management policy 
 <https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy>`__.
 
-What Data Is Being Sent To The Model?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What Data Is Sent To The Model?
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each MongoDB tool backed by GenAI sends the minimal required 
 information to produce the best possible answer. To learn more 
@@ -52,13 +51,13 @@ Are Outputs from my Use of MongoDB GenAI Features Used to Train Models?
 
 No.
 
-Does MongoDB Store my Inputs to GenAI Features or the Corresponding Outputs?
+Does MongoDB Store my Inputs or their Corresponding Outputs to GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 MongoDB stores inputs and outputs from the GenAI service for 
-a limited time period (up to one year) for troubleshooting and 
+up to one year for troubleshooting and 
 analytics. For any GenAI capabilities offered in our on-premise 
-software (Relational Migrator) you may opt out, in which case 
+software (Relational Migrator) you may opt out of input and output storage, in which case 
 MongoDB does not store inputs or outputs from the model.
 
 What Agreements Govern My Use of MongoDB's GenAI Features?
