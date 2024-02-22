@@ -33,7 +33,7 @@ Azure using the Azure OpenAI service.
 Azure OpenAI does not use any of the data that it processes for any model training. 
 MongoDB has opted out of `asynchronous Abuse Monitoring 
 <https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__ 
-so that no prompts or responses are stored with Azure OpenAI. For more details, 
+so that no prompts or responses are stored within Azure OpenAI. For more details, 
 refer to the `Azure OpenAI data management policy 
 <https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy>`__.
 
