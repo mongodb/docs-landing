@@ -13,11 +13,11 @@ What GenAI Features Does MongoDB Currently Offer?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 MongoDB offers various Generative AI (GenAI) capabilities in its products 
-and services, including within Atlas and in its software products. 
-For example in MongoDB Compass users can 
+and services.
+For example, in MongoDB Compass users can 
 leverage natural language to generate MongoDB queries.
 In Charts, Atlas users have the capability to construct 
-visualizations powered by GenAI. Additionally, 
+GenAI powered visualizations. Additionally, 
 MongoDB Relational Migrator utilizes GenAI for query conversions.
 
 We also offer a GenAI chatbot within our MongoDB Documentation. 
@@ -59,7 +59,7 @@ Does MongoDB Store my Inputs or their Corresponding Outputs to GenAI Features?
 MongoDB stores inputs and outputs from the GenAI service for 
 up to one year for troubleshooting and 
 analytics. For any GenAI capabilities offered in our on-premise 
-software (Relational Migrator and Compass) you may opt out of input 
+software (Relational Migrator and Compass), you may opt out of input 
 and output storage, in which case MongoDB does not store inputs or 
 outputs.
 
