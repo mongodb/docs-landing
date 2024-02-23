@@ -38,7 +38,7 @@ refer to the `Azure OpenAI data management policy
 <https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy>`__.
 
 What Data Is Sent To The Model?
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each MongoDB tool backed by GenAI sends the minimal required 
 information to produce the best possible answer. To learn more 
@@ -54,7 +54,7 @@ Are Outputs from my Use of MongoDB GenAI Features Used to Train Models?
 No.
 
 Does MongoDB Store my Inputs or their Corresponding Outputs to GenAI Features?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 MongoDB stores inputs and outputs from the GenAI service for 
 up to one year for troubleshooting and 
