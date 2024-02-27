@@ -25,17 +25,14 @@ We also offer a GenAI chatbot within our MongoDB Documentation.
 What Services Do These GenAI Features Rely On?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MongoDB's current GenAI features are powered by `Azure OpenAI 
-<https://azure.microsoft.com/en-us/products/ai-services/openai-service>`__. 
+MongoDB's current GenAI features are powered by Azure OpenAI 
 When you use these features, your data is processed in Microsoft 
 Azure using the Azure OpenAI service. 
 
 Azure OpenAI does not use any of the data that it processes for any model training. 
-MongoDB has opted out of `asynchronous Abuse Monitoring 
-<https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__ 
+MongoDB has opted out of asynchronous Abuse Monitoring
 so that no prompts or responses are stored within Azure OpenAI. For more details, 
-refer to the `Azure OpenAI data management policy 
-<https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy>`__.
+refer to the Azure OpenAI data management policy.
 
 What Data Is Sent To The Model?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,19 +53,19 @@ No.
 Does MongoDB Store my Inputs or their Corresponding Outputs to GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MongoDB stores inputs and outputs from the GenAI service for 
+MongoDB will store inputs and outputs from the GenAI service for 
 up to one year for troubleshooting and 
 analytics. For any GenAI capabilities offered in our on-premise 
 software (Relational Migrator and Compass), you may opt out of input 
-and output storage, in which case MongoDB does not store inputs or 
+and output storage, in which case MongoDB will not store your inputs or 
 outputs.
 
 What Agreements Govern My Use of MongoDB's GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your use of GenAI features and software is subject to MongoDB's:
+Your use of these features is subject to your applicable MongoDB legal 
+agreement, our Acceptable Use
 
-- `Terms of Use <https://www.mongodb.com/legal/terms-of-use>`_
-- `Acceptable Use Policy <https://www.mongodb.com/legal/acceptable-use-policy>`_
-- `Privacy Policy <https://www.mongodb.com/legal/privacy-policy>`_
+Your use of GenAI features and software is subject to MongoDB's:
+   `Terms of Use <https://www.mongodb.com/legal/terms-of-use>`_
 
