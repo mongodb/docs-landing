@@ -26,7 +26,9 @@ What Services Do These GenAI Features Rely On?
 
 MongoDB's current GenAI features are powered by Azure OpenAI. When you 
 use these features, your data is processed in Microsoft Azure using 
-the Azure OpenAI service. Data processed in Azure OpenAI is not used 
+the Azure OpenAI service. 
+
+Data processed in Azure OpenAI is not used 
 for any model training. MongoDB has opted out of asynchronous Abuse 
 Monitoring so that no prompts or responses are stored with Azure OpenAI. 
 For more detail, refer to the Azure OpenAI data management policy.
