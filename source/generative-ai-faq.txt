@@ -25,14 +25,14 @@ We also offer a GenAI chatbot within our MongoDB Documentation.
 What Services Do These GenAI Features Rely On?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MongoDB's current GenAI features are powered by Azure OpenAI. When you 
+MongoDB's current GenAI features are powered by [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service). When you 
 use these features, your data is processed in Microsoft Azure using 
 the Azure OpenAI service. 
 
 Data processed in Azure OpenAI is not used 
-for any model training. MongoDB has opted out of asynchronous Abuse 
-Monitoring so that no prompts or responses are stored with Azure OpenAI. 
-For more detail, refer to the Azure OpenAI data management policy.
+for any model training. MongoDB has opted out of [asynchronous Abuse 
+Monitoring](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring) so that no prompts or responses are stored with Azure OpenAI. 
+For more detail, refer to [Azure OpenAI's data management practices](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy).
 
 What Data Is Sent To The Model?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,5 +64,5 @@ What Agreements Govern My Use of MongoDB's GenAI Features?
 
 Your use of these features is subject to your applicable MongoDB legal 
 agreement, our
-`Acceptable Use Policy <https://www.mongodb.com/legal/terms-of-use>`_ and 
+`Acceptable Use Policy <https://www.mongodb.com/legal/acceptable-use-policy>`_ and 
 our `Privacy Policy <https://www.mongodb.com/legal/privacy/privacy-policy>`__.
