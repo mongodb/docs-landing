@@ -63,6 +63,9 @@ Migrators, Tools, and Connectors
    .. entry:: PyMongoArrow
       :url: https://mongo-arrow.readthedocs.io/en/stable/ 
 
+.. 
+   :url: https://www.mongodb.com/docs/generative-ai-faq/
+
 Generative AI Information
 -------------------------
 
@@ -72,7 +75,7 @@ Generative AI Information
 
    .. card::
       :headline: Generative AI FAQs
-      :url: https://www.mongodb.com/docs/generative-ai-faq/
+      :url: https://preview-mongodbianfmongodb.gatsbyjs.io/landing/DOCSP-36266/generative-ai-faq/
       :icon: /images/icons/mongodb-dna.png
       :icon-alt: Gen AI alt
 
