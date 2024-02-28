@@ -31,7 +31,7 @@ When you use these features, your data is processed in Microsoft Azure using
 the Azure OpenAI service. 
 
 Data processed in Azure OpenAI is not used for any model training. 
-MongoDB has opted out of `asynchronous Abuse 
+MongoDB has opted out of asynchronous `Abuse 
 Monitoring <https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__ 
 so that no prompts or responses are stored with Azure OpenAI. 
 For more detail, refer to `Azure OpenAI's data management practices 
