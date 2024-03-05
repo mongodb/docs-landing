@@ -57,7 +57,8 @@ Does MongoDB Store my Inputs or their Corresponding Outputs to GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 MongoDB will store inputs and outputs from the GenAI service for a 
-limited time period (up to one year) for troubleshooting and analytics. 
+limited time period (up to one year) for troubleshooting, analytics and
+feature improvement.
 For any GenAI capabilities offered in our on-premise software 
 (Relational Migrator and Compass) you may opt out, in which case
 MongoDB will not store your inputs or outputs.
