@@ -55,32 +55,76 @@ Configure connections to different databases or clusters, store and retrieve obj
    .. card::
       :headline: FastAPI
       :url: https://fastapi.tiangolo.com/
-      :icon: /icons/laravel-logo.svg
+      :icon: /icons/fastapi-logo.svg
       :icon-alt: FastAPI logo
 
    .. card::
       :headline: Flask
       :url: https://flask.palletsprojects.com/en/3.0.x/
-      :icon: /icons/symfony-logo.svg
+      :icon: /icons/flask-logo.svg
       :icon-alt: Flask logo
   
    .. card::
       :headline: MongoEngine for Flask
       :url: https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
-      :icon: /icons/yiiframework-logo.svg
+      :icon: /icons/mongoengine-logo.svg
       :icon-alt: MongoEngine logo
 
    .. card::
       :headline: Beanie for FastAPI
       :url: https://beanie-odm.dev/
-      :icon: /icons/yiiframework-logo.svg
+      :icon: /icons/beanie-logo.svg
       :icon-alt: Beanie logo
 
    .. card::
       :headline: ODMantic for FastAPI
       :url: https://art049.github.io/odmantic/
-      :icon: /icons/yiiframework-logo.svg
+      :icon: /icons/odmantic-logo.svg
       :icon-alt: ODMantic logo
+
+Libraries/Extensions
+--------------------
+
+.. card-group::
+   :columns: 2
+   :style: center-content
+
+   .. card::
+      :headline: PyMongoArrow
+      :url: https://pypi.org/project/pymongoarrow/
+      :icon: /icons/pymongoarrow-logo.svg
+      :icon-alt: PyMongoArrow logo
+
+MongoDB Integration
+-------------------
+
+.. card-group::
+   :columns: 4
+   :style: center-content
+
+   .. card::
+      :headline: LangChain
+      :url: https://python.langchain.com/docs/get_started/introduction/
+      :icon: /icons/langchain-logo.svg
+      :icon-alt: LangChain logo
+    
+    .. card::
+      :headline: LlamaIndex
+      :url: https://www.llamaindex.ai/open-source
+      :icon: /icons/llamaindex-logo.svg
+      :icon-alt: LlamaIndex logo
+    
+    .. card::
+      :headline: Microsoft Semantic Kernel
+      :url: https://github.com/microsoft/semantic-kernel
+      :icon: /icons/microsoft-logo.svg
+      :icon-alt: Microsoft logo
+    
+    .. card::
+      :headline: HayStack
+      :url: https://github.com/deepset-ai/haystack
+      :icon: /icons/haystack-logo.svg
+      :icon-alt: Haystack logo
 
 More ways to learn
 ------------------
