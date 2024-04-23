@@ -1,0 +1,16 @@
+:template: product-landing
+:pl-max-width-paragraphs:
+:noprevnext:
+
+================
+MongoDB with C++
+================
+
+.. default-domain:: mongodb
+
+.. introduction::
+   
+   Build engines, games, GUI-based applications, and more in `MongoDB’s Atlas cloud database <https://www.mongodb.com/docs/atlas/>`__ with the support of MongoDB’s C++ driver.
+
+.. image:: /images/Cpp.svg
+   :alt: C++ landing page hero image
