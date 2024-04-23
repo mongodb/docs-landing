@@ -207,7 +207,7 @@ Management Tools
       :icon: /images/icons/kubernetes.svg
       :icon-alt: Kubernetes Operator LogoMark
 
-      Manage resources in MongoDB Atlas from Kubernetes.
+      Manage resources in MongoDB Atlas with Kubernetes.
 
 Generative AI Information
 -------------------------
