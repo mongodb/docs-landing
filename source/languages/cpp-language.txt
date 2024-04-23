@@ -53,7 +53,7 @@ More ways to learn
       :icon: /icons/Learn.svg
       :icon-alt: Learn icon
 
-      Node.js Developer Path →
+      C++ Developer Path →
   
    .. card::
       :headline: Join forums and discussions
