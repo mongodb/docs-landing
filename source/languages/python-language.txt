@@ -1,0 +1,114 @@
+:template: product-landing
+:pl-max-width-paragraphs:
+:noprevnext:
+
+===================
+MongoDB with Python
+===================
+
+.. default-domain:: mongodb
+
+.. introduction::
+   
+   Build cutting-edge applications with Python and MongoDB, from dynamic 
+   modern web applications to Gen-AI systems and data science projects. 
+   MongoDB's scalable cloud database infrastructure ensures your solutions 
+   are robust and optimized for performance. 
+
+   .. button:: Get started with MongoDB Python
+      :uri: https://www.mongodb.com/docs/drivers/python-drivers/
+
+.. image:: /images/Python.svg
+   :alt: Python landing page hero image
+
+Drivers
+-------
+
+.. card-group::
+   :columns: 2
+
+   .. card::
+      :headline: PyMongo
+      :url: https://www.mongodb.com/docs/drivers/pymongo/
+      :icon: /images/icons/python.svg
+      :icon-alt: Driver card icon
+
+      Provides a synchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+
+   .. card::
+      :headline: Motor
+      :url: https://www.mongodb.com/docs/drivers/motor/
+      :icon: /images/icons/python.svg
+      :icon-alt: Driver card icon
+
+      Provides an asynchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+
+Frameworks
+----------
+
+Configure connections to different databases or clusters, store and retrieve objects, or use MongoDB as a data store.
+
+.. card-group::
+   :columns: 4
+   :style: center-content
+
+   .. card::
+      :headline: FastAPI
+      :url: https://fastapi.tiangolo.com/
+      :icon: /icons/laravel-logo.svg
+      :icon-alt: FastAPI logo
+
+   .. card::
+      :headline: Flask
+      :url: https://flask.palletsprojects.com/en/3.0.x/
+      :icon: /icons/symfony-logo.svg
+      :icon-alt: Flask logo
+  
+   .. card::
+      :headline: MongoEngine for Flask
+      :url: https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
+      :icon: /icons/yiiframework-logo.svg
+      :icon-alt: MongoEngine logo
+
+   .. card::
+      :headline: Beanie for FastAPI
+      :url: https://beanie-odm.dev/
+      :icon: /icons/yiiframework-logo.svg
+      :icon-alt: Beanie logo
+
+   .. card::
+      :headline: ODMantic for FastAPI
+      :url: https://art049.github.io/odmantic/
+      :icon: /icons/yiiframework-logo.svg
+      :icon-alt: ODMantic logo
+
+More ways to learn
+------------------
+
+.. card-group::
+   :columns: 3
+   :style: large-icon
+
+   .. card::
+      :headline: View Python developer resources
+      :url: https://www.mongodb.com/developer/languages/python/
+      :icon: /images/technical-mdb-devhub.svg
+      :icon-alt: DevHub icon
+
+      Python Resources  →
+
+   .. card::
+      :headline: Take the Getting Started with Python course 
+      :url: https://learn.mongodb.com/learning-paths/using-mongodb-with-python
+      :icon: /images/icons/university.svg
+      :icon-alt: Learn icon
+
+      Python Developer Path →
+  
+   .. card::
+      :headline: Join forums and discussions
+      :url: https://www.mongodb.com/community/
+      :icon: /images/general-content-community.svg
+      :icon-alt: Community icon
+
+      MongoDB Community →
