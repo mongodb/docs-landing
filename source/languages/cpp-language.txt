@@ -25,9 +25,9 @@ Drivers
    :columns: 1
 
    .. card::
-      :headline: Extension
+      :headline: Driver
       :url: https://www.mongodb.com/docs/languages/cpp/cpp-driver/current/
-      :icon: /icons/driver-card-icon.svg
+      :icon: /images/icons/driver-card-icon.svg
       :icon-alt: Driver card icon
 
       Provides a high-level API for working with MongoDB databases consistent with other MongoDB language drivers.
@@ -42,7 +42,7 @@ More ways to learn
    .. card::
       :headline: View C++ developer resources
       :url: https://www.mongodb.com/developer/languages/cpp/
-      :icon: /icons/DevHub.svg
+      :icon: /images/icons/DevHub.svg
       :icon-alt: DevHub icon
 
       C++ Resources  →
@@ -50,7 +50,7 @@ More ways to learn
    .. card::
       :headline: Take the Getting Started with C++ course 
       :url: https://learn.mongodb.com/courses/mongodb-cpp-driver
-      :icon: /icons/Learn.svg
+      :icon: /images/icons/Learn.svg
       :icon-alt: Learn icon
 
       C++ Developer Path →
@@ -58,7 +58,7 @@ More ways to learn
    .. card::
       :headline: Join forums and discussions
       :url: https://www.mongodb.com/community/
-      :icon: /icons/Community.svg
+      :icon: /images/icons/Community.svg
       :icon-alt: Community icon
 
       MongoDB Community →
