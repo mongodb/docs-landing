@@ -17,14 +17,14 @@ MongoDB with C#
    .. button:: Get started with the C# Driver →
       :uri: https://www.mongodb.com/docs/drivers/csharp/current/
 
-.. image:: /images/C#.svg
+.. image:: /images/CSharp.svg
    :alt: C# landing page hero image
 
 Driver
 ------
 
 .. card-group::
-   :columns: 2
+   :columns: 1
 
    .. card::
       :headline: C# Driver
@@ -40,12 +40,11 @@ Framework Integrations
 
 .. card-group::
    :columns: 1
-   :style: large-icon
 
    .. card::
       :headline: Entity Framework
       :url: https://www.mongodb.com/docs/entity-framework/current/
-      :icon: /images/icons/entity-framework.svg
+      :icon: /images/icons/entity-framework.png
       :icon-alt: Entity Framework and .NET icon
 
       Visit the MongoDB Entity Framework Core Provider Documentation →
@@ -60,7 +59,7 @@ Libraries and Extensions
    .. card::
       :headline: .NET Analyzer 
       :url: https://www.mongodb.com/docs/mongodb-analyzer/current/
-      :icon: /images/icons/entity-framework.svg
+      :icon: /images/icons/entity-framework.png
       :icon-alt: Entity Framework and .NET icon
 
       Visit the MongoDB Analyzer documentation →
