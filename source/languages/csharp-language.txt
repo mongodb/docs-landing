@@ -47,7 +47,7 @@ Framework Integrations
       :icon: /images/icons/entity-framework.png
       :icon-alt: Entity Framework and .NET icon
 
-      Visit the MongoDB Entity Framework Core Provider Documentation →
+      Visit the MongoDB Entity Framework Core Provider documentation →
 
 Libraries and Extensions
 ------------------------
