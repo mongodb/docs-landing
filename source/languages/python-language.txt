@@ -49,7 +49,7 @@ Frameworks
 Configure connections to different databases or clusters, store and retrieve objects, or use MongoDB as a data store.
 
 .. card-group::
-   :columns: 4
+   :columns: 3
    :style: center-content
 
    .. card::
