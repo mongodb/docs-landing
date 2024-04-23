@@ -24,7 +24,7 @@ Driver
 ------
 
 .. card-group::
-   :columns: 1
+   :columns: 2
 
    .. card::
       :headline: C# Driver
@@ -39,7 +39,7 @@ Framework Integrations
 ----------------------
 
 .. card-group::
-   :columns: 1
+   :columns: 2
 
    .. card::
       :headline: Entity Framework
