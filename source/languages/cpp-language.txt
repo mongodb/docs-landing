@@ -13,7 +13,44 @@ MongoDB with C++
    Build engines, games, GUI-based applications, and more in `MongoDB’s Atlas cloud database <https://www.mongodb.com/docs/atlas/>`__ with the support of MongoDB’s C++ driver.
 
    .. button:: Get started with MongoDB C++
-      :uri: https://www.mongodb.com/docs/languages/cpp/cpp-driver/current/
+      :uri: https://www.mongodb.com/developer/products/mongodb/getting-started-mongodb-cpp/
 
 .. image:: /images/Cpp.svg
    :alt: C++ landing page hero image
+
+Drivers
+-------
+
+.. card-group::
+   :columns: 1
+
+   .. card::
+      :headline: Extension
+      :url: https://www.mongodb.com/docs/languages/cpp/cpp-driver/current/
+      :icon: /icons/driver-card-icon.svg
+      :icon-alt: Driver card icon
+
+      Provides a high-level API for working with MongoDB databases consistent with other MongoDB language drivers.
+
+More ways to learn
+------------------
+
+.. card-group::
+   :columns: 2
+   :style: large-icon
+
+   .. card::
+      :headline: View C++ developer resources
+      :url: https://www.mongodb.com/developer/languages/cpp/
+      :icon: /icons/DevHub.svg
+      :icon-alt: DevHub icon
+
+      C++ Resources  →
+  
+   .. card::
+      :headline: Join forums and discussions
+      :url: https://www.mongodb.com/community/
+      :icon: /icons/Community.svg
+      :icon-alt: Community icon
+
+      MongoDB Community →
