@@ -105,19 +105,19 @@ MongoDB Integration
       :url: https://python.langchain.com/docs/get_started/introduction/
       :icon: /icons/langchain-logo.svg
       :icon-alt: LangChain logo
-    
+
     .. card::
       :headline: LlamaIndex
       :url: https://www.llamaindex.ai/open-source
       :icon: /icons/llamaindex-logo.svg
       :icon-alt: LlamaIndex logo
-    
+
     .. card::
       :headline: Microsoft Semantic Kernel
       :url: https://github.com/microsoft/semantic-kernel
       :icon: /icons/microsoft-logo.svg
       :icon-alt: Microsoft logo
-    
+
     .. card::
       :headline: HayStack
       :url: https://github.com/deepset-ai/haystack
