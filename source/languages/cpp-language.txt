@@ -36,7 +36,7 @@ More ways to learn
 ------------------
 
 .. card-group::
-   :columns: 2
+   :columns: 3
    :style: large-icon
 
    .. card::
@@ -46,6 +46,14 @@ More ways to learn
       :icon-alt: DevHub icon
 
       C++ Resources  →
+
+   .. card::
+      :headline: Take the Getting Started with C++ course 
+      :url: https://learn.mongodb.com/courses/mongodb-cpp-driver
+      :icon: /icons/Learn.svg
+      :icon-alt: Learn icon
+
+      Node.js Developer Path →
   
    .. card::
       :headline: Join forums and discussions
