@@ -83,7 +83,7 @@ Configure connections to different databases or clusters, store and retrieve obj
       :icon-alt: ODMantic logo
 
 Libraries and Extensions
---------------------
+------------------------
 
 .. card-group::
    :columns: 2
