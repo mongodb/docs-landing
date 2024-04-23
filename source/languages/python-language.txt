@@ -87,7 +87,6 @@ Libraries/Extensions
 
 .. card-group::
    :columns: 2
-   :style: center-content
 
    .. card::
       :headline: PyMongoArrow
@@ -100,7 +99,6 @@ MongoDB Integration
 
 .. card-group::
    :columns: 4
-   :style: center-content
 
    .. card::
       :headline: LangChain
