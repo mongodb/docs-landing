@@ -71,3 +71,34 @@ Libraries and Extensions
       :icon-alt: OData icon
 
       Download the MongoDB.AspNetCore.OData package →
+
+More Ways to Learn
+------------------
+
+.. card-group::
+   :columns: 3
+   :style: large-icon
+
+   .. card::
+      :headline: View C# developer resources
+      :url: https://www.mongodb.com/developer/languages/csharp/
+      :icon: /images/technical-mdb-devhub.svg
+      :icon-alt: DevHub icon
+
+      C# Resources  →
+
+   .. card::
+      :headline: Take C# courses 
+      :url: https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp
+      :icon: /images/icons/university.svg
+      :icon-alt: Learn icon
+
+      C# Developer Path →
+  
+   .. card::
+      :headline: Join forums and discussions
+      :url: https://www.mongodb.com/community/
+      :icon: /images/general-content-community.svg
+      :icon-alt: Community icon
+
+      MongoDB Community →
