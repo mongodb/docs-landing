@@ -55,31 +55,26 @@ Configure connections to different databases or clusters, store and retrieve obj
    .. card::
       :headline: FastAPI
       :url: https://fastapi.tiangolo.com/
-      :icon: /icons/fastapi-logo.svg
       :icon-alt: FastAPI logo
 
    .. card::
       :headline: Flask
       :url: https://flask.palletsprojects.com/en/3.0.x/
-      :icon: /icons/flask-logo.svg
       :icon-alt: Flask logo
   
    .. card::
       :headline: MongoEngine for Flask
       :url: https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
-      :icon: /icons/mongoengine-logo.svg
       :icon-alt: MongoEngine logo
 
    .. card::
       :headline: Beanie for FastAPI
       :url: https://beanie-odm.dev/
-      :icon: /icons/beanie-logo.svg
       :icon-alt: Beanie logo
 
    .. card::
       :headline: ODMantic for FastAPI
       :url: https://art049.github.io/odmantic/
-      :icon: /icons/odmantic-logo.svg
       :icon-alt: ODMantic logo
 
 Libraries and Extensions
