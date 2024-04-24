@@ -14,7 +14,7 @@ MongoDB with PHP
    integrations with Laravel and Symfony, Doctrine ODM, and other developer tools for 
    seamless integration with your PHP applications.
 
-   .. button:: Get started with MongoDB with PHP
+   .. button:: Get started with the MongoDB PHP Driver
       :uri: https://www.mongodb.com/docs/drivers/php-drivers/
 
 .. image:: /languages/images/PHP.svg
@@ -80,6 +80,7 @@ Integrations
 ------------
 
 `Laravel MongoDB → <https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/>`__
+
 `Doctrine ODM → <https://github.com/doctrine/mongodb-odm>`__
 
 Content Management Systems
