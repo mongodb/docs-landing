@@ -10,7 +10,7 @@ MongoDB with PHP
 
 .. introduction::
    
-   Build PHP applications with MongoDB’s :atlas:`Atlas cloud database </>`. Utilize PHP drivers, MongoDB
+   Build PHP applications with MongoDB's :atlas:`Atlas cloud database </>`. Utilize PHP drivers, MongoDB
    integrations with Laravel and Symfony, Doctrine ODM, and other developer tools for 
    seamless integration with your PHP applications.
 
@@ -64,17 +64,11 @@ retrieve objects, or use MongoDB as a data store.
       :icon: /languages/images/laravel.png
       :icon-alt: Laravel logo
 
-      Extends methods in the PHP Laravel API to work with MongoDB as a
-      datastore in your Laravel application.
-
    .. card::
       :headline: Symfony
       :url: https://packagist.org/packages/doctrine/mongodb-odm-bundle
       :icon: /languages/images/symfony.png
       :icon-alt: Symfony logo
-
-      Integrates the Doctrine2 MongoDB ODM library into Symfony so you
-      can persist and retrieve objects to and from MongoDB.
   
    .. card::
       :headline: Yii Framework
@@ -82,43 +76,16 @@ retrieve objects, or use MongoDB as a data store.
       :icon: /languages/images/yii.png
       :icon-alt: Yii logo
 
-      Provides MongoDB integration for the Yii Framework v2.0.
-
 Integrations
 ------------
 
-.. card-group::
-   :columns: 2
-   :style: center-content
-
-   .. card::
-      :headline: Laravel MongoDB
-      :url: https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/
-      :icon: /languages/images/laravel.png
-      :icon-alt: Laravel logo
-
-      Extends methods in the PHP Laravel API to work with MongoDB as a
-      datastore in your Laravel application.
-
-   .. card::
-      :headline: Doctrine ODM
-      :url: https://github.com/doctrine/mongodb-odm
-
-      Provides object-mapping functionality for MongoDB.
+`Laravel MongoDB → <https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/>`__
+`Doctrine ODM → <https://github.com/doctrine/mongodb-odm>`__
 
 Content Management Systems
 --------------------------
 
-.. card-group::
-   :columns: 2
-   :style: center-content
-
-   .. card::
-      :headline: Drupal
-      :url: https://www.drupal.org/project/mongodb
-
-      Several modules that allow sites to store different types of
-      Drupal data in MongoDB.
+`Drupal → <https://www.drupal.org/project/mongodb>`__
 
 More Ways to Learn
 ------------------
