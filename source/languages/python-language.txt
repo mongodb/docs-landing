@@ -87,8 +87,8 @@ Libraries and Extensions
 
 `PyMongoArrow → <https://pypi.org/project/pymongoarrow/>`__
 
-MongoDB Integration
--------------------
+Integrations
+------------
 
 .. card-group::
    :columns: 4
