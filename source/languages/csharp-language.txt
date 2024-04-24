@@ -17,6 +17,9 @@ MongoDB with C#
    .. button:: Get started with the C# Driver →
       :uri: https://www.mongodb.com/docs/drivers/csharp/current/
 
+   .. button:: Get started with the Entity Framework Core Provider →
+      :uri: https://www.mongodb.com/docs/entity-framework/current/
+
 .. image:: /images/CSharp.svg
    :alt: C# landing page hero image
 
@@ -34,20 +37,6 @@ Driver
 
       Provides a high-level API for working with MongoDB databases consistent with
       other MongoDB language drivers.
-
-Framework Integrations
-----------------------
-
-.. card-group::
-   :columns: 2
-
-   .. card::
-      :headline: Entity Framework
-      :url: https://www.mongodb.com/docs/entity-framework/current/
-      :icon: /images/icons/entity-framework.png
-      :icon-alt: Entity Framework and .NET icon
-
-      Visit the MongoDB Entity Framework Core Provider documentation →
 
 Libraries and Extensions
 ------------------------
