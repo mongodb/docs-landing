@@ -87,7 +87,7 @@ Integrations
 ------------
 
 .. card-group::
-   :columns: 4
+   :columns: 3
    :style: center-content
 
    .. card::
