@@ -17,7 +17,7 @@ MongoDB with PHP
    .. button:: Get started with MongoDB with PHP
       :uri: https://www.mongodb.com/docs/drivers/php-drivers/
 
-.. image:: /language/images/php.svg
+.. image:: /languages/images/PHP.svg
    :alt: PHP landing page hero image
 
 Drivers
@@ -61,7 +61,7 @@ retrieve objects, or use MongoDB as a data store.
    .. card::
       :headline: Laravel
       :url: https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/
-      :icon: /language/images/laravel.png
+      :icon: /languages/images/laravel.png
       :icon-alt: Laravel logo
 
       Extends methods in the PHP Laravel API to work with MongoDB as a
@@ -70,7 +70,7 @@ retrieve objects, or use MongoDB as a data store.
    .. card::
       :headline: Symfony
       :url: https://packagist.org/packages/doctrine/mongodb-odm-bundle
-      :icon: /language/images/symfony.png
+      :icon: /languages/images/symfony.png
       :icon-alt: Symfony logo
 
       Integrates the Doctrine2 MongoDB ODM library into Symfony so you
@@ -79,7 +79,7 @@ retrieve objects, or use MongoDB as a data store.
    .. card::
       :headline: Yii Framework
       :url: https://www.yiiframework.com/extension/yiisoft/yii2-mongodb
-      :icon: /language/images/yii.png
+      :icon: /languages/images/yii.png
       :icon-alt: Yii logo
 
       Provides MongoDB integration for the Yii Framework v2.0.
@@ -94,7 +94,7 @@ Integrations
    .. card::
       :headline: Laravel MongoDB
       :url: https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/
-      :icon: /language/images/laravel.png
+      :icon: /languages/images/laravel.png
       :icon-alt: Laravel logo
 
       Extends methods in the PHP Laravel API to work with MongoDB as a
