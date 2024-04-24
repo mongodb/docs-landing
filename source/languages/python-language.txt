@@ -91,25 +91,25 @@ Integrations
    .. card::
       :headline: LangChain
       :url: https://python.langchain.com/docs/get_started/introduction/
-      :icon: /icons/Langchain.png
+      :icon: /images/icons/Langchain.png
       :icon-alt: LangChain logo
 
    .. card::
       :headline: LlamaIndex
       :url: https://www.llamaindex.ai/open-source
-      :icon: /icons/LlamaIndex.jpeg
+      :icon: /images/icons/LlamaIndex.jpeg
       :icon-alt: LlamaIndex logo
 
    .. card::
       :headline: Microsoft Semantic Kernel
       :url: https://github.com/microsoft/semantic-kernel
-      :icon: /icons/Microsoft.png
+      :icon: /images/icons/Microsoft.png
       :icon-alt: Microsoft logo
 
    .. card::
       :headline: HayStack
       :url: https://github.com/deepset-ai/haystack
-      :icon: /icons/Haystack-1.png
+      :icon: /images/icons/Haystack-1.png
       :icon-alt: Haystack logo
 
 More ways to learn
