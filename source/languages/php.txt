@@ -55,7 +55,7 @@ Configure connections to different databases or clusters, store and
 retrieve objects, or use MongoDB as a data store.
 
 .. card-group::
-   :columns: 4
+   :columns: 3
    :style: center-content
 
    .. card::
@@ -84,33 +84,77 @@ retrieve objects, or use MongoDB as a data store.
 
       Provides MongoDB integration for the Yii Framework v2.0.
 
-More ways to learn
+Integrations
+------------
+
+.. card-group::
+   :columns: 2
+   :style: center-content
+
+   .. card::
+      :headline: Laravel MongoDB
+      :url: https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/
+      :icon: /language/images/laravel.png
+      :icon-alt: Laravel logo
+
+      Extends methods in the PHP Laravel API to work with MongoDB as a
+      datastore in your Laravel application.
+
+   .. card::
+      :headline: Doctrine ODM
+      :url: https://github.com/doctrine/mongodb-odm
+
+      Provides object-mapping functionality for MongoDB.
+
+Content Management Systems
+--------------------------
+
+.. card-group::
+   :columns: 2
+   :style: center-content
+
+   .. card::
+      :headline: Drupal
+      :url: https://www.drupal.org/project/mongodb
+
+      Several modules that allow sites to store different types of
+      Drupal data in MongoDB.
+
+More Ways to Learn
 ------------------
 
 .. card-group::
-   :columns: 3
+   :columns: 4
    :style: large-icon
 
    .. card::
+      :headline: PHP Frameworks, Libraries, and Tools
+      :url: https://www.mongodb.com/docs/drivers/php-libraries/
+      :icon: /images/icons/php.svg
+      :icon-alt: Docs icon
+
+      PHP Reference  →
+
+   .. card::
       :headline: View PHP developer resources
-      :url: https://www.mongodb.com/docs/
-      :icon: /icons/DevHub.svg
+      :url: https://www.mongodb.com/developer/languages/php/
+      :icon: /images/technical-mdb-devhub.svg
       :icon-alt: DevHub icon
 
       PHP Resources  →
 
    .. card::
-      :headline: Take PHP courses 
-      :url: https://www.mongodb.com/docs/
-      :icon: /icons/Learn.svg
+      :headline: PHP Developer Path
+      :url: https://learn.mongodb.com/learning-paths/mongodb-php-developer-path
+      :icon: /images/icons/university.svg
       :icon-alt: Learn icon
 
-      Node.js Developer Path →
-  
+      PHP Developer Path →
+
    .. card::
       :headline: Join forums and discussions
-      :url: https://www.mongodb.com/docs/
-      :icon: /icons/Community.svg
+      :url: https://www.mongodb.com/community/
+      :icon: /images/general-content-community.svg
       :icon-alt: Community icon
 
       MongoDB Community →
