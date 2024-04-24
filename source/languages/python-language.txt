@@ -18,7 +18,7 @@ MongoDB with Python
    .. button:: Get started with MongoDB Python
       :uri: https://www.mongodb.com/docs/drivers/python-drivers/
 
-.. image:: /images/Python.svg
+.. image:: /images/Python-1.svg
    :alt: Python landing page hero image
 
 Drivers
@@ -85,14 +85,7 @@ Configure connections to different databases or clusters, store and retrieve obj
 Libraries and Extensions
 ------------------------
 
-.. card-group::
-   :columns: 2
-
-   .. card::
-      :headline: PyMongoArrow
-      :url: https://pypi.org/project/pymongoarrow/
-      :icon: /icons/pymongoarrow-logo.svg
-      :icon-alt: PyMongoArrow logo
+`PyMongoArrow → <https://pypi.org/project/pymongoarrow/>`__
 
 MongoDB Integration
 -------------------
@@ -103,25 +96,25 @@ MongoDB Integration
    .. card::
       :headline: LangChain
       :url: https://python.langchain.com/docs/get_started/introduction/
-      :icon: /icons/langchain-logo.svg
+      :icon: /icons/Langchain.png
       :icon-alt: LangChain logo
 
     .. card::
       :headline: LlamaIndex
       :url: https://www.llamaindex.ai/open-source
-      :icon: /icons/llamaindex-logo.svg
+      :icon: /icons/LlamaIndex.jpeg
       :icon-alt: LlamaIndex logo
 
     .. card::
       :headline: Microsoft Semantic Kernel
       :url: https://github.com/microsoft/semantic-kernel
-      :icon: /icons/microsoft-logo.svg
+      :icon: /icons/Microsoft.png
       :icon-alt: Microsoft logo
 
     .. card::
       :headline: HayStack
       :url: https://github.com/deepset-ai/haystack
-      :icon: /icons/haystack-logo.svg
+      :icon: /icons/Haystack 1.png
       :icon-alt: Haystack logo
 
 More ways to learn
