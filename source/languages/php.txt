@@ -1,0 +1,116 @@
+:template: product-landing
+:pl-max-width-paragraphs:
+:noprevnext:
+
+================
+MongoDB with PHP
+================
+
+.. default-domain:: mongodb
+
+.. introduction::
+   
+   Build PHP applications with MongoDB’s :atlas:`Atlas cloud database </>`. Utilize PHP drivers, MongoDB
+   integrations with Laravel and Symfony, Doctrine ODM, and other developer tools for 
+   seamless integration with your PHP applications.
+
+   .. button:: Get started with MongoDB with PHP
+      :uri: https://www.mongodb.com/docs/drivers/php-drivers/
+
+.. image:: /language/images/php.svg
+   :alt: PHP landing page hero image
+
+Drivers
+-------
+
+The MongoDB PHP Driver consists of the extension and library. 
+While it is possible to use the extension alone, MongoDB recommends 
+using the extension and the library together to build an application.
+
+.. card-group::
+   :columns: 2
+
+   .. card::
+      :headline: Extension
+      :url: https://www.php.net/manual/en/set.mongodb.php
+      :icon: /images/icons/php.svg
+      :icon-alt: Driver card icon
+
+      Provides a low-level API and serves to integrate the C libraries
+      ``libmongoc`` and ``libbson`` with PHP.
+
+   .. card::
+      :headline: Library
+      :url: https://www.mongodb.com/docs/php-library/current/
+      :icon: /images/icons/php.svg
+      :icon-alt: Driver card icon
+
+      Provides a high-level API for working with MongoDB databases
+      consistent with other MongoDB language drivers.
+
+Frameworks
+----------
+
+Configure connections to different databases or clusters, store and
+retrieve objects, or use MongoDB as a data store.
+
+.. card-group::
+   :columns: 4
+   :style: center-content
+
+   .. card::
+      :headline: Laravel
+      :url: https://www.mongodb.com/docs/drivers/php/laravel-mongodb/current/
+      :icon: /language/images/laravel.png
+      :icon-alt: Laravel logo
+
+      Extends methods in the PHP Laravel API to work with MongoDB as a
+      datastore in your Laravel application.
+
+   .. card::
+      :headline: Symfony
+      :url: https://packagist.org/packages/doctrine/mongodb-odm-bundle
+      :icon: /language/images/symfony.png
+      :icon-alt: Symfony logo
+
+      Integrates the Doctrine2 MongoDB ODM library into Symfony so you
+      can persist and retrieve objects to and from MongoDB.
+  
+   .. card::
+      :headline: Yii Framework
+      :url: https://www.yiiframework.com/extension/yiisoft/yii2-mongodb
+      :icon: /language/images/yii.png
+      :icon-alt: Yii logo
+
+      Provides MongoDB integration for the Yii Framework v2.0.
+
+More ways to learn
+------------------
+
+.. card-group::
+   :columns: 3
+   :style: large-icon
+
+   .. card::
+      :headline: View PHP developer resources
+      :url: https://www.mongodb.com/docs/
+      :icon: /icons/DevHub.svg
+      :icon-alt: DevHub icon
+
+      PHP Resources  →
+
+   .. card::
+      :headline: Take PHP courses 
+      :url: https://www.mongodb.com/docs/
+      :icon: /icons/Learn.svg
+      :icon-alt: Learn icon
+
+      Node.js Developer Path →
+  
+   .. card::
+      :headline: Join forums and discussions
+      :url: https://www.mongodb.com/docs/
+      :icon: /icons/Community.svg
+      :icon-alt: Community icon
+
+      MongoDB Community →
