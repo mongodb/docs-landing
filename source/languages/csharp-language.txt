@@ -6,8 +6,6 @@
 MongoDB with C#
 ===============
 
-.. default-domain:: mongodb
-
 .. introduction::
 
    Leverage C# to develop applications based on the .Net framework. MongoDB provides
@@ -26,18 +24,11 @@ MongoDB with C#
 Driver
 ------
 
-.. card-group::
-   :columns: 2
+Provides a high-level API for working with MongoDB databases consistent with
+other MongoDB language drivers.
 
-   .. card::
-      :headline: C# Driver
-      :url: https://www.mongodb.com/docs/drivers/csharp/current/
-      :icon: /images/icons/csharp.svg
-      :icon-alt: Driver card icon
-
-      Provides a high-level API for working with MongoDB databases consistent with
-      other MongoDB language drivers.
-
+`C# Driver Documentation → <https://www.mongodb.com/docs/drivers/csharp/current/>`__
+      
 Libraries and Extensions
 ------------------------
 
