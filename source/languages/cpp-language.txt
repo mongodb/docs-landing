@@ -21,16 +21,9 @@ MongoDB with C++
 Drivers
 -------
 
-.. card-group::
-   :columns: 2
+A high-level API for working with MongoDB databases consistent with other MongoDB language drivers.
 
-   .. card::
-      :headline: Driver
-      :url: https://www.mongodb.com/docs/languages/cpp/cpp-driver/current/
-      :icon: /images/icons/cpp.svg
-      :icon-alt: Driver card icon
-
-      Provides a high-level API for working with MongoDB databases consistent with other MongoDB language drivers.
+`C++ Driver Documentation → <https://www.mongodb.com/docs/languages/cpp/cpp-driver/current/>`__
 
 More ways to learn
 ------------------
