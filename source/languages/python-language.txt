@@ -114,7 +114,7 @@ Integrations
    .. card::
       :headline: HayStack
       :url: https://github.com/deepset-ai/haystack
-      :icon: /icons/Haystack 1.png
+      :icon: /icons/Haystack-1.png
       :icon-alt: Haystack logo
 
 More ways to learn
