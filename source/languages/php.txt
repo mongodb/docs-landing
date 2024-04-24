@@ -55,7 +55,7 @@ Configure connections to different databases or clusters, store and
 retrieve objects, or use MongoDB as a data store.
 
 .. card-group::
-   :columns: 3
+   :columns: 4
    :style: center-content
 
    .. card::
