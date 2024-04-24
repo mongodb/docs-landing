@@ -48,7 +48,7 @@ Libraries and Extensions
    .. card::
       :headline: .NET Analyzer 
       :url: https://www.mongodb.com/docs/mongodb-analyzer/current/
-      :icon: /images/icons/entity-framework.png
+      :icon: /images/icons/microsoft-net.svg
       :icon-alt: Entity Framework and .NET icon
 
       Visit the MongoDB Analyzer documentation →
