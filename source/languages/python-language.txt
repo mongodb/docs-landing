@@ -87,6 +87,18 @@ Libraries and Extensions
 
 `PyMongoArrow → <https://pypi.org/project/pymongoarrow/>`__
 
+MongoDB Integration
+-------------------
+
+.. card-group::
+   :columns: 4
+
+   .. card::
+      :headline: LangChain
+      :url: https://python.langchain.com/docs/get_started/introduction/
+      :icon: /icons/Langchain.png
+      :icon-alt: LangChain logo
+
 More ways to learn
 ------------------
 
