@@ -36,7 +36,7 @@ Libraries and Extensions
 
 .. card-group::
    :columns: 2
-   :style: default
+   :style: center-content
 
    .. card::
       :headline: .NET Analyzer 
