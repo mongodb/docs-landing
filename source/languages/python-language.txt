@@ -26,7 +26,6 @@ Drivers
 
 .. card-group::
    :columns: 2
-   :style: center-content
 
    .. card::
       :headline: PyMongo
@@ -56,27 +55,23 @@ Configure connections to different databases or clusters, store and retrieve obj
    .. card::
       :headline: FastAPI
       :url: https://fastapi.tiangolo.com/
+      :icon: /images/icons/FastAPI.png
       :icon-alt: FastAPI logo
 
    .. card::
       :headline: Flask
       :url: https://flask.palletsprojects.com/en/3.0.x/
+      :icon: /images/icons/Flask.png
       :icon-alt: Flask logo
-  
-   .. card::
-      :headline: MongoEngine for Flask
-      :url: https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
-      :icon-alt: MongoEngine logo
 
-   .. card::
-      :headline: Beanie for FastAPI
-      :url: https://beanie-odm.dev/
-      :icon-alt: Beanie logo
+.. community-driver:: MongoEngine for Flask
+   :url: https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
 
-   .. card::
-      :headline: ODMantic for FastAPI
-      :url: https://art049.github.io/odmantic/
-      :icon-alt: ODMantic logo
+.. community-driver:: Beanie for FastAPI
+   :url: https://beanie-odm.dev/
+
+.. community-driver:: ODMantic for FastAPI
+   :url: https://art049.github.io/odmantic/
 
 Libraries and Extensions
 ------------------------
