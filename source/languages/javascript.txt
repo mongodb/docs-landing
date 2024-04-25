@@ -1,0 +1,54 @@
+:template: product-landing
+:pl-max-width-paragraphs:
+:noprevnext:
+
+=======================
+MongoDB with JavaScript
+=======================
+
+.. default-domain:: mongodb
+
+.. introduction::
+    
+   Develop lightweight Javascript or TypeScript applications backed by a 
+   `MongoDB Atlas cloud database <https://www.mongodb.com/docs/atlas/>`__. 
+   Developer integrations like Prisma and Mongoose support your MERN and 
+   MEAN stack applications. MongoDB's Node.js driver is written in 
+   TypeScript and offers all the quality of life improvements modern 
+   developers expect such as predictability, better readability, rich IDE 
+   support and strong type safety.
+
+   .. button:: Get started with MongoDB JavaScript
+      :uri: https://www.mongodb.com/docs/drivers/node/current/
+
+.. image:: /images/Node.svg
+   :alt: JavaScript landing page hero image
+
+Drivers
+-------
+
+.. card-group::
+   :columns: 2
+
+   .. card::
+      :headline: Node.js
+      :url: https://github.com/mongodb/node-mongodb-native/
+      :icon: /images/icons/node.svg
+      :icon-alt: Driver card icon
+
+      Provides a synchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+
+   .. card::
+      :headline: TypeScript
+      :url: https://www.mongodb.com/docs/drivers/typescript/
+      :icon: /images/icons/ts.svg
+      :icon-alt: Driver card icon
+
+      Provides an asynchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+
+Integrations
+------------
+
+`Prisma → <https://www.mongodb.com/developer/languages/typescript/type-safety-with-prisma-and-mongodb/>`__
+
+`MongooseLi → <https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/>`__
