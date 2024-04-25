@@ -66,14 +66,14 @@ Configure connections to different databases or clusters, store and retrieve obj
 
 Community built ODMs (ORMs for Document Database):
 
-  .. community-driver:: MongoEngine for Flask
-     :url: https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
+.. community-driver:: MongoEngine for Flask
+   :url: https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
 
-  .. community-driver:: Beanie for FastAPI
-     :url: https://beanie-odm.dev/
+.. community-driver:: Beanie for FastAPI
+   :url: https://beanie-odm.dev/
 
-  .. community-driver:: ODMantic for FastAPI
-     :url: https://art049.github.io/odmantic/
+.. community-driver:: ODMantic for FastAPI
+   :url: https://art049.github.io/odmantic/
 
 Libraries and Extensions
 ------------------------
