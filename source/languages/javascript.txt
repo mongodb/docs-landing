@@ -36,7 +36,7 @@ Drivers
       :icon: /images/icons/node.svg
       :icon-alt: Driver card icon
 
-      Provides a synchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+      Provides a Node.js API for working with MongoDB databases consistent with other MongoDB language drivers.
 
    .. card::
       :headline: TypeScript
@@ -44,7 +44,7 @@ Drivers
       :icon: /images/icons/ts.svg
       :icon-alt: Driver card icon
 
-      Provides an asynchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+      Provides a TypeScript API for working with MongoDB databases consistent with other MongoDB language drivers.
 
 Integrations
 ------------
