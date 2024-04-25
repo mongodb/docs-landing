@@ -8,7 +8,7 @@ MongoDB with Rust
 
 .. introduction::
    
-   Develop safe and performant Rust applications using MongoDB's :atlas:`Atlas cloud database. </>`
+   Develop safe and performant Rust applications using MongoDB's :atlas:`Atlas cloud database </>`.
    Developer integrations like Rocket and Actix support developers in writing operating
    systems, game engines, and embedded applications.
 
@@ -30,7 +30,7 @@ Integrations
 ------------
 
 .. card-group::
-   :columns: 2
+   :columns: 3
    :style: center-content
 
    .. card::
