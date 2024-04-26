@@ -34,7 +34,7 @@ Drivers
    .. card::
       :headline: Java Sync
       :url: https://www.mongodb.com/docs/drivers/java/sync/current/
-      :icon: /images/icons/node.svg
+      :icon: /images/icons/java.svg
       :icon-alt: Driver card icon
 
       Provides a synchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
@@ -42,7 +42,7 @@ Drivers
    .. card::
       :headline: Java Reactive Streams
       :url: https://www.mongodb.com/docs/languages/java/reactive-streams-driver/current/
-      :icon: /images/icons/ts.svg
+      :icon: /images/icons/java.svg
       :icon-alt: Driver card icon
 
       Provides an asynchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
