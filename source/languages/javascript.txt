@@ -52,3 +52,34 @@ Integrations
 `Prisma → <https://www.mongodb.com/developer/languages/typescript/type-safety-with-prisma-and-mongodb/>`__
 
 `MongooseLi → <https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/>`__
+
+More ways to learn
+------------------
+
+.. card-group::
+   :columns: 3
+   :style: large-icon
+
+   .. card::
+      :headline: View Javascript developer resources
+      :url: https://www.mongodb.com/developer/languages/javascript/
+      :icon: /images/technical-mdb-devhub.svg
+      :icon-alt: DevHub icon
+
+      Python Resources  →
+
+   .. card::
+      :headline: Take the Getting Started with Javascript course 
+      :url: https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path
+      :icon: /images/icons/university.svg
+      :icon-alt: Learn icon
+
+      Python Developer Path →
+  
+   .. card::
+      :headline: Join forums and discussions
+      :url: https://www.mongodb.com/community/
+      :icon: /images/general-content-community.svg
+      :icon-alt: Community icon
+
+      MongoDB Community →
