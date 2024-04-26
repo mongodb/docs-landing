@@ -25,3 +25,8 @@ Drivers
 -------
 
 `Scala driver documentation → <https://www.mongodb.com/developer/languages/typescript/type-safety-with-prisma-and-mongodb/>`__
+
+More ways to learn
+------------------
+
+`MongoDB Community → <https://www.mongodb.com/community/>`__
