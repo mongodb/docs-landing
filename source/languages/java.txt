@@ -57,7 +57,7 @@ Integrations (Community Maintained)
    .. card::
       :headline: SpringData
       :url: https://spring.io/projects/spring-data-mongodb
-      :icon: /images/icons/spring.png
+      :icon: /images/icons/spring.svg
       :icon-alt: LangChain logo
 
    .. card::
