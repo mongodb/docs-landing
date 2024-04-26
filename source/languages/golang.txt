@@ -8,7 +8,7 @@ MongoDB with Go
 
 .. introduction::
    
-   Build Go applications using :atlas:`Atlas cloud database </>`. Several
+   Build Go applications using MongoDB's :atlas:`Atlas cloud database </>`. Several
    community-built integrations as well as Open Telemetry support developers
    looking to build the next generation of Go-based solutions backed by MongoDB.
 
