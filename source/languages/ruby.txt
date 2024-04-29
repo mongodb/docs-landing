@@ -33,7 +33,7 @@ Integrations
 ------------
 
 .. card-group::
-   :columns: 2
+   :columns: 3
    :style: center-content
 
    .. card::
