@@ -15,8 +15,7 @@ MongoDB with Ruby
    .. button:: Get started with the MongoDB Ruby Driver
       :uri: https://www.mongodb.com/docs/ruby-driver/current/
 
-   .. button:: Get started with Mongoid
-      :uri: https://www.mongodb.com/docs/mongoid/current/
+   `Get started with Mongoid → <https://www.mongodb.com/docs/mongoid/current/>`__
 
 .. image:: /images/Ruby.svg
    :alt: Ruby landing page hero image
