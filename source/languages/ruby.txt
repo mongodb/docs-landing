@@ -39,7 +39,7 @@ Integrations
    .. card::
       :headline: Mongoid
       :url: https://www.mongodb.com/docs/mongoid/current/
-      :icon: /images/icons/mongoid.png
+      :icon: /images/icons/mongoid-logo.png
       :icon-alt: Mongoid logo
 
 
