@@ -40,7 +40,7 @@ applications.
    .. card::
       :headline: Library
       :url: https://www.mongodb.com/docs/php-library/current/
-      :icon: /images/icons/php.svg
+      :icon: /images/icons/kotlin.svg
       :icon-alt: Driver card icon
 
       Provides an API to connect to MongoDB in synchronous Kotlin
@@ -53,7 +53,7 @@ Build web applications by using Kotlin web frameworks compatible with
 MongoDB.
 
 .. card-group::
-   :columns: 2
+   :columns: 3
    :style: center-content
 
    .. card::
@@ -65,7 +65,17 @@ MongoDB.
 SDKs
 ----
 
-`Atlas Device SDK for Kotlin → <https://www.mongodb.com/docs/atlas/device-sdks/sdk/kotlin/>`__
+Develop Android or iOS apps using the Android platform or Kotlin Multiplatform (KMP).
+
+.. card-group::
+   :columns: 3
+   :style: center-content
+
+   .. card::
+      :headline: Atlas Device SDK for Kotlin
+      :url: https://www.mongodb.com/docs/atlas/device-sdks/sdk/kotlin/
+      :icon: /images/icons/realm.svg
+      :icon-alt: Realm logo
 
 More Ways to Learn
 ------------------
