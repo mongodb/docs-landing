@@ -38,13 +38,13 @@ applications.
       Provides an API to connect to MongoDB in server-side Kotlin applications that use coroutines.
 
    .. card::
-      :headline: Library
-      :url: https://www.mongodb.com/docs/php-library/current/
+      :headline: Kotlin Sync Driver
+      :url: https://www.mongodb.com/docs/drivers/kotlin-sync/
       :icon: /images/icons/kotlin.svg
       :icon-alt: Driver card icon
 
       Provides an API to connect to MongoDB in synchronous Kotlin
-      applications. This driver is built on the Kotlin Coroutine Driver.
+      applications. The Kotlin Sync Driver is built on the Kotlin Coroutine Driver.
 
 Frameworks
 ----------
@@ -81,7 +81,7 @@ More Ways to Learn
 ------------------
 
 .. card-group::
-   :columns: 4
+   :columns: 3
    :style: large-icon
 
    .. card::
