@@ -1,0 +1,91 @@
+:template: product-landing
+:pl-max-width-paragraphs:
+:noprevnext:
+
+===================
+MongoDB with Kotlin
+===================
+
+.. default-domain:: mongodb
+
+.. introduction::
+      
+   Develop server-side Kotlin applications with MongoDB's :atlas:`Atlas cloud database </>`. With two Kotlin
+   drivers that support coroutine-based and synchronous development respectively, the MongoDB Kotlin drivers
+   support developers in building server-side applications in Kotlin that are interoperable with the JVM ecosystem.
+
+   .. button:: Get started with the MongoDB Kotlin Drivers
+      :uri: https://www.mongodb.com/docs/drivers/kotlin-drivers/
+
+.. image:: /languages/images/kotlin.svg
+   :alt: Kotlin landing page hero image
+
+Drivers
+-------
+
+MongoDB provides drivers for both coroutine-based and synchronous
+applications.
+
+.. card-group::
+   :columns: 2
+
+   .. card::
+      :headline: Kotlin Coroutine Driver
+      :url: https://www.mongodb.com/docs/drivers/kotlin/coroutine/current/
+      :icon: /images/icons/kotlin.svg
+      :icon-alt: Driver card icon
+
+      Provides an API to connect to MongoDB in server-side Kotlin applications that use coroutines.
+
+   .. card::
+      :headline: Library
+      :url: https://www.mongodb.com/docs/php-library/current/
+      :icon: /images/icons/php.svg
+      :icon-alt: Driver card icon
+
+      Provides an API to connect to MongoDB in synchronous Kotlin
+      applications. This driver is built on the Kotlin Coroutine Driver.
+
+Frameworks
+----------
+
+Build web applications by using Kotlin web frameworks compatible with
+MongoDB.
+
+.. card-group::
+   :columns: 2
+   :style: center-content
+
+   .. card::
+      :headline: Ktor
+      :url: https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/
+      :icon: /languages/images/ktor.jpg
+      :icon-alt: Ktor logo
+
+SDKs
+----
+
+`Atlas Device SDK for Kotlin → <https://www.mongodb.com/docs/atlas/device-sdks/sdk/kotlin/>`__
+
+More Ways to Learn
+------------------
+
+.. card-group::
+   :columns: 4
+   :style: large-icon
+
+   .. card::
+      :headline: View Kotlin developer resources
+      :url: https://www.mongodb.com/developer/languages/kotlin/
+      :icon: /images/technical-mdb-devhub.svg
+      :icon-alt: DevHub icon
+
+      Kotlin Resources  →
+
+   .. card::
+      :headline: Join forums and discussions
+      :url: https://www.mongodb.com/community/
+      :icon: /images/general-content-community.svg
+      :icon-alt: Community icon
+
+      MongoDB Community →
