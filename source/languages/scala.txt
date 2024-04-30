@@ -24,7 +24,7 @@ MongoDB with Scala
 Drivers
 -------
 
-`Scala driver documentation → <https://www.mongodb.com/developer/languages/typescript/type-safety-with-prisma-and-mongodb/>`__
+`Scala driver documentation → <https://www.mongodb.com/docs/languages/scala/scala-driver/current/>`__
 
 More ways to learn
 ------------------
