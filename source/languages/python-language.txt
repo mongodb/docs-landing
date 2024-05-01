@@ -33,7 +33,7 @@ Drivers
       :icon: /images/icons/python.svg
       :icon-alt: Driver card icon
 
-      Provides a synchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+      Provides a synchronous API for working with MongoDB databases consistent with other MongoDB language drivers.
 
    .. card::
       :headline: Motor
@@ -41,7 +41,7 @@ Drivers
       :icon: /images/icons/python.svg
       :icon-alt: Driver card icon
 
-      Provides an asynchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+      Provides an asynchronous API for working with MongoDB databases consistent with other MongoDB language drivers.
 
 Frameworks
 ----------
@@ -111,7 +111,7 @@ Integrations
       :icon: /images/icons/Haystack-1.png
       :icon-alt: Haystack logo
 
-More ways to learn
+More Ways to Learn
 ------------------
 
 .. card-group::
@@ -127,7 +127,7 @@ More ways to learn
       Python Resources  →
 
    .. card::
-      :headline: Take the Getting Started with Python course 
+      :headline: Learn about Python and MongoDB 
       :url: https://learn.mongodb.com/learning-paths/using-mongodb-with-python
       :icon: /images/icons/university.svg
       :icon-alt: Learn icon
