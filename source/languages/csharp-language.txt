@@ -8,11 +8,11 @@ MongoDB with C#
 
 .. introduction::
 
-   Leverage C# to develop applications based on the .Net framework. MongoDB provides
-   both a C# driver and an Entity Framework integration for you to take advantage of
+   Leverage C# to develop applications based on the .NET framework. MongoDB provides
+   both a .NET/C# driver and an Entity Framework integration for you to take advantage of
    using MongoDB in this general-purpose, multi-paradigm programming language.
 
-   .. button:: Get started with the C# Driver
+   .. button:: Get started with the .NET/C# Driver
       :uri: https://www.mongodb.com/docs/drivers/csharp/current/
 
 .. image:: /images/CSharp.svg
@@ -67,7 +67,7 @@ More Ways to Learn
       C# Resources  →
 
    .. card::
-      :headline: Take C# courses 
+      :headline: Learn about C# and MongoDB
       :url: https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp
       :icon: /images/icons/university.svg
       :icon-alt: Learn icon
