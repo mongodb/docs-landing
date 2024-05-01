@@ -37,7 +37,7 @@ Drivers
       :icon: /images/icons/java.svg
       :icon-alt: Driver card icon
 
-      Provides a synchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+      Provides a synchronous API for working with MongoDB databases consistent with other MongoDB language drivers.
 
    .. card::
       :headline: Java Reactive Streams
@@ -45,7 +45,7 @@ Drivers
       :icon: /images/icons/java.svg
       :icon-alt: Driver card icon
 
-      Provides an asynchonus API for working with MongoDB databases consistent with other MongoDB language drivers.
+      Provides an asynchronous API for working with MongoDB databases consistent with other MongoDB language drivers.
 
 Integrations (Community Maintained)
 -----------------------------------
@@ -83,7 +83,7 @@ Libraries and Extensions
 
 `DataGrip → <https://www.jetbrains.com/datagrip/features/mongodb/>`__
 
-More ways to learn
+More Ways to Learn
 ------------------
 
 .. card-group::
@@ -99,7 +99,7 @@ More ways to learn
       Java Resources  →
 
    .. card::
-      :headline: Take the Getting Started with Javascript course 
+      :headline: Learn about Java and MongoDB 
       :url: https://learn.mongodb.com/learning-paths/mongodb-java-developer-path
       :icon: /images/icons/university.svg
       :icon-alt: Learn icon
