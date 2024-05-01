@@ -8,9 +8,9 @@ MongoDB with Go
 
 .. introduction::
    
-   Build Go applications using MongoDB's :atlas:`Atlas cloud database </>`. Several
-   community-built integrations as well as Open Telemetry support developers
-   looking to build the next generation of Go-based solutions backed by MongoDB.
+   Build Go applications using MongoDB's :atlas:`Atlas cloud database </>`. OpenTelemetry
+   and community-built integrations support developers looking to build the next
+   generation of Go-based solutions backed by MongoDB.
 
    .. button:: Get started with the MongoDB Go Driver
       :uri: https://www.mongodb.com/docs/drivers/go/current/
@@ -29,7 +29,7 @@ other MongoDB language drivers.
 Integrations
 ------------
 
-`Open Telemetry → <https://opentelemetry.io/>`__
+`OpenTelemetry → <https://opentelemetry.io/>`__
 
 `Community-Built Integrations → <https://www.mongodb.com/resources/languages/golang#using-go-and-mongodb-with-other-technologies>`__
 
