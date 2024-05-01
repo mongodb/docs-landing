@@ -47,7 +47,7 @@ connects your C application to MongoDB.
 
       Provides an API for working with MongoDB databases consistent with other MongoDB language drivers.
 
-More ways to learn
+More Ways to Learn
 ------------------
 
 .. card-group::
@@ -68,7 +68,7 @@ More ways to learn
       :icon: /images/icons/university.svg
       :icon-alt: Learn icon
 
-      Getting Started with the C Driver Course →
+      Learn about C and MongoDB →
   
    .. card::
       :headline: Join forums and discussions
