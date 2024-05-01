@@ -10,8 +10,8 @@ MongoDB with Kotlin
 
 .. introduction::
       
-   Develop server-side Kotlin applications with MongoDB's :atlas:`Atlas cloud database </>`. With two Kotlin
-   drivers that support coroutine-based and synchronous development respectively, the MongoDB Kotlin drivers
+   Develop server-side Kotlin applications with MongoDB's :atlas:`Atlas cloud database </>`. With support for 
+   both coroutine-based and synchronous development, the MongoDB Kotlin drivers
    support developers in building server-side applications in Kotlin that are interoperable with the JVM ecosystem.
 
    .. button:: Get started with the MongoDB Kotlin Drivers
