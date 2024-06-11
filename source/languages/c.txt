@@ -1,5 +1,6 @@
 :template: product-landing
 :pl-max-width-paragraphs:
+:nav-show-all-products: true
 :noprevnext:
 
 ==============
