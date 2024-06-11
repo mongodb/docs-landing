@@ -1,4 +1,5 @@
 :template: product-landing
+:hidefeedback: page
 :pl-max-width-paragraphs:
 :noprevnext:
 
