@@ -105,5 +105,3 @@
             :url: https://www.mongodb.com/docs/languages/javascript/
             :icon: /images/icons/ts.svg
             :icon-alt: TypeScript Driver icon
-
-.. include:: /index.txt
