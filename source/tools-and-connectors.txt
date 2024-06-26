@@ -209,6 +209,12 @@ Management Tools
 
       Manage resources in MongoDB Atlas using Kubernetes.
 
+   .. card::
+      :headline: MongoDB Atlas Terraform Provider
+      :url: https://registry.terraform.io/providers/mongodb/mongodbatlas/latest
+      :icon: /images/icons/automation.png
+      :icon-alt: Automation LogoMark
+
 Generative AI Information
 -------------------------
 
