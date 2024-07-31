@@ -95,19 +95,19 @@ Integrations
 
    .. card::
       :headline: LlamaIndex
-      :url: https://www.llamaindex.ai/open-source
+      :url: https://docs.llamaindex.ai/en/stable/examples/docstore/MongoDocstoreDemo/
       :icon: /images/icons/LlamaIndex.jpeg
       :icon-alt: LlamaIndex logo
 
    .. card::
       :headline: Microsoft Semantic Kernel
-      :url: https://github.com/microsoft/semantic-kernel
+      :url: https://devblogs.microsoft.com/semantic-kernel/building-ai-applications-with-microsoft-semantic-kernel-and-mongodb-atlas-vector-search/
       :icon: /images/icons/Microsoft.png
       :icon-alt: Microsoft logo
 
    .. card::
       :headline: HayStack
-      :url: https://github.com/deepset-ai/haystack
+      :url: https://haystack.deepset.ai/integrations/mongodb
       :icon: /images/icons/Haystack-1.png
       :icon-alt: Haystack logo
 
