@@ -89,7 +89,7 @@ Integrations
 
    .. card::
       :headline: LangChain
-      :url: https://python.langchain.com/v0.2/docs/integrations/vectorstores/mongodb_atlas/
+      :url: https://python.langchain.com/v0.2/docs/integrations/providers/mongodb_atlas/
       :icon: /images/icons/Langchain.png
       :icon-alt: LangChain logo
 
