@@ -113,21 +113,21 @@ Integrations
 
    .. card::
       :headline: DocArray
-      :url: https://github.com/docarray/docarray
+      :url: https://github.com/docarray/docarray/blob/75e0033a361a31280709899e94d6f5e14ff4b8ae/docarray/index/backends/mongodb_atlas.py#L49
       :icon: /images/icons/DocArray-light.png
       :icon-dark: /images/icons/DocArray-dark.png
       :icon-alt: DocArray logo
 
    .. card::
       :headline: ChatGPT Retrieval Plugin
-      :url: https://github.com/openai/chatgpt-retrieval-plugin
+      :url: https://github.com/openai/chatgpt-retrieval-plugin/blob/main/docs/providers/mongodb/setup.md
       :icon: /images/icons/openai-logomark.png
       :icon-dark: /images/icons/openai-dark.png
       :icon-alt: ChatGPT Retrieval Plugin logo
 
    .. card::
       :headline: Autogen
-      :url: https://github.com/microsoft/autogen
+      :url: https://github.com/microsoft/autogen/blob/main/autogen/agentchat/contrib/vectordb/mongodb.py
       :icon: /images/icons/Autogen.png
       :icon-alt: Autogen logo
 
