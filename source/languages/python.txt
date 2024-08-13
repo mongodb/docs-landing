@@ -113,7 +113,7 @@ Integrations
 
    .. card::
       :headline: DocArray
-      :url: https://github.com/docarray/docarray/blob/75e0033a361a31280709899e94d6f5e14ff4b8ae/docarray/index/backends/mongodb_atlas.py#L49
+      :url: https://github.com/docarray/docarray/blob/main/docarray/index/backends/mongodb_atlas.py
       :icon: /images/icons/DocArray-light.png
       :icon-dark: /images/icons/DocArray-dark.png
       :icon-alt: DocArray logo
