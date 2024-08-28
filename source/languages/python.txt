@@ -91,7 +91,7 @@ Integrations
       :headline: LangChain
       :url: https://python.langchain.com/docs/get_started/introduction/
       :icon: /images/icons/Langchain.png
-      :icon-dark: /images/icons/Langchain-dark.png
+      :icon-dark: /images/icons/Langchain-dark.svg
       :icon-alt: LangChain logo
 
    .. card::

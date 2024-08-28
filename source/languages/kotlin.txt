@@ -60,7 +60,7 @@ MongoDB.
       :headline: Ktor
       :url: https://www.mongodb.com/developer/languages/kotlin/mastering-kotlin-creating-api-ktor-mongodb-atlas/
       :icon: /languages/images/ktor.jpg
-      :icon-dark: /languages/images/ktor-dark.jpg
+      :icon-dark: /languages/images/ktor-dark.svg
       :icon-alt: Ktor logo
 
 SDKs
