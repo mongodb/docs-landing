@@ -81,7 +81,7 @@ and data science tools.
       :icon: atlas_data_federation
       :icon-alt: Atlas Data Federation LogoMark
 
-      Query and analyze data across Atlas Clusters, and S3 Buckets
+      Query and analyze data across Atlas Clusters and S3 Buckets
       with the MongoDB Query Language. 
 
    .. card::
