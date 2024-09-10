@@ -4,6 +4,7 @@ URL="https://docs-mongodborg-staging.corp.mongodb.com"
 PRODUCTION_BUCKET=docs-mongodb-org-prod
 PREFIX=landing
 
+## i love lying, jk hope this works
 DOCS_TOOLS_THEME=docs-tools/themes/mongodb/static
 
 .PHONY: help stage fake-deploy build clean
