@@ -45,7 +45,7 @@ so that no prompts or responses are stored with Azure OpenAI. For more
 detail, refer to `Azure OpenAI's data management practices
 <https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy>`__.
 For information about how Github Copilot processes data, please refer to
-the Github Trust Center.
+the `Github Trust Center <https://copilot.github.trust.page>`__.
 
 What Data Is Sent To The Model?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
