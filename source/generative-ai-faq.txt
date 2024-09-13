@@ -34,7 +34,7 @@ What Services Do These GenAI Features Rely On?
 MongoDB's current GenAI features are powered by `Azure OpenAI
 <https://azure.microsoft.com/en-us/products/ai-services/openai-service>`__,
 except that the participant within MongoDB for VS Code is powered by
-Github Copilot.When you use these features, your data is processed in
+Github Copilot. When you use these features, your data is processed in
 Microsoft Azure using the Azure OpenAI service or by the Github Copilot
 service. 
 
