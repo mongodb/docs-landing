@@ -45,7 +45,7 @@ applications and implement retrieval-augmented generation (RAG).
 `Learn More About Microsoft Semantic Kernal → <https://learn.microsoft.com/en-us/semantic-kernel/overview/>`__
 
 Integrate MongoDB with your Microsoft .NET-based application by using the .NET
-Aspire MongoDB database Integration.
+Aspire MongoDB Database Integration.
 
 `Get Started With the .NET Aspire MongoDB Database Integration → <https://learn.microsoft.com/en-us/dotnet/aspire/database/mongodb-integration>`__
 
