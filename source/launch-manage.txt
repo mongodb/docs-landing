@@ -44,6 +44,27 @@ Learn how to spin up a fully-managed MongoDB database with Atlas, manage
 databases using Kubernetes-native operators and the MongoDB CLI, and monitor 
 your self-managed databases.
 
+.. collapsible::
+   :heading: Here is my collapsible
+   :expanded: true
+
+   This is collapsible content
+
+   .. code-block:: javascript
+      
+      This is code within collapsible content
+
+.. collapsible::
+   :heading: Another collapsible
+   :expanded: false
+
+   So much info, but it's closed on load!!!
+
+.. collapsible::
+   :heading: This one is open too, omg
+
+   Look at this stuff!!
+
 .. card-group::
    :columns: 2
    :style: extra-compact
