@@ -40,11 +40,57 @@ Launch & Manage MongoDB
       :url: https://www.mongodb.com/docs/ops-manager/current/
       :primary:
 
+.. tabs-selector:: drivers
+
 Learn how to spin up a fully-managed MongoDB database with Atlas, manage
 databases using Kubernetes-native operators and the MongoDB CLI, and monitor 
-your self-managed databases.
+your self-managed :link-new-tab:`fierce <https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F>` databases.
 
 There's more :link-new-tab:`Atlas Playground <https://search-playground.mongodb.com/snapshots/new>`
+
+.. collapsible::
+   :heading: False and methodselector
+   :expanded: false
+
+   .. method-selector::
+
+      .. method-option::
+         :id: driver
+
+         .. method-description::
+
+            This is an optional description. Learn more about drivers at `MongoDB Documentation <https://www.mongodb.com/docs/drivers/>`__.
+
+      This is content in the Driver method haha.
+
+.. collapsible::
+   :heading: Heading true!
+   :expanded: true
+   
+   asdfgasdf
+
+.. collapsible::
+   :heading: Heading undefined
+
+   lkajsdcojkasdofkjasdf;lkjasdlfjasdf
+
+.. collapsible::
+   :heading: without boolean
+   :expanded:
+
+   ;oaisdhgljksdf
+
+.. tabs::
+         
+   .. tab:: Foo
+      :tabid: nodejs
+
+      This is content in tab foo.
+         
+   .. tab:: Bar
+      :tabid: python
+
+      This is content in bar foo.
 
 .. card-group::
    :columns: 2
