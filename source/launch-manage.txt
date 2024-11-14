@@ -41,9 +41,9 @@ Launch & Manage MongoDB
       :primary:
 
 .. tabs-selector:: drivers
+   :default-tabid: python
 
 .. tabs-drivers::
-   :default-tabid: python
 
    .. tab::
       :tabid: c
