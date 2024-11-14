@@ -42,6 +42,18 @@ Launch & Manage MongoDB
 
 .. tabs-selector:: drivers
 
+.. tabs-drivers::
+   :default-tab-id: python
+
+   .. tab::
+      :tabid: c
+
+   .. tab::
+      :tabid: cpp
+      
+   .. tab::
+      :tabid: csharp
+
 Learn how to spin up a fully-managed MongoDB database with Atlas, manage
 databases using Kubernetes-native operators and the MongoDB CLI, and monitor 
 your self-managed :link-new-tab:`fierce <https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F>` databases.
