@@ -57,11 +57,12 @@ There's more :link-new-tab:`Atlas Playground <https://search-playground.mongodb.
       .. method-option::
          :id: driver
 
-         .. method-description::
+         This is an optional description. Learn more about drivers at `MongoDB Documentation <https://www.mongodb.com/docs/drivers/>`__.
+      
+      .. method-option::
+         :id: cli
 
-            This is an optional description. Learn more about drivers at `MongoDB Documentation <https://www.mongodb.com/docs/drivers/>`__.
-
-      This is content in the Driver method haha.
+         oashjdflkajsdfljsdf
 
 .. collapsible::
    :heading: Heading true!
