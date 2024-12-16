@@ -7,10 +7,17 @@
 Legacy Documentation
 ====================
 
-MongoDB encourages upgrading to the most recent version to ensure 
-documentation support. If upgrading is not possible, archived 
-documentation is still available for previous versions. Archived 
-documentation no longer receives updates.  
+MongoDB encourages upgrading to the most recent version to
+ensure that you can use the most up-to-date documentation and support. 
+If upgrading is not possible, legacy documentation is available for
+older product versions. Legacy documentation contains archived
+documentation for MongoDB products that are no longer recommended for
+use. MongoDB does not maintain or update legacy documentation. 
+
+Use the products documented in `MongoDB Documentation
+<https://www.mongodb.com/docs/>`__ for up-to-date documentation and
+support. 
+
 
 -----------
 
