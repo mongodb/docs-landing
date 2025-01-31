@@ -55,8 +55,8 @@ Configure connections to different databases or clusters, store and retrieve obj
    .. card::
       :headline: Django MongoDB Backend
       :url: https://www.mongodb.com/docs/languages/python/django-mongodb/current/
-      :icon: /images/icons/FastAPI.png
-      :icon-alt: FastAPI logo
+      :icon: /images/icons/Django-Logo.png
+      :icon-alt: Django logo
 
    .. card::
       :headline: FastAPI
