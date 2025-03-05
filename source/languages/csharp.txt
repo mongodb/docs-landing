@@ -77,7 +77,7 @@ More Ways to Learn
    :style: large-icon
 
    .. card::
-      :headline: Take the C# Associate Developer Exam
+      :headline: Take the C# Associate Developer exam
       :url: https://learn.mongodb.com/courses/mongodb-associate-developer-exam-c-sharp
       :icon: /images/icons/general_misc_achievement.png
       :icon-alt: Achievement icon
