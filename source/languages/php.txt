@@ -88,8 +88,16 @@ More Ways to Learn
 ------------------
 
 .. card-group::
-   :columns: 4
+   :columns: 2
    :style: large-icon
+
+   .. card::
+      :headline: Take the PHP Associate Developer Exam
+      :url: https://learn.mongodb.com/courses/associate-developer-exam-php
+      :icon: /images/icons/general_misc_achievement.png
+      :icon-alt: Achievement icon
+
+      PHP Associate Developer Exam  →
 
    .. card::
       :headline: PHP Frameworks, Libraries, and Tools
