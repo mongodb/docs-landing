@@ -104,7 +104,7 @@ Integrations
       :headline: LangGraph
       :url: https://www.mongodb.com/docs/atlas/atlas-vector-search/ai-integrations/langgraph/
       :icon: /images/icons/langgraph.svg
-      :icon-dark: /images/icons/langgraph.svg
+      :icon-dark: /images/icons/langgraph-dark.svg
       :icon-alt: LangGraph logo
 
    .. card::
