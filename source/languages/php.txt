@@ -32,7 +32,7 @@ using the extension and the library together to build an application.
 
    .. card::
       :headline: Extension
-      :url: https://www.php.net/manual/en/set.mongodb.php
+      :url: https://www.php.net/manual/en/book.mongodb.php
       :icon: /images/icons/php.svg
       :icon-alt: Driver card icon
 
@@ -69,12 +69,6 @@ retrieve objects, or use MongoDB as a data store.
       :url: https://www.mongodb.com/docs/drivers/php-frameworks/symfony/
       :icon: /languages/images/symfony.png
       :icon-alt: Symfony logo
-  
-   .. card::
-      :headline: Yii Framework
-      :url: https://www.yiiframework.com/extension/yiisoft/yii2-mongodb
-      :icon: /languages/images/yii.png
-      :icon-alt: Yii logo
 
 Integrations
 ------------
@@ -94,7 +88,7 @@ More Ways to Learn
 ------------------
 
 .. card-group::
-   :columns: 4
+   :columns: 3
    :style: large-icon
 
    .. card::
@@ -106,9 +100,17 @@ More Ways to Learn
       PHP Reference  →
 
    .. card::
+      :headline: Take the PHP Associate Developer Exam
+      :url: https://learn.mongodb.com/courses/associate-developer-exam-php
+      :icon: /images/icons/general_misc_achievement.png
+      :icon-alt: Achievement icon
+
+      PHP Associate Developer Exam  →
+
+   .. card::
       :headline: View PHP developer resources
       :url: https://www.mongodb.com/developer/languages/php/
-      :icon: /images/technical-mdb-devhub.svg
+      :icon: mdb_devhub
       :icon-alt: DevHub icon
 
       PHP Resources  →
@@ -116,7 +118,7 @@ More Ways to Learn
    .. card::
       :headline: Learn about PHP and MongoDB
       :url: https://learn.mongodb.com/learning-paths/mongodb-php-developer-path
-      :icon: /images/icons/university.svg
+      :icon: general_content_learn
       :icon-alt: Learn icon
 
       PHP Developer Path →
@@ -124,7 +126,7 @@ More Ways to Learn
    .. card::
       :headline: Join forums and discussions
       :url: https://www.mongodb.com/community/
-      :icon: /images/general-content-community.svg
+      :icon: general_content_community
       :icon-alt: Community icon
 
       MongoDB Community →

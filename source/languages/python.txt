@@ -53,6 +53,12 @@ Configure connections to different databases or clusters, store and retrieve obj
    :style: center-content
 
    .. card::
+      :headline: Django MongoDB Backend
+      :url: https://www.mongodb.com/docs/languages/python/django-mongodb/current/
+      :icon: /images/icons/Django-Logo.png
+      :icon-alt: Django logo
+
+   .. card::
       :headline: FastAPI
       :url: https://fastapi.tiangolo.com/
       :icon: /images/icons/FastAPI.png
@@ -91,6 +97,7 @@ Integrations
       :headline: LangChain
       :url: https://www.mongodb.com/docs/atlas/atlas-vector-search/ai-integrations/langchain/
       :icon: /images/icons/Langchain.png
+      :icon-dark: /images/icons/Langchain-dark.svg
       :icon-alt: LangChain logo
 
    .. card::
@@ -103,12 +110,14 @@ Integrations
       :headline: LlamaIndex
       :url: https://www.mongodb.com/docs/atlas/atlas-vector-search/ai-integrations/llamaindex/
       :icon: /images/icons/LlamaIndex.jpeg
+      :icon-dark: /images/icons/LlamaIndex-dark.png
       :icon-alt: LlamaIndex logo
 
    .. card::
       :headline: Microsoft Semantic Kernel
       :url: https://www.mongodb.com/docs/atlas/atlas-vector-search/ai-integrations/semantic-kernel/
       :icon: /images/icons/Microsoft.png
+      :icon-dark: /images/icons/Microsoft-dark.png
       :icon-alt: Microsoft logo
 
    .. card::
@@ -117,17 +126,39 @@ Integrations
       :icon: /images/icons/Haystack-1.png
       :icon-alt: Haystack logo
 
+   .. card::
+      :headline: DocArray
+      :url: https://github.com/docarray/docarray/blob/main/docarray/index/backends/mongodb_atlas.py
+      :icon: /images/icons/DocArray-light.png
+      :icon-dark: /images/icons/DocArray-dark.png
+      :icon-alt: DocArray logo
+
+   .. card::
+      :headline: ChatGPT Retrieval Plugin
+      :url: https://github.com/openai/chatgpt-retrieval-plugin/blob/main/docs/providers/mongodb/setup.md
+      :icon: /images/icons/openai-logomark.png
+      :icon-dark: /images/icons/openai-dark.png
+      :icon-alt: ChatGPT Retrieval Plugin logo
+
 More Ways to Learn
 ------------------
 
 .. card-group::
-   :columns: 3
+   :columns: 2
    :style: large-icon
+
+   .. card::
+      :headline: Take the Python Associate Developer Exam
+      :url: https://learn.mongodb.com/courses/mongodb-associate-developer-exam-python
+      :icon: /images/icons/general_misc_achievement.png
+      :icon-alt: Achievement icon
+
+      Python Associate Developer Exam  →
 
    .. card::
       :headline: View Python developer resources
       :url: https://www.mongodb.com/developer/languages/python/
-      :icon: /images/technical-mdb-devhub.svg
+      :icon: mdb_devhub
       :icon-alt: DevHub icon
 
       Python Resources  →
@@ -135,7 +166,7 @@ More Ways to Learn
    .. card::
       :headline: Learn about Python and MongoDB 
       :url: https://learn.mongodb.com/learning-paths/mongodb-python-developer-path
-      :icon: /images/icons/university.svg
+      :icon: general_content_learn
       :icon-alt: Learn icon
 
       Python Developer Path →
@@ -143,7 +174,7 @@ More Ways to Learn
    .. card::
       :headline: Join forums and discussions
       :url: https://www.mongodb.com/community/
-      :icon: /images/general-content-community.svg
+      :icon: general_content_community
       :icon-alt: Community icon
 
       MongoDB Community →

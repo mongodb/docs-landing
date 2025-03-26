@@ -1,5 +1,3 @@
-:noprevnext:
-
 ================================
 Migrators, Tools, and Connectors
 ================================
@@ -24,7 +22,6 @@ Migrators, Tools, and Connectors
    .. entry:: Generative AI Information
       :url: https://www.mongodb.com/docs/tools-and-connectors/#generative-ai-information
       
-
 Migrators
 ---------
 
@@ -35,7 +32,7 @@ Migrators
    .. card::
       :headline: Relational Migrator
       :url: https://www.mongodb.com/docs/relational-migrator/
-      :icon: /images/icons/migrator.svg
+      :icon: mdb_migrator
       :icon-alt: Relational Migrator LogoMark
    
       Migrate data from your relational database to MongoDB.
@@ -43,7 +40,7 @@ Migrators
    .. card::
       :headline: Atlas Live Migration
       :url: https://www.mongodb.com/docs/atlas/import/
-      :icon: /images/icons/live-migration.svg
+      :icon: mdb_live_migration
       :icon-alt: Live Migration LogoMark
 
       Pull data from existing MongoDB deployments, JSON, or CSV
@@ -52,7 +49,7 @@ Migrators
    .. card::
       :headline: Cluster-to-Cluster Sync
       :url: https://www.mongodb.com/docs/cluster-to-cluster-sync/current/connecting/onprem-to-atlas/
-      :icon: /images/icons/cluster-to-cluster-sync.svg
+      :icon: mdb_cluster_to_cluster_sync
       :icon-alt: Cluster-to-Cluster Sync LogoMark
 
       Continuously synchronize data between MongoDB clusters
@@ -62,7 +59,7 @@ Migrators
    .. card::
       :headline: Database Tools
       :url: https://www.mongodb.com/docs/database-tools/
-      :icon: /images/icons/database-tools.svg
+      :icon: general_features_tools
       :icon-alt: Database Tools LogoMark
 
       Export data from one MongoDB cluster to a JSON, BSON,
@@ -78,25 +75,25 @@ Data Exploration and Visualization
    .. card::
       :headline: Compass
       :url: https://www.mongodb.com/docs/compass/current/
-      :icon: /images/icons/compass.svg
+      :icon: mdb_compass
       :icon-alt: Compass LogoMark
 
       Visually explore your data with full CRUD functionality, and index and
       performance management.
 
    .. card::
-      :headline: Charts
+      :headline: Atlas Charts
       :url: https://www.mongodb.com/docs/charts/
-      :icon: /images/icons/charts.svg
-      :icon-alt: Charts LogoMark
+      :icon: atlas_charts
+      :icon-alt: Atlas Charts LogoMark
 
       Create, share, and embed visualizations of MongoDB data.
 
    .. card::
-      :headline: PyMongoArrow
+      :headline: PyMongoArrow Driver
       :url: https://mongo-arrow.readthedocs.io/en/stable/
-      :icon: /images/icons/table.png
-      :icon-alt: PyMongoArrow LogoMark
+      :icon: general_features_table
+      :icon-alt: PyMongoArrow Driver LogoMark
 
       Use PyMongo to load MongoDB query result sets as Pandas DataFrames, NumPy arrays, and
       Apache Arrow tables.
@@ -109,19 +106,19 @@ IDE Integrations
    :style: extra-compact
 
    .. card::
-      :headline: MongoDB for VS Code
+      :headline: VS Code Extension
       :url: https://www.mongodb.com/docs/mongodb-vscode/
-      :icon: /images/icons/vscode.svg
-      :icon-alt: VS Code LogoMark
+      :icon: mdb_shell
+      :icon-alt: VS Code Extension LogoMark
 
       Find out how you can manage your data directly within your coding
       environment.
 
    .. card::
-      :headline: MongoDB Analyzer
+      :headline: C# Analyzer
       :url: https://www.mongodb.com/docs/mongodb-analyzer/current/
-      :icon: /images/icons/analyzer.svg
-      :icon-alt: MongoDB Analyzer LogoMark
+      :icon: general_features_build_faster
+      :icon-alt: C# Analyzer LogoMark
 
       Understand and troubleshoot queries and aggregations directly inside
       Visual Studio and other tools.
@@ -136,7 +133,7 @@ Connectors
    .. card::
       :headline: BI Connector
       :url: https://www.mongodb.com/docs/bi-connector/current/
-      :icon: /images/icons/bi-connector.svg
+      :icon: connectors_bi_connector
       :icon-alt: BI Connector LogoMark
 
       Connect MongoDB to your favorite BI platforms to visualize, graph, and
@@ -145,7 +142,7 @@ Connectors
    .. card::
       :headline: Kafka Connector
       :url: https://docs.mongodb.com/kafka-connector/current/
-      :icon: /images/icons/kafka.svg
+      :icon: connectors_kafka
       :icon-alt: Kafka Connector LogoMark
 
       Build robust pipelines that stream events between applications with
@@ -154,7 +151,7 @@ Connectors
    .. card::
       :headline: Spark Connector
       :url: https://www.mongodb.com/docs/spark-connector/current/
-      :icon: /images/icons/spark.svg
+      :icon: connectors
       :icon-alt: Spark LogoMark
 
       Leverage Apache Spark's libraries to analyze MongoDB data with machine
@@ -163,7 +160,7 @@ Connectors
    .. card::
       :headline: Atlas SQL
       :url: https://www.mongodb.com/docs/atlas/data-federation/query/query-with-sql/
-      :icon: /images/icons/atlas-sql.svg
+      :icon: atlas_data_lake_sql_support
       :icon-alt: Atlas SQL LogoMark
 
       Create and run SQL queries to visualize, graph, and report on your
@@ -179,7 +176,7 @@ Management Tools
    .. card::
       :headline: Cloud Manager
       :url: https://www.mongodb.com/docs/cloud-manager
-      :icon: /images/icons/cloud-manager.svg
+      :icon: atlas_cloud_manager
       :icon-alt: Cloud Manager LogoMark
 
       Use the hosted management platform to monitor, automate, and backup
@@ -188,7 +185,7 @@ Management Tools
    .. card::
       :headline: Ops Manager
       :url: https://www.mongodb.com/docs/ops-manager/current/
-      :icon: /images/icons/ops-manager.svg
+      :icon: enterpriseadvanced_ops_manager
       :icon-alt: Ops Manager LogoMark
 
       Deploy, monitor, back up, and scale MongoDB on your own infrastructure.
@@ -196,23 +193,23 @@ Management Tools
    .. card::
       :headline: MongoDB Kubernetes Operators
       :url: https://www.mongodb.com/docs/kubernetes-operator/stable/
-      :icon: /images/icons/kubernetes.svg
+      :icon: connectors_kubernetes_operator
       :icon-alt: Kubernetes Operator LogoMark
 
       Learn how to run MongoDB in Kubernetes on your own infrastructure.
 
    .. card::
-      :headline: MongoDB Atlas Kubernetes Operator
+      :headline: Atlas Kubernetes Operator
       :url: https://www.mongodb.com/docs/atlas/atlas-operator/stable/
-      :icon: /images/icons/kubernetes.svg
-      :icon-alt: Kubernetes Operator LogoMark
+      :icon: connectors_kubernetes_operator
+      :icon-alt: Atlas Kubernetes Operator LogoMark
 
       Manage resources in MongoDB Atlas using Kubernetes.
 
    .. card::
-      :headline: MongoDB Atlas Terraform Provider
+      :headline: Atlas Terraform Provider
       :url: https://registry.terraform.io/providers/mongodb/mongodbatlas/latest
-      :icon: /images/icons/automation.png
+      :icon: mdb_automation
       :icon-alt: Automation LogoMark
 
       Manage resources in MongoDB Atlas using Terraform.
@@ -228,6 +225,7 @@ Generative AI Information
       :headline: Generative AI FAQs
       :url: https://www.mongodb.com/docs/generative-ai-faq/
       :icon: /images/icons/mongodb-dna.png
+      :icon-dark: /images/icons/mongodb-dna-dark.png
       :icon-alt: Gen AI alt
 
       Learn how MongoDB applications can enhance your user experience 
