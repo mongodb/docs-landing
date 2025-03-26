@@ -140,8 +140,8 @@
      inkscape:cy="133.48966"
      inkscape:window-width="1425"
      inkscape:window-height="819"
-     inkscape:window-x="271"
-     inkscape:window-y="184"
+     inkscape:window-x="151"
+     inkscape:window-y="189"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer2" />
   <g
@@ -149,12 +149,12 @@
      id="layer2"
      inkscape:label="bg">
     <rect
-       style="opacity:1;fill:#ffffff"
+       style="opacity:1;fill:#ffffff;stroke-width:0.711431"
        id="rect587"
-       width="492.3689"
-       height="248.19685"
-       x="-1.3416046"
-       y="-1.3416046" />
+       width="324.66833"
+       height="190.50786"
+       x="77.813095"
+       y="25.490488" />
   </g>
   <path
      fill-rule="evenodd"
