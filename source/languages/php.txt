@@ -81,7 +81,8 @@ Content Management Systems
 --------------------------
 
 .. card-group::
-   :columns: 1
+   :columns: 2
+   :style: center-content
 
    .. card::
       :headline: Drupal
