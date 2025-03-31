@@ -81,7 +81,7 @@ Content Management Systems
 --------------------------
 
 .. card-group::
-   :columns: 2
+   :columns: 4
    :style: center-content
 
    .. card::
