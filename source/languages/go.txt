@@ -31,7 +31,7 @@ other MongoDB language drivers.
 Integrations
 ------------
 
-:atlas:`Get Started with the LangChainGo Integration </atlas-vector-search/ai-integrations/langchaingo>`
+:atlas:`Get Started with the LangChainGo Integration → </atlas-vector-search/ai-integrations/langchaingo>`
 
 `OpenTelemetry → <https://opentelemetry.io/>`__
 
