@@ -7,7 +7,7 @@ MongoDB with C++
 ================
 
 .. meta::
-   :description: Explore using MongoDB's C++ driver to build applications like engines, games, and GUIs with Atlas cloud database support.
+   :description: Explore using the MongoDB C++ driver to build applications like engines, games, and GUIs with Atlas cloud database support.
 
 .. include:: /includes/docs-toc.rst
 

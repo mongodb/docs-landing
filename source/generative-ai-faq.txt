@@ -9,7 +9,7 @@ Generative AI FAQs
 ==================
 
 .. meta::
-   :description: Explore MongoDB's generative AI features, including query generation and visualization, powered by Azure OpenAI and Github Copilot.
+   :description: Explore generative AI features in MongoDB, including query generation and visualization, powered by Azure OpenAI and Github Copilot.
 
 .. image:: /images/homepage-hero.svg
    :class: hero-img
