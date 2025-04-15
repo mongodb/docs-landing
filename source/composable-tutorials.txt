@@ -53,25 +53,25 @@ Example page with Composable Tutorial
    .. selected-content::
       :selections: atlas-admin-api, None, self, aws
 
-			There can't be a title here
-			---------------------------
+		There can't be a title here
+		---------------------------
 
-			This content will only be shown when the selections are as follows:
-			* Interface - Atlas Admin API
-			* Deployment Type - self
-			* Cloud Provider - AWS
+		This content will only be shown when the selections are as follows:
+		* Interface - Atlas Admin API
+		* Deployment Type - self
+		* Cloud Provider - AWS
 
-			This content will only be shown when the selections are as follows:
-			* Interface - Atlas Admin API
-			* Deployment Type - self
-			* Cloud Provider - AWS
+		This content will only be shown when the selections are as follows:
+		* Interface - Atlas Admin API
+		* Deployment Type - self
+		* Cloud Provider - AWS
 
-			This content will only be shown when the selections are as follows:
-			* Interface - Atlas Admin API
-			* Deployment Type - self
-			* Cloud Provider - AWS
+		This content will only be shown when the selections are as follows:
+		* Interface - Atlas Admin API
+		* Deployment Type - self
+		* Cloud Provider - AWS
 
-			This content will only be shown when the selections are as follows:
-			* Interface - Atlas Admin API
-			* Deployment Type - self
-			* Cloud Provider - AWS
+		This content will only be shown when the selections are as follows:
+		* Interface - Atlas Admin API
+		* Deployment Type - self
+		* Cloud Provider - AWS
