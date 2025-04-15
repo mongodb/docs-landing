@@ -10,53 +10,68 @@ Example page with Composable Tutorial
       :selections: driver, nodejs, atlas, gcp
 
       This content will only be shown when the selections are as follows:
-      Interface - Drivers
-      Language - NodeJS
-      Deployment Type - Atlas
-      Cloud Provider - GCP
+      * Interface - Drivers
+      * Language - NodeJS
+      * Deployment Type - Atlas
+      * Cloud Provider - GCP
 
    .. selected-content::
       :selections: driver, c, atlas, gcp
 
       This content will only be shown when the selections are as follows:
-      Interface - Drivers
-      Language - C
-      Deployment Type - atlas
-      Cloud Provider - GCP
+      * Interface - Drivers
+      * Language - C
+      * Deployment Type - atlas
+      * Cloud Provider - GCP
 
    .. selected-content::
       :selections: driver, cpp, atlas, aws
 
       This content will only be shown when the selections are as follows:
-      Interface - Drivers
-      Language - CPP
-      Deployment Type - atlas
-      Cloud Provider - AWS
+      * Interface - Drivers
+      * Language - CPP
+      * Deployment Type - atlas
+      * Cloud Provider - AWS
 
 
    .. selected-content::
       :selections: atlas-admin-api, None, atlas, gcp
 
       This content will only be shown when the selections are as follows:
-      Interface - Atlas Admin API
-      Deployment Type - atlas
-      Cloud Provider - GCP
-
+      * Interface - Atlas Admin API
+      * Deployment Type - atlas
+      * Cloud Provider - GCP
 
    .. selected-content::
       :selections: atlas-admin-api, None, atlas, aws
 
       This content will only be shown when the selections are as follows:
-      Interface - Atlas Admin API
-      Deployment Type - Atlas
-      Cloud Provider - AWS
-
-
+      * Interface - Atlas Admin API
+      * Deployment Type - Atlas
+      * Cloud Provider - AWS
 
    .. selected-content::
       :selections: atlas-admin-api, None, self, aws
 
-      This content will only be shown when the selections are as follows:
-      Interface - Atlas Admin API
-      Deployment Type - self
-      Cloud Provider - AWS
+			There can't be a title here
+			---------------------------
+
+			This content will only be shown when the selections are as follows:
+			* Interface - Atlas Admin API
+			* Deployment Type - self
+			* Cloud Provider - AWS
+
+			This content will only be shown when the selections are as follows:
+			* Interface - Atlas Admin API
+			* Deployment Type - self
+			* Cloud Provider - AWS
+
+			This content will only be shown when the selections are as follows:
+			* Interface - Atlas Admin API
+			* Deployment Type - self
+			* Cloud Provider - AWS
+
+			This content will only be shown when the selections are as follows:
+			* Interface - Atlas Admin API
+			* Deployment Type - self
+			* Cloud Provider - AWS
