@@ -53,8 +53,8 @@ Example page with Composable Tutorial
    .. selected-content::
       :selections: atlas-admin-api, None, self, aws
 
-      There can't be a title here
-      ---------------------------
+      This is a title under selected content
+      --------------------------------------
 
       This content will only be shown when the selections are as follows:
       * Interface - Atlas Admin API
