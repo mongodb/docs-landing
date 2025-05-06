@@ -44,7 +44,7 @@ options = [
    {id = "aws2", title = "aws2"}
 ]
 
-# overwrite dependencies
+# overwrite default
 [[composables]]
 id = "language"
 title = "Language"
