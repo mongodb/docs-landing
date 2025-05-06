@@ -3,55 +3,55 @@ Example page with Composable Tutorial
 =====================================
 
 .. composable-tutorial::
-   :options: interface, language, deployment-type, cloud-provider
-   :defaults: driver, nodejs, atlas, gcp
+   :options: interface, language, deployment-type, operator
+   :defaults: driver, nodejs, atlas, queryString
 
    .. selected-content::
-      :selections: driver, nodejs, atlas, gcp
+      :selections: driver, nodejs, atlas, queryString
 
       This content will only be shown when the selections are as follows:
       * Interface - Drivers
       * Language - NodeJS
       * Deployment Type - Atlas
-      * Cloud Provider - GCP
+      * Operator (custom snooty.toml) - queryString
 
    .. selected-content::
-      :selections: driver, c, atlas, gcp
+      :selections: driver, c, atlas, queryString
 
       This content will only be shown when the selections are as follows:
       * Interface - Drivers
       * Language - C
       * Deployment Type - atlas
-      * Cloud Provider - GCP
+      * Operator (custom snooty.toml) - queryString
 
    .. selected-content::
-      :selections: driver, cpp, atlas, aws
+      :selections: driver, cpp, atlas, autocomplete
 
       This content will only be shown when the selections are as follows:
       * Interface - Drivers
       * Language - CPP
       * Deployment Type - atlas
-      * Cloud Provider - AWS
+      * Operator (custom snooty.toml) - autocomplete
 
 
    .. selected-content::
-      :selections: atlas-admin-api, None, atlas, gcp
+      :selections: atlas-admin-api, None, atlas, queryString
 
       This content will only be shown when the selections are as follows:
       * Interface - Atlas Admin API
       * Deployment Type - atlas
-      * Cloud Provider - GCP
+      * Operator (custom snooty.toml) - queryString
 
    .. selected-content::
-      :selections: atlas-admin-api, None, atlas, aws
+      :selections: atlas-admin-api, None, atlas, autocomplete
 
       This content will only be shown when the selections are as follows:
       * Interface - Atlas Admin API
       * Deployment Type - Atlas
-      * Cloud Provider - AWS
+      * Operator (custom snooty.toml) - autocomplete
 
    .. selected-content::
-      :selections: atlas-admin-api, None, self, aws
+      :selections: atlas-admin-api, None, self, autocomplete
 
       This is a title under selected content
       --------------------------------------
@@ -59,19 +59,33 @@ Example page with Composable Tutorial
       This content will only be shown when the selections are as follows:
       * Interface - Atlas Admin API
       * Deployment Type - self
-      * Cloud Provider - AWS
+      * Operator (custom snooty.toml) - autocomplete
 
       This content will only be shown when the selections are as follows:
       * Interface - Atlas Admin API
       * Deployment Type - self
-      * Cloud Provider - AWS
+      * Operator (custom snooty.toml) - autocomplete
 
       This content will only be shown when the selections are as follows:
       * Interface - Atlas Admin API
       * Deployment Type - self
-      * Cloud Provider - AWS
+      * Operator (custom snooty.toml) - autocomplete
 
       This content will only be shown when the selections are as follows:
       * Interface - Atlas Admin API
       * Deployment Type - self
-      * Cloud Provider - AWS
+      * Operator (custom snooty.toml) - autocomplete
+
+      .. io-code-block:: 
+         :copyable: true 
+
+         .. input::
+            :language: shell 
+
+            QUERY_EMBEDDING.length
+
+         .. output:: 
+            :language: shell 
+
+            1536
+
