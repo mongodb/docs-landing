@@ -1,15 +1,15 @@
 :template: landing
 :hidefeedback: page
 :nav-show-all-products: true
-:title: Docs Home
+:title: MongoDB Documentation Homepage
 
 .. meta::
    :description: This is the official MongoDB Documentation. Learn how to store data in flexible documents, create a MongoDB Atlas deployment, and use an ecosystem of tools and integrations.
    :canonical: https://www.mongodb.com/docs/
 
-==============================
-MongoDB Documentation Homepage
-==============================
+=====================
+MongoDB Documentation
+=====================
 
 .. include:: /includes/docs-toc.rst
 
