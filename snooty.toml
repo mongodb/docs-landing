@@ -38,13 +38,13 @@ options = [
 [[composables]]
 id = "cloud-provider"
 title = "Operator"
-default = "queryString"
+default = "aws"
 options = [
    {id = "aws", title = "new aws title"},
    {id = "aws2", title = "aws2"}
 ]
 
-# overwrite default
+# overwrite dependencies
 [[composables]]
 id = "language"
 title = "Language"

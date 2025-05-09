@@ -2,6 +2,12 @@
 Example page with Composable Tutorial
 =====================================
 
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 2
+   :class: singlecol
+
 .. composable-tutorial::
    :options: interface, language, deployment-type, operator
    :defaults: driver, nodejs, atlas, queryString
