@@ -151,45 +151,57 @@ MongoDB also offers:
    - Serverless horizontal scaling with geo-aware fault tolerance across all major clouds.
    - Security primitives that allow MongoDB to operate in the most demanding of enterprise environments.
 
+.. kicker:: How this documentation is organized
+
 .. card-group::
    :columns: 1
    :layout: default
    
    .. card::
-      :headline: MongoDB Atlas →
+      :headline: Getting Started
       :url: https://www.mongodb.com/docs/atlas/getting-started/
-      :icon: /images/technical-atlas-serverless.svg
-      :icon-alt: Atlas icon
 
-      Run MongoDB on a multi-cloud developer data platform that 
-      accelerates and simplifies working with operational data.
+      Start here! Our Getting Started guide walks you through deploying 
+      your first database and downloading all the tools and libraries 
+      you need to start developing with MongoDB. 
 
    .. card:: 
-      :headline: Database Manual →
-      :icon: /images/technical-mdb-shell.svg
-      :icon-alt: MongoDB Database Manual
+      :headline: Development
       :url: https://www.mongodb.com/docs/manual/
 
-      Learn core MongoDB concepts, including data modeling, querying 
-      data, aggregations, sharding, and more.
+      Everything you need to know to write apps with MongoDB, from the basics like connecting, 
+      CRUD, and the core query language, to advanced topics such as index 
+      optimization and data modeling. 
    
    .. card:: 
-      :headline: Migrators, Tools, and Connectors →
-      :icon: /images/general-features-tools.svg
-      :icon-alt: Migrators, Tools, and Connectors
+      :headline: Management
       :url: https://www.mongodb.com/docs/tools-and-connectors/
 
-      Explore tools and integrations for MongoDB, from data 
-      visualization and development to migration and management.
+      Everything you need to know to administer and manage MongoDB deployments, including 
+      provisioning, scaling, backup, monitoring, disaster recovery, security.
 
    .. card:: 
-      :headline: Client Libraries →
-      :icon: /images/technical-atlas-drivers.svg
-      :icon-alt: Client libraries icon.
+      :headline: Client Libraries
       :url: https://www.mongodb.com/docs/drivers/
 
-      Connect your application to your database with one of the 
-      official MongoDB libraries.
+      Connect application code to MongoDB with a client library in 
+      your favorite programming language or application framework. 
+
+   .. card:: 
+      :headline: Tools
+      :url: https://www.mongodb.com/docs/drivers/
+
+      Explore tools and integrations to aid in both development and management,
+      including simplifying database management, integration, migration, and data visualization.
+
+   .. card:: 
+      :headline: Atlas Architecture Center
+      :url: https://www.mongodb.com/docs/drivers/
+
+      Learn best practices for designing scalable, secure, and resilient 
+      systems using MongoDB in enterprise environments including architecture fundamentals, 
+      MongoDB capabilities, and reference architectures.
+
 
 More Ways to Learn
 ------------------
