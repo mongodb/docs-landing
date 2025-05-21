@@ -122,11 +122,7 @@ Welcome to MongoDB Docs
    as an application developer or an operator. 
 
    .. button:: Get Started
-      :uri: 
-
-.. image:: /images/homepage-hero-revert.svg
-   :class: hero-img
-   :alt: Homepage illustration
+      :uri: https://www.mongodb.com/docs/atlas/getting-started/
 
 What is MongoDB?
 ----------------
