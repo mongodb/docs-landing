@@ -128,46 +128,46 @@ Welcome to MongoDB Docs
    :class: hero-img
    :alt: Homepage illustration
 
-   What is MongoDB?
-   ----------------
+What is MongoDB?
+----------------
 
-   MongoDB is a document-oriented, operational database 
-   built from the ground up as an alternative to the relational 
-   database for modern applications.  
+MongoDB is a document-oriented, operational database 
+built from the ground up as an alternative to the relational 
+database for modern applications.  
 
-   Unlike relational databases, MongoDB allows developers 
-   to store rich JSON-like documents that map naturally to 
-   the objects they use in their code.
+Unlike relational databases, MongoDB allows developers 
+to store rich JSON-like documents that map naturally to 
+the objects they use in their code.
 
-   For example, to model user objects in an application, 
-   a relational model would require multiple tables for 
-   what could be elegantly stored in MongoDB as this:
+For example, to model user objects in an application, 
+a relational model would require multiple tables for 
+what could be elegantly stored in MongoDB as this:
 
-   .. code-block:: json
+.. code-block:: json
 
-      {
-       firstname: "Bob",
-       lastname: "Smith",
-       email: "bob@smith.com",
-       address: {
-         street: "100 Main St",
-         city: "Anytown",
-         state: "MO",
-         zip: "11111"
-       }
+   {
+      firstname: "Bob",
+      lastname: "Smith",
+      email: "bob@smith.com",
+      address: {
+      street: "100 Main St",
+      city: "Anytown",
+      state: "MO",
+      zip: "11111"
       }
-   
-   And retrieved with queries such as:
+   }
 
-   .. code-block:: sh
+And retrieved with queries such as:
 
-      users.find({address.zip : "111111"})
+.. code-block:: sh
 
-   MongoDB also offers:
-   - Strong consistency with ACID transactions.
-   - Modern additional built-in query capabilities such as geographical search, lexical search, and vector search.
-   - Serverless horizontal scaling with geography-aware fault tolerance across all major cloud providers.
-   - Security primitives that comply with the most demanding of enterprise environments.
+   users.find({address.zip : "111111"})
+
+MongoDB also offers:
+- Strong consistency with ACID transactions.
+- Modern additional built-in query capabilities such as geographical search, lexical search, and vector search.
+- Serverless horizontal scaling with geography-aware fault tolerance across all major cloud providers.
+- Security primitives that comply with the most demanding of enterprise environments.
 
 .. kicker:: How this documentation is organized
 
