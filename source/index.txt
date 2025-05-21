@@ -161,7 +161,8 @@ MongoDB also offers:
   - Serverless horizontal scaling with geo-aware fault tolerance across all major clouds.
   - Security primitives that allow MongoDB to operate in the most demanding of enterprise environments.
 
-.. kicker:: How this documentation is organized
+About the Documentation
+-----------------------
 
 .. card-group::
    :columns: 1
