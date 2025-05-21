@@ -1,5 +1,5 @@
 :template: landing
-:hidefeedback: page
+:hidefeedback: true
 :nav-show-all-products: true
 :title: Generative AI FAQs
 :orphan:
@@ -15,6 +15,8 @@ Generative AI FAQs
    :class: hero-img
    :alt: Homepage illustration
 
+Last Updated: 22 May, 2025
+
 What GenAI Features Does MongoDB Currently Offer?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -22,10 +24,10 @@ MongoDB offers various generative AI (GenAI) capabilities in its
 products and services, including within Atlas and in its software 
 products. 
 
-For example, in MongoDB Compass and Charts, Atlas users can
+For example, in `MongoDB Compass <https://dochub.mongodb.org/core/compass-ai-data-usage>`__ and `Atlas Charts <https://dochub.mongodb.org/core/charts-ai-data-usage>`__, Atlas users can
 leverage natural language to generate queries or visualizations. With
-MongoDB Relational Migrator, GenAI can be leveraged for query
-conversions. And within MongoDB for VS Code, the MongoDB Github Copilot
+`Relational Migrator <https://dochub.mongodb.org/core/migrator-ai-data-usage>`__, GenAI can be leveraged  to convert application code and database
+objects. With MongoDB for VS Code, the MongoDB Github Copilot
 participant allows developers to generate MongoDB-related code more
 efficiently through Github Copilot Chat.
 
@@ -39,11 +41,10 @@ MongoDB's current GenAI features are powered by `Azure OpenAI
 except that the participant within MongoDB for VS Code is powered by
 Github Copilot. When you use these features, your data is processed in
 Microsoft Azure using the Azure OpenAI service or by the Github Copilot
-service. 
+service. **No data processed by these services is used to train those third-party models.**
 
-Data processed in these services is not used for any model training.
 MongoDB has opted out of asynchronous `Abuse Monitoring
-<https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__
+<https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__, 
 so that no prompts or responses are stored with Azure OpenAI. For more
 detail, refer to `Azure OpenAI's data management practices
 <https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy>`__.
@@ -57,7 +58,7 @@ Each MongoDB tool backed by GenAI sends the minimal required
 information to produce the best possible answer. To learn more 
 about what each tool sends, please consult our documentation:
 
-- `Compass <https://dochub.mongodb.org/core/compass-ai-data-usage>`__
+- `MongoDB Compass <https://dochub.mongodb.org/core/compass-ai-data-usage>`__
 - `Atlas Charts <https://dochub.mongodb.org/core/charts-ai-data-usage>`__
 - `Relational Migrator <https://dochub.mongodb.org/core/migrator-ai-data-usage>`__
 - `MongoDB for VSCode <https://www.mongodb.com/docs/mongodb-vscode/ai-data-usage/>`__
@@ -70,12 +71,27 @@ No.
 Does MongoDB Store my Inputs or their Corresponding Outputs to GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MongoDB may store inputs and outputs from the GenAI service for a 
-limited time period (up to one year) for troubleshooting, analytics, and
-feature improvement.
-For any GenAI capabilities offered in our on-premise software 
-(Relational Migrator and Compass) you may opt out, in which case
-MongoDB will not store your inputs or outputs.
+MongoDB may temporarily store inputs and outputs from the GenAI service
+for up to one year for troubleshooting, analytics, and feature improvement. MongoDB will not share those inputs and outputs with any third-party.
+
+How Can I Disable MongoDB's GenAI Features?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GenAI features within MongoDB's products and services are optional.
+While they are enabled by default in Atlas for your convenience,
+you have the ability to disable them at any time. 
+
+Please consult our Atlas Organization Settings Documentation for information on how Organization Owners can disable Atlas GenAI features in Atlas at the organization level. 
+
+When Atlas GenAI features are enabled at the organization level, individual Project Owners can still enable or disable individual AI features at the project level. To learn more about Atlas Project Settings for GenAI features, please consult the Documentation for each Atlas feature: 
+
+- `Atlas Data Explorer <https://www.mongodb.com/docs/atlas/atlas-ui/>`__
+- `Atlas Charts <https://dochub.mongodb.org/core/charts-ai-data-usage>`__
+
+GenAI capabilities offered in our on-premise Relational Migrator and Compass software can be disabled from within that product: 
+
+- `Relational Migrator <https://dochub.mongodb.org/core/migrator-ai-data-usage>`__
+- `MongoDB Compass <https://dochub.mongodb.org/core/compass-ai-data-usage>`__
 
 What Agreements Govern My Use of MongoDB's GenAI Features?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,3 +100,10 @@ Your use of these features is subject to your applicable MongoDB legal
 agreement, our
 `Acceptable Use Policy <https://www.mongodb.com/legal/acceptable-use-policy>`_ and 
 our `Privacy Policy <https://www.mongodb.com/legal/privacy/privacy-policy>`__.
+
+
+What About Voyage AI Embedding and Reranking Models?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We recently acquired Voyage AI, which offers AI embedding and reranking models. For more details on how these models work and what data they use,
+please refer to https://docs.voyageai.com/docs/faq and the `Voyage Terms of Service <https://www.voyageai.com/tos>`__.
