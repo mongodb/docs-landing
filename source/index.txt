@@ -1,5 +1,3 @@
-:template: landing
-:hidefeedback: page
 :nav-show-all-products: true
 :title: Docs Home
 
@@ -7,9 +5,9 @@
    :description: Store data in flexible documents and develop applications designed to adapt and scale, backed by Atlas, a fully managed platform with always-on security and an ecosystem of tools and integrations.
    :canonical: https://www.mongodb.com/docs/
 
-=====================
-MongoDB Documentation
-=====================
+=======================
+Welcome to MongoDB Docs
+=======================
 
 .. ia::
 
@@ -116,18 +114,42 @@ MongoDB Documentation
             :icon: /images/icons/ts.svg
             :icon-alt: TypeScript Driver icon
 
-.. introduction::
+Welcome to the MongoDB documentation. This site contains everything you need to learn to effectively use MongoDB as an application developer or an operator. 
 
-   Welcome to the official MongoDB Documentation. 
-   Whether you’re a developer, database administrator, 
-   or just starting your journey with MongoDB, our 
-   documentation provides you with the information and 
-   knowledge needed to build applications on MongoDB and 
-   the Atlas developer data platform.
+What is MongoDB?
+----------------
 
-.. image:: /images/homepage-hero-revert.svg
-   :class: hero-img
-   :alt: Homepage illustration
+MongoDB is a document-oriented, operational database built from the ground up as an alternative to the relational database for modern applications.  
+
+Unlike relational databases, MongoDB allows developers to store rich JSON-like documents that map naturally to the objects they use in their code.
+
+For example, to model user objects in an application, a relational model would require multiple tables for what could be elegantly stored in MongoDB as this:
+
+.. code-block:: json
+
+   {
+      firstname: "Bob",
+      lastname: "Smith",
+      email: "bob@smith.com",
+      address: {
+         street: "100 Main St",
+         city: "Anytown",
+         state: "MO",
+         zip: "11111"
+      }
+   }
+
+And retrieved with queries such as this:
+
+.. code-block:: sh
+
+   users.find({address.zip : "11111"})
+
+MongoDB also offers:
+   - Strong consistency with ACID transactions.
+   - Modern additional built-in query capabilities such as geo search, lexical search, and vector search.
+   - Serverless horizontal scaling with geo-aware fault tolerance across all major clouds.
+   - Security primitives that allow MongoDB to operate in the most demanding of enterprise environments.
 
 .. card-group::
    :columns: 1
