@@ -114,6 +114,12 @@ Welcome to MongoDB Docs
             :icon: /images/icons/ts.svg
             :icon-alt: TypeScript Driver icon
 
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 2
+   :class: onecol
+
 Welcome to the MongoDB documentation. This site contains everything you need to learn to effectively use MongoDB as an application developer or an operator. 
 
 .. button::  Get Started
@@ -149,10 +155,11 @@ And retrieved with queries such as this:
    users.find({address.zip : "11111"})
 
 MongoDB also offers:
-   - Strong consistency with ACID transactions.
-   - Modern additional built-in query capabilities such as geo search, lexical search, and vector search.
-   - Serverless horizontal scaling with geo-aware fault tolerance across all major clouds.
-   - Security primitives that allow MongoDB to operate in the most demanding of enterprise environments.
+
+  - Strong consistency with ACID transactions.
+  - Modern additional built-in query capabilities such as geo search, lexical search, and vector search.
+  - Serverless horizontal scaling with geo-aware fault tolerance across all major clouds.
+  - Security primitives that allow MongoDB to operate in the most demanding of enterprise environments.
 
 .. kicker:: How this documentation is organized
 
