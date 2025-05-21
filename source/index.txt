@@ -116,6 +116,9 @@ Welcome to MongoDB Docs
 
 Welcome to the MongoDB documentation. This site contains everything you need to learn to effectively use MongoDB as an application developer or an operator. 
 
+.. button::  Get Started
+   :uri: https://www.mongodb.com/docs/atlas/getting-started/
+
 What is MongoDB?
 ----------------
 
