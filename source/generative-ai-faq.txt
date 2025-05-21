@@ -106,5 +106,7 @@ our `Privacy Policy <https://www.mongodb.com/legal/privacy/privacy-policy>`__.
 What About Voyage AI Embedding and Reranking Models?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We recently acquired Voyage AI, which offers AI embedding and reranking models. For more details on how these models work and what data they use,
-please refer to https://docs.voyageai.com/docs/faq and the `Voyage Terms of Service <https://www.voyageai.com/tos>`__.
+We recently acquired Voyage AI, which offers AI embedding and reranking models.
+For more details on how these models work and what data they use, please
+refer to the `Voyage AI FAQ <https://docs.voyageai.com/docs/faq>`__
+and the `Voyage Terms of Service <https://www.voyageai.com/tos>`__.
