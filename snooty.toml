@@ -23,3 +23,57 @@ kafka-connector = ["v1.9", "v1.8", "v1.7", "v1.6", "v1.5", "v1.4", "v1.3", "v1.2
 golang = ["v1.10", "v1.9", "v1.8", "v1.7"]
 java = ["v4.6", "v4.5", "v4.4", "v4.3"]
 php-library = ["v1.15", "v1.13", "v1.12", "v1.11", "v1.10", "v1.9", "v1.8", "v1.7", "v1.6", "v1.5", "v1.4", "v1.3", "v1.2", "v1.1"]
+
+
+[[composables]]
+id = "operator"
+title = "Operator"
+default = "queryString"
+options = [
+   {id = "queryString", title = "queryString"},
+   {id = "autocomplete", title = "autocomplete"}
+]
+
+# merging existing
+[[composables]]
+id = "cloud-provider"
+title = "Operator"
+default = "aws"
+options = [
+   {id = "aws", title = "new aws title"},
+   {id = "aws2", title = "aws2"}
+]
+
+# overwrite dependencies
+[[composables]]
+id = "language"
+title = "Language"
+default = "cpp"
+options = []
+
+# [[composables]]
+# # missing id
+# # missing title
+# default = "queryString"
+# options = [
+#    {id = "queryString", title = "queryString"},
+#    {id = "autocomplete", title = "autocomplete"}
+# ]
+
+
+# [[composables]]
+# id = "operator2"
+# title = "Operator2"
+# # works without default
+# options = [
+#    {id = "queryString", title = "queryString"},
+#    {id = "autocomplete", title = "autocomplete"}
+# ]
+
+# [[composables]]
+# id = "operator3"
+# title = "Operator3"
+# options = [
+#    {id = "queryString"}, # missing title
+#    {title = "autocomplete"} # missing id
+# ]

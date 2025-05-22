@@ -1,0 +1,97 @@
+=====================================
+Example page with Composable Tutorial
+=====================================
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 2
+   :class: singlecol
+
+.. composable-tutorial::
+   :options: interface, language, deployment-type, operator
+   :defaults: driver, nodejs, atlas, queryString
+
+   .. selected-content::
+      :selections: driver, nodejs, atlas, queryString
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Drivers
+      * Language - NodeJS
+      * Deployment Type - Atlas
+      * Operator (custom snooty.toml) - queryString
+
+   .. selected-content::
+      :selections: driver, c, atlas, queryString
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Drivers
+      * Language - C
+      * Deployment Type - atlas
+      * Operator (custom snooty.toml) - queryString
+
+   .. selected-content::
+      :selections: driver, cpp, atlas, autocomplete
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Drivers
+      * Language - CPP
+      * Deployment Type - atlas
+      * Operator (custom snooty.toml) - autocomplete
+
+
+   .. selected-content::
+      :selections: atlas-admin-api, None, atlas, queryString
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Atlas Admin API
+      * Deployment Type - atlas
+      * Operator (custom snooty.toml) - queryString
+
+   .. selected-content::
+      :selections: atlas-admin-api, None, atlas, autocomplete
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Atlas Admin API
+      * Deployment Type - Atlas
+      * Operator (custom snooty.toml) - autocomplete
+
+   .. selected-content::
+      :selections: atlas-admin-api, None, self, autocomplete
+
+      This is a title under selected content
+      --------------------------------------
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Atlas Admin API
+      * Deployment Type - self
+      * Operator (custom snooty.toml) - autocomplete
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Atlas Admin API
+      * Deployment Type - self
+      * Operator (custom snooty.toml) - autocomplete
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Atlas Admin API
+      * Deployment Type - self
+      * Operator (custom snooty.toml) - autocomplete
+
+      This content will only be shown when the selections are as follows:
+      * Interface - Atlas Admin API
+      * Deployment Type - self
+      * Operator (custom snooty.toml) - autocomplete
+
+      .. io-code-block:: 
+         :copyable: true 
+
+         .. input::
+            :language: shell 
+
+            QUERY_EMBEDDING.length
+
+         .. output:: 
+            :language: shell 
+
+            1536
+
