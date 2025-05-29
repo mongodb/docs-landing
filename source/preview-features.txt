@@ -1,0 +1,48 @@
+:template: landing
+:hidefeedback: page
+:nav-show-all-products: true
+:title: Preview Program Features
+:orphan:
+
+================
+Preview Features
+================
+
+.. include:: /includes/docs-toc.rst
+
+.. meta::
+   :description: Learn about the features and limitations of public and private preview programs 
+
+.. image:: /images/homepage-hero.svg
+   :class: hero-img
+   :alt: Homepage illustration
+
+Overview
+~~~~~~~~
+
+Products and features that we offer as private or public previews, or any other
+type of beta stage, are designed for internal evaluation by our end users. Use these
+experimental features in isolated development environments only, never in production
+systems or with critical data.
+
+Preview Considerations
+~~~~~~~~~~~~~~~~~~~~~~
+
+Preview and other beta-stage offerings have the following technical limitations:
+
+- Preview features are not production ready.
+
+- Features may contain bugs, errors, or defects.
+
+- You might see unexpected or undesired results in production environments,
+  such as data loss and other operational disruptions.
+
+These offerings have the following support and security limitations:
+
+- Preview features are not covered by standard support channels or uptime SLAs.
+
+- Features might not be subject to MongoDB's regular security and compliance frameworks.
+
+MongoDB might modify or terminate preview offerings at any time. If we change or
+end-of-life one of these offerings, we do our best to notify users beforehand
+but do not guarantee a pre-announcement.
