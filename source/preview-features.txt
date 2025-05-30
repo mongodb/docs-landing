@@ -1,7 +1,7 @@
 :template: landing
 :hidefeedback: page
 :nav-show-all-products: true
-:title: Preview Program Features
+:title: Preview Features
 :orphan:
 
 ================
@@ -22,8 +22,8 @@ Overview
 
 Products and features that we offer as private or public previews, or any other
 type of beta stage, are designed for internal evaluation by our end users. Use these
-experimental features in isolated development environments only, never in production
-systems or with critical data.
+experimental features in isolated development environments only, and never use them
+in production systems or with critical data.
 
 Preview Considerations
 ~~~~~~~~~~~~~~~~~~~~~~
