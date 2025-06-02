@@ -1,4 +1,4 @@
-:hidefeedback: page
+:hidefeedback:
 :nav-show-all-products: true
 :title: Preview Features
 :noprevnext:
