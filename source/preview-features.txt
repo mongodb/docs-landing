@@ -1,4 +1,3 @@
-:template: product-landing
 :hidefeedback: page
 :nav-show-all-products: true
 :title: Preview Features
