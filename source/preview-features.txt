@@ -13,35 +13,31 @@ Preview Features
 .. meta::
    :description: Learn about the features and limitations of public and private preview programs 
 
-.. image:: /images/homepage-hero.svg
-   :class: hero-img
-   :alt: Homepage illustration
+Products and features that we offer as private or public previews (or any other
+type of beta stage) are only for internal evaluation by our end users. Use these
+experimental features in isolated development environments only, never in
+production systems or with critical data.
 
-Overview
-~~~~~~~~
+Technical Considerations
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-Products and features that we offer as private or public previews, or any other
-type of beta stage, are designed for internal evaluation by our end users. Use these
-experimental features in isolated development environments only, and never use them
-in production systems or with critical data.
+Preview and other beta-stage offerings:
 
-Preview Considerations
-~~~~~~~~~~~~~~~~~~~~~~
+- Are not production-ready
 
-Preview and other beta-stage offerings have the following technical limitations:
+- May contain bugs, errors, or defects
 
-- Preview features are not production ready.
+- In production environments, could potentially lead to unexpected or
+  undesired results like data loss and other operational disruptions
 
-- Features may contain bugs, errors, or defects.
+Other Considerations
+~~~~~~~~~~~~~~~~~~~~
 
-- You might see unexpected or undesired results in production environments,
-  such as data loss and other operational disruptions.
+Preview and other beta-stage offerings:
 
-These offerings have the following support and security limitations:
+- Are not covered by MongoDB's standard support channels or uptime SLAs
 
-- Preview features are not covered by standard support channels or uptime SLAs.
-
-- Features might not be subject to MongoDB's regular security and compliance frameworks.
+- May not be subject to MongoDB's regular security and compliance frameworks
 
 MongoDB might modify or terminate preview offerings at any time. If we change or
 end-of-life one of these offerings, we do our best to notify users beforehand
