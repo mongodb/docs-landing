@@ -1,4 +1,4 @@
-:template: landing
+:template: blank
 :hidefeedback: page
 :nav-show-all-products: true
 :title: Preview Features
