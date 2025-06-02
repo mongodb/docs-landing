@@ -1,4 +1,5 @@
 :orphan:
+:template: landing
 :hidefeedback: page
 :title: Preview Features
 :noprevnext:
