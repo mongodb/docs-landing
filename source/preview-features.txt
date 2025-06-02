@@ -1,8 +1,8 @@
-:hidefeedback:
+:orphan:
+:hidefeedback: page
 :nav-show-all-products: true
 :title: Preview Features
 :noprevnext:
-:orphan:
 
 ================
 Preview Features
