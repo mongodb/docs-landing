@@ -1,5 +1,5 @@
 :template: landing
-:hidefeedback: page
+:hidefeedback: true
 :nav-show-all-products: true
 :title: MongoDB Documentation Homepage
 

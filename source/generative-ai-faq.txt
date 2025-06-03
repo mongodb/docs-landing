@@ -33,8 +33,9 @@ objects. With MongoDB for VS Code, the MongoDB Github Copilot
 participant allows developers to generate MongoDB-related code more
 efficiently through Github Copilot Chat.
 
-We also offer a GenAI chatbot within our `MongoDB Documentation <https://www.mongodb.com/docs/>`__,
+We also offer a MongoDB AI Chatbot within our `MongoDB Documentation <https://www.mongodb.com/docs/>`__,
 `MongoDB University <https://learn.mongodb.com/>`__, and on the `MongoDB <https://www.mongodb.com/>`__ homepage.
+To learn more, see the :ref:`MongoDB AI Chatbot documentation <ai-chatbot-data-usage-ref>`.
 
 What Services Do These GenAI Features Rely On?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

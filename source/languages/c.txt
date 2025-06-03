@@ -1,5 +1,5 @@
 :template: product-landing
-:hidefeedback: header
+:hidefeedback: true
 :pl-max-width-paragraphs:
 :noprevnext:
 
