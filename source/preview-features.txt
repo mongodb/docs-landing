@@ -1,5 +1,5 @@
 :orphan:
-:hidefeedback: true
+:hidefeedback: page
 :title: Preview Features
 :noprevnext:
 
