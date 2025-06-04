@@ -1,5 +1,5 @@
 :template: landing
-:hidefeedback: true
+:hidefeedback: page
 :nav-show-all-products: true
 :title: Generative AI FAQs
 :orphan:
