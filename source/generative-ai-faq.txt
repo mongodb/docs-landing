@@ -46,7 +46,7 @@ MongoDB's current GenAI features are powered by `Azure OpenAI
 with the exception of the participant within MongoDB for VS Code, which
 is powered by Github Copilot. When you use these features, your data is
 processed in Microsoft Azure's OpenAI service or Github Copilot.
- **No data processed by these services is used to train those third-party models.**
+**No data processed by these services is used to train those third-party models.**
 
 MongoDB has opted out of asynchronous `Abuse Monitoring
 <https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__,
