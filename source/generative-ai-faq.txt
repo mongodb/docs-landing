@@ -36,7 +36,7 @@ Github Copilot Chat.
 
 We also offer a GenAAI Chatbot within our `MongoDB Documentation <https://www.mongodb.com/docs/>`__
 and across various other MongoDB properties. For more information, refer
-to our :ref:`MongoDB AI Chatbot <ai-chatbot-data-usage-ref>` Documentation..
+to our :ref:`MongoDB AI Chatbot <ai-chatbot-data-usage-ref>` Documentation.
 
 What Services Do These GenAI Features Rely On?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
