@@ -1,6 +1,6 @@
 .. _ai-chatbot-data-usage-ref:
 
-:hidefeedback: true
+:hidefeedback: page
 :orphan:
 
 =============================================
