@@ -67,6 +67,7 @@ Integrations
       :headline: Warp
       :url: https://github.com/seanmonstar/warp
       :icon: /images/icons/Rust.png
+      :icon-dark: /images/icons/Rust-dark.png
       :icon-alt: Rust logo
 
 To view examples that use the Rust driver with each of the preceding
