@@ -40,7 +40,7 @@ Integrations
 
    .. card::
       :headline: Rocket
-      :url: https://rocket.rs/
+      :url: https://github.com/rwf2/Rocket
       :icon: /images/icons/Rocket.png
       :icon-alt: Rocket logo
 
