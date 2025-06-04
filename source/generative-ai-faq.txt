@@ -34,7 +34,9 @@ With MongoDB for VS Code, the `MongoDB Extension for Github Copilot <https://www
 participant allows developers to generate MongoDB-related code more efficiently through
 Github Copilot Chat.
 
-We also offer a MongoDB AI Chatbot within our `MongoDB Documentation <https://www.mongodb.com/docs/>`__ and across various other MongoDB properties. For more information, refer to the :ref:`MongoDB AI Chatbot documentation <ai-chatbot-data-usage-ref>`.
+We also offer a GenAAI Chatbot within our `MongoDB Documentation <https://www.mongodb.com/docs/>`__
+and across various other MongoDB properties. For more information, refer
+to our :ref:`MongoDB AI Chatbot <ai-chatbot-data-usage-ref>` Documentation..
 
 What Services Do These GenAI Features Rely On?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,11 +45,12 @@ MongoDB's current GenAI features are powered by `Azure OpenAI
 <https://azure.microsoft.com/en-us/products/ai-services/openai-service>`__,
 with the exception of the participant within MongoDB for VS Code, which
 is powered by Github Copilot. When you use these features, your data is
-processed in Microsoft Azure using the Azure OpenAI service or Github Copilot.
+processed in Microsoft Azure's OpenAI service or Github Copilot.
  **No data processed by these services is used to train those third-party models.**
 
 MongoDB has opted out of asynchronous `Abuse Monitoring
-<https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__, meaning no prompts or responses are stored with Azure OpenAI. For more
+<https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring>`__,
+meaning no prompts or responses are stored with Azure OpenAI. For more
 details, refer to `Azure OpenAI's data management practices
 <https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy>`__.
 For information about how Github Copilot processes data,
@@ -56,9 +59,9 @@ please refer to the `Github Trust Center <https://copilot.github.trust.page>`__.
 What Data Is Sent To The Model?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Each MongoDB tool backed by GenAI sends the minimal required information
+Each MongoDB tool backed by GenAI sends only the minimal required information
 to produce the best possible answer. For more specifics about the data
-transferred by  each tool, please refer to our Documentation:
+transferred by each tool, please refer to our Documentation:
 
 - `Compass <https://dochub.mongodb.org/core/compass-ai-data-usage>`__
 - `Atlas Charts <https://dochub.mongodb.org/core/charts-ai-data-usage>`__
@@ -98,7 +101,8 @@ please consult the Documentation for each Atlas feature:
 - `Data Explorer <https://www.mongodb.com/docs/atlas/atlas-ui/>`__
 - `Atlas Charts <https://dochub.mongodb.org/core/charts-ai-data-usage>`__
 
-GenAI capabilities offered in our on-premise Relational Migrator and Compass software can be disabled from within that product: 
+GenAI capabilities offered in our on-premise Relational Migrator and Compass
+software can be disabled from within that product: 
 
 - `Relational Migrator <https://dochub.mongodb.org/core/migrator-ai-data-usage>`__
 - `MongoDB Compass <https://dochub.mongodb.org/core/compass-ai-data-usage>`__
