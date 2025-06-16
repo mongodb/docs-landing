@@ -27,16 +27,10 @@ MongoDB with Python
 Driver
 ------
 
-.. card-group::
-   :columns: 2
+Provides a synchronous and asynchronous API for working with MongoDB databases consistent with
+other MongoDB language drivers.
 
-   .. card::
-      :headline: PyMongo
-      :url: https://www.mongodb.com/docs/languages/python/pymongo-driver/current/
-      :icon: /images/icons/python.svg
-      :icon-alt: Driver card icon
-
-      Provides a synchronous API for working with MongoDB databases consistent with other MongoDB language drivers.
+`PyMongo Documentation → <https://www.mongodb.com/docs/languages/python/pymongo-driver/current/>`__
 
 Frameworks
 ----------
